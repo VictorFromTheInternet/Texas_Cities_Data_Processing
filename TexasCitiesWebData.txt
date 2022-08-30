@@ -1,0 +1,1220 @@
+City		2010		2020		Pop Change
+Abernathy		2805		2865		0.02
+Abilene		117063		125182		0.07
+Ackerly		220		264		0.20
+Addison		13056		16661		0.28
+Adrian		166		128		-0.23
+Agua Dulce		812		685		-0.16
+Alamo		18353		19493		0.06
+Alamo Heights		7031		7357		0.05
+Alba		504		473		-0.06
+Albany		2034		1854		-0.09
+Aledo		2716		4858		0.79
+Alice		19104		17891		-0.06
+Allen		84246		104627		0.24
+Alma		331		373		0.13
+Alpine		5905		6035		0.02
+Alto		1225		1027		-0.16
+Alton		12341		18198		0.47
+Alvarado		3785		4739		0.25
+Alvin		24236		27098		0.12
+Alvord		1334		1351		0.01
+Amarillo		190695		200393		0.05
+Ames		1003		937		-0.07
+Amherst		721		678		-0.06
+Anahuac		2243		1980		-0.12
+Anderson		222		193		-0.13
+Andrews		11088		13487		0.22
+Angleton		18862		19429		0.03
+Angus		414		444		0.07
+Anna		8249		16896		1.05
+Annetta		1288		3041		1.36
+Annetta North		518		554		0.07
+Annetta South		526		621		0.18
+Annona		315		184		-0.42
+Anson		2430		2294		-0.06
+Anthony		5011		3671		-0.27
+Anton		1126		907		-0.19
+Appleby		474		552		0.16
+Aquilla		109		101		-0.07
+Aransas Pass		8204		7941		-0.03
+Archer City		1834		1601		-0.13
+Arcola		1642		2034		0.24
+Argyle		3282		4403		0.34
+Arlington		365438		394266		0.08
+Arp		970		892		-0.08
+Asherton		1084		722		-0.33
+Aspermont		919		789		-0.14
+Athens		12710		12857		0.01
+Atlanta		5675		5433		-0.04
+Aubrey		2595		5006		0.93
+Aurora		1220		1390		0.14
+Austin		790390		961855		0.22
+Austwell		147		118		-0.20
+Avery		482		421		-0.13
+Avinger		444		371		-0.16
+Azle		10947		13369		0.22
+Bailey		289		220		-0.24
+Bailey's Prairie		727		775		0.07
+Baird		1496		1479		-0.01
+Balch Springs		23728		27685		0.17
+Balcones Heights		2941		2746		-0.07
+Ballinger		3767		3619		-0.04
+Balmorhea		479		408		-0.15
+Bandera		857		829		-0.03
+Bangs		1603		1540		-0.04
+Bardwell		649		625		-0.04
+Barry		242		220		-0.09
+Barstow		349		265		-0.24
+Bartlett		1623		1633		0.01
+Bartonville		1469		1725		0.17
+Bastrop		7218		9688		0.34
+Bay City		17614		18061		0.03
+Bayou Vista		1537		1763		0.15
+Bayside		325		275		-0.15
+Baytown		71802		83701		0.17
+Bayview		383		475		0.24
+Beach City		2198		3221		0.47
+Bear Creek		382		397		0.04
+Beasley		641		608		-0.05
+Beaumont		118296		115282		-0.03
+Beckville		847		722		-0.15
+Bedford		46979		49928		0.06
+Bedias		443		361		-0.19
+Bee Cave		3925		9144		1.33
+Beeville		12863		13669		0.06
+Bellaire		16855		17202		0.02
+Bellevue		362		289		-0.20
+Bellmead		9901		10494		0.06
+Bells		1392		1521		0.09
+Bellville		4097		4206		0.03
+Belton		18216		23054		0.27
+Benavides		1362		1183		-0.13
+Benbrook		21234		24520		0.15
+Benjamin		258		196		-0.24
+Berryville		975		824		-0.15
+Bertram		1353		1616		0.19
+Beverly Hills		1995		1878		-0.06
+Bevil Oaks		1274		1089		-0.15
+Big Lake		2936		2965		0.01
+Big Sandy		1343		1231		-0.08
+Big Spring		27282		26144		-0.04
+Big Wells		697		483		-0.31
+Bishop		3134		3174		0.01
+Bishop Hills		193		211		0.09
+Blackwell		311		258		-0.17
+Blanco		1739		1682		-0.03
+Blanket		390		369		-0.05
+Bloomburg		404		321		-0.21
+Blooming Grove		821		857		0.04
+Blossom		1494		1402		-0.06
+Blue Mound		2394		2393		0.00
+Blue Ridge		822		1180		0.44
+Blum		444		383		-0.14
+Boerne		10471		17850		0.70
+Bogata		1153		1074		-0.07
+Bonham		10127		10408		0.03
+Bonney		310		180		-0.42
+Booker		1516		1437		-0.05
+Borger		13251		12551		-0.05
+Bovina		1868		1699		-0.09
+Bowie		5218		5448		0.04
+Boyd		1207		1416		0.17
+Brackettville		1688		1341		-0.21
+Brady		5528		5118		-0.07
+Brazoria		3019		2866		-0.05
+Brazos Bend		305		380		0.25
+Brazos Country		469		514		0.10
+Breckenridge		5780		5187		-0.10
+Bremond		929		858		-0.08
+Brenham		15716		17369		0.11
+Briarcliff		1438		2062		0.43
+Briaroaks		492		507		0.03
+Bridge City		7840		9546		0.22
+Bridgeport		5976		5923		-0.01
+Broaddus		207		184		-0.11
+Bronte		999		933		-0.07
+Brookshire		4702		5066		0.08
+Brookside Village		1523		1548		0.02
+Browndell		197		160		-0.19
+Brownfield		9657		8936		-0.07
+Brownsboro		1039		1212		0.17
+Brownsville		175023		186738		0.07
+Brownwood		19288		18862		-0.02
+Bruceville-Eddy		1475		1413		-0.04
+Bryan		76201		83980		0.10
+Bryson		539		430		-0.20
+Buckholts		515		365		-0.29
+Buda		7295		15108		1.07
+Buffalo		1856		1767		-0.05
+Buffalo Gap		464		543		0.17
+Buffalo Springs		453		468		0.03
+Bullard		2463		3318		0.35
+Bulverde		4630		5692		0.23
+Bunker Hill Village		3633		3822		0.05
+Burkburnett		10811		10939		0.01
+Burke		737		691		-0.06
+Burleson		36690		47641		0.30
+Burnet		5987		6436		0.07
+Burton		300		297		-0.01
+Byers		496		454		-0.08
+Bynum		199		171		-0.14
+Cactus		3179		3057		-0.04
+Caddo Mills		1338		1495		0.12
+Caldwell		4104		3993		-0.03
+Callisburg		353		321		-0.09
+Calvert		1192		962		-0.19
+Cameron		5552		5306		-0.04
+Campbell		638		542		-0.15
+Camp Wood		706		517		-0.27
+Canadian		2649		2339		-0.12
+Caney City		217		187		-0.14
+Canton		3581		4229		0.18
+Canyon		13303		14836		0.12
+Carbon		272		281		0.03
+Carl's Corner		173		201		0.16
+Carmine		250		244		-0.02
+Carrizo Springs		5368		4892		-0.09
+Carrollton		119097		133434		0.12
+Carthage		6779		6569		-0.03
+Cashion Community		348		286		-0.18
+Castle Hills		4116		3978		-0.03
+Castroville		2680		2954		0.10
+Cedar Hill		45028		49148		0.09
+Cedar Park		48937		77595		0.59
+Celeste		814		809		-0.01
+Celina		6028		16739		1.78
+Center		5193		5221		0.01
+Centerville		892		905		0.01
+Chandler		2734		3275		0.20
+Channing		363		281		-0.23
+Charlotte		1715		1524		-0.11
+Chester		312		270		-0.13
+Chico		1002		946		-0.06
+Childress		6105		5737		-0.06
+Chillicothe		707		549		-0.22
+China		1160		1260		0.09
+China Grove		1179		1141		-0.03
+Chireno		386		370		-0.04
+Christine		390		337		-0.14
+Cibolo		15349		32276		1.10
+Cisco		3899		3883		0.00
+Clarendon		2026		1877		-0.07
+Clarksville		3285		2857		-0.13
+Clarksville City		865		780		-0.10
+Claude		1196		1186		-0.01
+Clear Lake Shores		1063		1258		0.18
+Cleburne		29337		31352		0.07
+Cleveland		7675		7471		-0.03
+Clifton		3442		3465		0.01
+Clint		926		923		0.00
+Clute		11211		10604		-0.05
+Clyde		3713		3811		0.03
+Coahoma		817		945		0.16
+Cockrell Hill		4193		3815		-0.09
+Coffee City		278		249		-0.10
+Coldspring		853		819		-0.04
+Coleman		4709		3912		-0.17
+College Station		93857		120511		0.28
+Colleyville		22807		26057		0.14
+Collinsville		1624		1866		0.15
+Colmesneil		596		542		-0.09
+Colorado City		4146		3991		-0.04
+Columbus		3655		3699		0.01
+Comanche		4335		4211		-0.03
+Combes		2895		2999		0.04
+Combine		1942		2245		0.16
+Commerce		8078		9090		0.13
+Como		702		728		0.04
+Conroe		56207		89956		0.60
+Converse		18198		27466		0.51
+Cool		157		211		0.34
+Coolidge		955		778		-0.19
+Cooper		1969		1911		-0.03
+Coppell		38659		42983		0.11
+Copperas Cove		32032		36670		0.14
+Copper Canyon		1334		1731		0.30
+Corinth		19935		22634		0.14
+Corpus Christi		305215		317863		0.04
+Corrigan		1595		1477		-0.07
+Corsicana		23770		25109		0.06
+Cottonwood		185		181		-0.02
+Cottonwood Shores		1123		1403		0.25
+Cotulla		3603		3718		0.03
+Coupland				289		#DIV/0!
+Cove		510		525		0.03
+Covington		269		261		-0.03
+Coyote Flats				345		#DIV/0!
+Crandall		2858		3860		0.35
+Crane		3353		4675		0.39
+Cranfills Gap		281		277		-0.01
+Crawford		717		887		0.24
+Creedmoor		202		458		1.27
+Cresson		741		1349		0.82
+Crockett		6950		6332		-0.09
+Crosbyton		1741		1492		-0.14
+Cross Plains		982		899		-0.08
+Cross Roads		1563		1744		0.12
+Cross Timber		268		362		0.35
+Crowell		948		769		-0.19
+Crowley		12838		18070		0.41
+Crystal City		7138		6354		-0.11
+Cuero		6841		8128		0.19
+Cumby		777		679		-0.13
+Cuney		140		116		-0.17
+Cushing		612		557		-0.09
+Cut and Shoot		1070		1087		0.02
+Daingerfield		2560		2522		-0.01
+Daisetta		966		923		-0.04
+Dalhart		7930		8447		0.07
+Dallas		1197816		1304379		0.09
+Dalworthington Gardens		2259		2293		0.02
+Danbury		1715		1671		-0.03
+Darrouzett		350		309		-0.12
+Dawson		807		815		0.01
+Dayton		7242		8777		0.21
+Dayton Lakes		93		45		-0.52
+Dean		493		488		-0.01
+Decatur		6042		6538		0.08
+DeCordova		2683		3007		0.12
+Deer Park		32010		34495		0.08
+De Kalb		1699		1527		-0.10
+De Leon		2246		2258		0.01
+Dell City		365		245		-0.33
+Del Rio		35591		34673		-0.03
+Denison		22682		24479		0.08
+Denton		113383		139869		0.23
+Denver City		4479		4470		0.00
+Deport		578		550		-0.05
+DeSoto		49047		56145		0.14
+Detroit		732		704		-0.04
+Devers		447		361		-0.19
+Devine		4350		4324		-0.01
+Diboll		4776		4457		-0.07
+Dickens		286		219		-0.23
+Dickinson		18680		20847		0.12
+Dilley		3894		3274		-0.16
+Dimmitt		4393		4171		-0.05
+DISH		201		437		1.17
+Dodd City		369		369		0.00
+Dodson		109		93		-0.15
+Domino		93		71		-0.24
+Donna		15798		16797		0.06
+Dorchester		148		69		-0.53
+Double Oak		2867		3054		0.07
+Douglassville		229		211		-0.08
+Draper		27		33		0.22
+Dripping Springs		1788		4650		1.60
+Driscoll		739		680		-0.08
+Dublin		3654		3359		-0.08
+Dumas		14691		14501		-0.01
+Duncanville		38524		40706		0.06
+Eagle Lake		3639		3442		-0.05
+Eagle Pass		26248		28130		0.07
+Early		2762		3087		0.12
+Earth		1065		901		-0.15
+East Bernard		2272		2218		-0.02
+Eastland		3960		3609		-0.09
+East Mountain		797		899		0.13
+Easton		510		499		-0.02
+East Tawakoni		883		824		-0.07
+Ector		695		737		0.06
+Edcouch		3161		2732		-0.14
+Eden		2766		1100		-0.60
+Edgecliff Village		2776		3788		0.36
+Edgewood		1441		1530		0.06
+Edinburg		77100		100243		0.30
+Edmonson		111		86		-0.23
+Edna		5499		5987		0.09
+Edom		375		339		-0.10
+El Campo		11602		12350		0.06
+El Cenizo		3273		2540		-0.22
+Eldorado		1951		1574		-0.19
+Electra		2791		2292		-0.18
+Elgin		8135		9784		0.20
+Elkhart		1371		1287		-0.06
+El Lago		2706		3090		0.14
+Elmendorf		1488		1862		0.25
+El Paso		649121		678815		0.05
+Elsa		5660		5668		0.00
+Emhouse		133		187		0.41
+Emory		1239		1251		0.01
+Enchanted Oaks		326		347		0.06
+Encinal		559		540		-0.03
+Ennis		18513		20159		0.09
+Escobares		1188		2588		1.18
+Estelline		145		121		-0.17
+Euless		51277		61032		0.19
+Eureka		307		313		0.02
+Eustace		991		1137		0.15
+Evant		426		455		0.07
+Everman		6108		6154		0.01
+Fairchilds		763		864		0.13
+Fairfield		2951		2850		-0.03
+Fair Oaks Ranch		5986		9833		0.64
+Fairview		7248		10372		0.43
+Falfurrias		4981		4609		-0.07
+Falls City		611		514		-0.16
+Farmers Branch		28616		35991		0.26
+Farmersville		3301		10397		2.15
+Farwell		1363		1425		0.05
+Fate		6357		17958		1.82
+Fayetteville		258		246		-0.05
+Ferris		2436		2788		0.14
+Flatonia		1383		1308		-0.05
+Florence		1136		1171		0.03
+Floresville		6448		7203		0.12
+Flower Mound		64669		75956		0.17
+Floydada		3038		2675		-0.12
+Follett		459		373		-0.19
+Forest Hill		12355		13955		0.13
+Forney		14661		23455		0.60
+Forsan		210		225		0.07
+Fort Stockton		8283		8466		0.02
+Fort Worth		741206		918915		0.24
+Franklin		1564		1614		0.03
+Frankston		1229		1126		-0.08
+Fredericksburg		10530		10875		0.03
+Freeport		12049		10696		-0.11
+Freer		2818		2461		-0.13
+Friendswood		35805		41213		0.15
+Friona		4123		4171		0.01
+Frisco		116989		200509		0.71
+Fritch		2117		1859		-0.12
+Frost		643		620		-0.04
+Fruitvale		408		476		0.17
+Fulshear		1134		16856		13.86
+Fulton		1358		1523		0.12
+Gainesville		16002		16886		0.06
+Galena Park		10887		10757		-0.01
+Gallatin		419		434		0.04
+Galveston		47743		50446		0.06
+Ganado		2003		2055		0.03
+Garden Ridge		3259		4130		0.27
+Garland		226876		239928		0.06
+Garrett		806		892		0.11
+Garrison		895		873		-0.02
+Gary City		311		300		-0.04
+Gatesville		15751		12401		-0.21
+Georgetown		47400		79604		0.68
+George West		2445		2562		0.05
+Gholson		1061		1118		0.05
+Giddings		4881		5099		0.04
+Gilmer		4905		5143		0.05
+Gladewater		6441		6341		-0.02
+Glenn Heights		11278		13377		0.19
+Glen Rose		2444		2699		0.10
+Godley		1009		1373		0.36
+Goldsmith		257		294		0.14
+Goldthwaite		1878		1833		-0.02
+Goliad		1908		2004		0.05
+Golinda		559		589		0.05
+Gonzales		7237		7533		0.04
+Goodlow		200		198		-0.01
+Goodrich		271		323		0.19
+Gordon		478		486		0.02
+Goree		203		203		0.00
+Gorman		1083		1035		-0.04
+Graford		584		627		0.07
+Graham		8903		8622		-0.03
+Granbury		7978		10730		0.34
+Grandfalls		360		403		0.12
+Grand Prairie		175396		194543		0.11
+Grand Saline		3136		3173		0.01
+Grandview		1561		1798		0.15
+Granger		1419		1505		0.06
+Granite Shoals		4910		5087		0.04
+Granjeno		293		315		0.08
+Grapeland		1489		1443		-0.03
+Grapevine		46334		55281		0.19
+Grays Prairie		337		372		0.10
+Greenville		25557		28827		0.13
+Gregory		1907		1886		-0.01
+Grey Forest		483		564		0.17
+Groesbeck		4328		4253		-0.02
+Groom		574		550		-0.04
+Groves		16144		15480		-0.04
+Groveton		1057		1023		-0.03
+Gruver		1194		1135		-0.05
+Gun Barrel City		5672		6208		0.09
+Gunter		1498		1675		0.12
+Gustine		476		468		-0.02
+Hackberry		968		1077		0.11
+Hale Center		2252		2054		-0.09
+Hallettsville		2550		2637		0.03
+Hallsburg		507		468		-0.08
+Hallsville		3577		4296		0.20
+Haltom City		42409		43874		0.03
+Hamilton		3095		3012		-0.03
+Hamlin		2124		2021		-0.05
+Happy		678		668		-0.01
+Hardin		819		935		0.14
+Harker Heights		26700		32421		0.21
+Harlingen		64849		65022		0.00
+Hart		1114		1020		-0.08
+Haskell		3322		3153		-0.05
+Haslet		1517		1923		0.27
+Hawk Cove		483		557		0.15
+Hawkins		1278		1321		0.03
+Hawley		634		623		-0.02
+Hays		217		269		0.24
+Hearne		4459		4354		-0.02
+Heath		6921		9331		0.35
+Hebron		415		215		-0.48
+Hedley		329		289		-0.12
+Hedwig Village		2557		2634		0.03
+Helotes		7341		9961		0.36
+Hemphill		1198		1244		0.04
+Hempstead		5770		8355		0.45
+Henderson		13712		13154		-0.04
+Henrietta		3141		3118		-0.01
+Hereford		15370		14622		-0.05
+Hewitt		13549		14937		0.10
+Hickory Creek		3247		4795		0.48
+Hico		1379		1413		0.02
+Hidalgo		11198		14183		0.27
+Hideaway		3083		3174		0.03
+Higgins		397		391		-0.02
+Highland Haven		431		443		0.03
+Highland Park		8564		9083		0.06
+Highland Village		15056		16668		0.11
+Hill Country Village		985		1114		0.13
+Hillcrest		730		712		-0.02
+Hillsboro		8456		8476		0.00
+Hilshire Village		746		808		0.08
+Hitchcock		6961		7914		0.14
+Holiday Lakes		1107		1250		0.13
+Holland		1121		1171		0.04
+Holliday		1758		1670		-0.05
+Hollywood Park		3062		3342		0.09
+Hondo		8803		9436		0.07
+Honey Grove		1668		1737		0.04
+Hooks		2769		2712		-0.02
+Horizon City		16735		19642		0.17
+Horseshoe Bay		3418		4024		0.18
+Houston		2099451		2320268		0.11
+Howardwick		402		393		-0.02
+Howe		2600		3346		0.29
+Hubbard		1423		1406		-0.01
+Hudson		4731		5005		0.06
+Hudson Oaks		1662		2479		0.49
+Hughes Springs		1760		1709		-0.03
+Humble		15133		15824		0.05
+Hunters Creek Village		4367		4869		0.11
+Huntington		2118		2111		0.00
+Huntsville		38548		42241		0.10
+Hurst		37337		38655		0.04
+Hutchins		5338		5866		0.10
+Hutto		14698		27947		0.90
+Huxley		385		382		-0.01
+Idalou		2250		2308		0.03
+Impact		35		30		-0.14
+Indian Lake		640		854		0.33
+Industry		304		325		0.07
+Ingleside		9387		10192		0.09
+Ingleside on the Bay		615		607		-0.01
+Ingram		1804		1850		0.03
+Iola		401		424		0.06
+Iowa Colony		1170		3233		1.76
+Iowa Park		6355		6339		0.00
+Iraan		1229		1222		-0.01
+Iredell		339		342		0.01
+Irving		216290		239798		0.11
+Italy		1863		1923		0.03
+Itasca		1644		1733		0.05
+Ivanhoe		887		1436		0.62
+Jacinto City		10553		10466		-0.01
+Jacksboro		4511		4384		-0.03
+Jacksonville		14544		14815		0.02
+Jamaica Beach		983		1079		0.10
+Jarrell		984		1832		0.86
+Jasper		7590		7551		-0.01
+Jayton		534		502		-0.06
+Jefferson		2106		1915		-0.09
+Jersey Village		7620		7890		0.04
+Jewett		1167		1220		0.05
+Joaquin		824		805		-0.02
+Johnson City		1656		2131		0.29
+Jolly		172		163		-0.05
+Jones Creek		2020		2077		0.03
+Jonestown		1834		2105		0.15
+Josephine		812		2094		1.58
+Joshua		5910		8101		0.37
+Jourdanton		3871		4405		0.14
+Junction		2574		2404		-0.07
+Justin		3246		4279		0.32
+Karnes City		3042		3383		0.11
+Katy		14102		21729		0.54
+Kaufman		6703		7788		0.16
+Keene		6106		6568		0.08
+Keller		39627		47213		0.19
+Kemah		1773		2019		0.14
+Kemp		1154		1236		0.07
+Kempner		1089		1140		0.05
+Kendleton		380		454		0.19
+Kenedy		3296		3353		0.02
+Kenefick		563		693		0.23
+Kennard		337		325		-0.04
+Kennedale		6763		8645		0.28
+Kerens		1573		1523		-0.03
+Kermit		5708		6486		0.14
+Kerrville		22347		23754		0.06
+Kilgore		12975		14852		0.14
+Killeen		127921		151666		0.19
+Kingsbury				133		#DIV/0!
+Kingsville		26213		25315		-0.03
+Kirby		8000		8723		0.09
+Kirbyville		2142		2069		-0.03
+Kirvin		129		131		0.02
+Knollwood		226		489		1.16
+Knox City		1130		1119		-0.01
+Kosse		464		466		0.00
+Kountze		2123		2108		-0.01
+Kress		715		681		-0.05
+Krugerville		1662		1836		0.10
+Krum		4157		5018		0.21
+Kurten		398		409		0.03
+Kyle		28016		48393		0.73
+LaCoste		1119		1247		0.11
+Lacy-Lakeview		6489		6721		0.04
+Ladonia		612		627		0.02
+La Feria		7302		7230		-0.01
+Lago Vista		6041		7556		0.25
+La Grange		4641		4677		0.01
+La Grulla		1622		1701		0.05
+Laguna Vista		3117		3180		0.02
+La Joya		3985		4293		0.08
+Lake Bridgeport		340		399		0.17
+Lake City		509		531		0.04
+Lake Dallas		7105		8063		0.13
+Lake Jackson		26849		27220		0.01
+Lakeport		974		996		0.02
+Lakeside		312		303		-0.03
+Lakeside		1307		1593		0.22
+Lakeside City		997		957		-0.04
+Lake Tanglewood		796		886		0.11
+Lakeview		107		95		-0.11
+Lakeway		11391		15981		0.40
+Lakewood Village		545		964		0.77
+Lake Worth		4584		4896		0.07
+La Marque		14509		17319		0.19
+Lamesa		9422		9147		-0.03
+Lampasas		6681		7982		0.19
+Lancaster		36361		39228		0.08
+La Porte		33800		34976		0.03
+Laredo		236091		262491		0.11
+Latexo		322		314		-0.02
+La Vernia		1034		1428		0.38
+La Villa		1957		2870		0.47
+Lavon		2219		3724		0.68
+La Ward		213		224		0.05
+Lawn		314		321		0.02
+League City		83560		107536		0.29
+Leakey		425		438		0.03
+Leander		26521		62608		1.36
+Leary		495		502		0.01
+Lefors		497		480		-0.03
+Leona		175		180		0.03
+Leonard		1990		2054		0.03
+Leon Valley		10151		12306		0.21
+Leroy		337		346		0.03
+Levelland		13542		13502		0.00
+Lewisville		95290		109212		0.15
+Lexington		1177		1222		0.04
+Liberty		8397		9314		0.11
+Liberty Hill		967		2931		2.03
+Lincoln Park		308		558		0.81
+Lindale		4818		6464		0.34
+Linden		1988		1915		-0.04
+Lindsay		1018		1149		0.13
+Lipan		430		488		0.13
+Little Elm		25898		53126		1.05
+Littlefield		6372		5843		-0.08
+Little River-Academy		1961		2038		0.04
+Live Oak		13131		16499		0.26
+Liverpool		482		551		0.14
+Livingston		5335		5242		-0.02
+Llano		3232		3497		0.08
+Lockhart		12698		14133		0.11
+Lockney		1842		1631		-0.11
+Log Cabin		714		772		0.08
+Lometa		856		861		0.01
+Lone Oak		598		692		0.16
+Lone Star		1581		1482		-0.06
+Longview		80455		81631		0.01
+Loraine		602		564		-0.06
+Lorena		1691		1755		0.04
+Lorenzo		1147		1138		-0.01
+Los Fresnos		5542		7837		0.41
+Los Indios		1083		1060		-0.02
+Los Ybanez		19		19		0.00
+Lott		759		742		-0.02
+Lovelady		649		627		-0.03
+Lowry Crossing		1711		1727		0.01
+Lubbock		229573		258862		0.13
+Lucas		5166		8553		0.66
+Lueders		346		333		-0.04
+Lufkin		35067		35021		0.00
+Luling		5411		5869		0.08
+Lumberton		11943		13073		0.09
+Lyford		2611		2540		-0.03
+Lytle		2492		3066		0.23
+Mabank		3035		3995		0.32
+McAllen		129877		143268		0.10
+McCamey		1887		2060		0.09
+McGregor		4987		5331		0.07
+McKinney		131117		199177		0.52
+McLean		778		744		-0.04
+McLendon-Chisholm		1373		3455		1.52
+Madisonville		4396		4685		0.07
+Magnolia		1393		2093		0.50
+Malakoff		2324		2301		-0.01
+Malone		269		283		0.05
+Manor		5037		13866		1.75
+Mansfield		56368		72419		0.28
+Manvel		5179		12671		1.45
+Marble Falls		6077		7038		0.16
+Marfa		1981		1625		-0.18
+Marietta		134		129		-0.04
+Marion		1066		1241		0.16
+Marlin		5967		5581		-0.06
+Marquez		263		274		0.04
+Marshall		23523		22831		-0.03
+Mart		2209		1963		-0.11
+Martindale		1116		1231		0.10
+Mason		2114		2305		0.09
+Matador		607		611		0.01
+Mathis		4942		4715		-0.05
+Maud		1056		1042		-0.01
+Maypearl		934		1032		0.10
+Meadow		593		585		-0.01
+Meadowlakes		1777		1703		-0.04
+Meadows Place		4660		4591		-0.01
+Megargel		203		188		-0.07
+Melissa		4695		12117		1.58
+Melvin		178		168		-0.06
+Memphis		2290		2012		-0.12
+Menard		1471		1404		-0.05
+Mercedes		15570		16604		0.07
+Meridian		1493		1515		0.01
+Merkel		2590		2617		0.01
+Mertens		125		128		0.02
+Mertzon		781		743		-0.05
+Mesquite		139824		140937		0.01
+Mexia		7459		7344		-0.02
+Miami		597		550		-0.08
+Midland		111147		146038		0.31
+Midlothian		18037		33532		0.86
+Midway		228		236		0.04
+Milano		428		421		-0.02
+Mildred		368		392		0.07
+Miles		829		872		0.05
+Milford		728		747		0.03
+Miller's Cove		149		160		0.07
+Millican		240		243		0.01
+Millsap		403		461		0.14
+Mineola		4515		4766		0.06
+Mineral Wells		16788		15213		-0.09
+Mingus		235		257		0.09
+Mission		77058		84331		0.09
+Missouri City		67358		75457		0.12
+Mobeetie		101		95		-0.06
+Mobile City		188		210		0.12
+Monahans		6953		7816		0.12
+Mont Belvieu		3835		6574		0.71
+Montgomery		621		1360		1.19
+Moody		1371		1420		0.04
+Moore Station		201		220		0.09
+Moran		270		260		-0.04
+Morgan		490		519		0.06
+Morgan's Point		339		342		0.01
+Morgan's Point Resort		4170		4685		0.12
+Morton		2006		1813		-0.10
+Moulton		886		899		0.01
+Mountain City		648		810		0.25
+Mount Calm		320		339		0.06
+Mount Enterprise		447		436		-0.02
+Mount Pleasant		15564		15978		0.03
+Mount Vernon		2662		2738		0.03
+Muenster		1544		1645		0.07
+Muleshoe		5158		5019		-0.03
+Mullin		179		176		-0.02
+Munday		1300		1275		-0.02
+Murchison		594		599		0.01
+Murphy		17708		20500		0.16
+Mustang		21		21		0.00
+Mustang Ridge		861		981		0.14
+Nacogdoches		32996		32877		0.00
+Naples		1378		1313		-0.05
+Nash		2960		3827		0.29
+Nassau Bay		4002		3972		-0.01
+Natalia		1431		1590		0.11
+Navarro		210		220		0.05
+Navasota		7049		7998		0.13
+Nazareth		311		291		-0.06
+Nederland		17547		17371		-0.01
+Needville		2823		3103		0.10
+Nevada		822		1257		0.53
+Newark		1005		1232		0.23
+New Berlin		511		624		0.22
+New Boston		4550		4609		0.01
+New Braunfels		57740		90209		0.56
+Newcastle		585		573		-0.02
+New Chapel Hill		594		646		0.09
+New Deal		794		827		0.04
+New Fairview		1258		1544		0.23
+New Home		334		363		0.09
+New Hope		614		628		0.02
+New London		998		1014		0.02
+New Summerfield		1111		1170		0.05
+Newton		2478		2370		-0.04
+New Waverly		1032		1071		0.04
+Neylandville		97		97		0.00
+Niederwald		565		599		0.06
+Nixon		2385		2542		0.07
+Nocona		3033		3002		-0.01
+Nolanville		4259		5879		0.38
+Nome		588		595		0.01
+Noonday		777		722		-0.07
+Nordheim		307		303		-0.01
+Normangee		685		706		0.03
+North Cleveland		247		298		0.21
+Northlake		1724		3348		0.94
+North Richland Hills		63343		70670		0.12
+Novice		139		128		-0.08
+Oak Grove		603		669		0.11
+Oak Leaf		1298		1484		0.14
+Oak Point		2786		5762		1.07
+Oak Ridge		141		242		0.72
+Oak Ridge		495		742		0.50
+Oak Ridge North		3049		3161		0.04
+Oak Valley		368		421		0.14
+Oakwood		510		515		0.01
+O'Brien		106		102		-0.04
+Odem		2389		2360		-0.01
+Odessa		99940		123334		0.23
+O'Donnell		831		837		0.01
+Oglesby		484		465		-0.04
+Old River-Winfree		1245		1467		0.18
+Olmos Park		2237		2466		0.10
+Olney		3285		3099		-0.06
+Olton		2215		2060		-0.07
+Omaha		1021		980		-0.04
+Onalaska		1764		2967		0.68
+Opdyke West		174		194		0.11
+Orange		18595		18118		-0.03
+Orange Grove		1318		1302		-0.01
+Orchard		352		407		0.16
+Ore City		1144		1228		0.07
+Overton		2554		2503		-0.02
+Ovilla		3492		4167		0.19
+Oyster Creek		1111		1193		0.07
+Paducah		1186		1094		-0.08
+Paint Rock		273		296		0.08
+Palacios		4718		4535		-0.04
+Palestine		18712		17730		-0.05
+Palisades		325		353		0.09
+Palmer		2000		2123		0.06
+Palmhurst		2607		2732		0.05
+Palm Valley		1304		1240		-0.05
+Palmview		5460		5774		0.06
+Pampa		17994		17068		-0.05
+Panhandle		2452		2312		-0.06
+Panorama Village		2170		2424		0.12
+Pantego		2394		2519		0.05
+Paradise		441		561		0.27
+Paris		25171		24847		-0.01
+Parker		3811		5177		0.36
+Pasadena		149043		151227		0.01
+Pattison		472		620		0.31
+Patton Village		1557		2157		0.39
+Payne Springs		767		769		0.00
+Pearland		91252		122460		0.34
+Pearsall		9146		10609		0.16
+Pecan Gap		203		197		-0.03
+Pecan Hill		626		694		0.11
+Pecos		8780		10461		0.19
+Pelican Bay		1547		2005		0.30
+Penelope		198		207		0.05
+Peñitas		4403		4716		0.07
+Perryton		8802		8512		-0.03
+Petersburg		1202		1132		-0.06
+Petrolia		686		670		-0.02
+Petronila		113		120		0.06
+Pflugerville		46936		65380		0.39
+Pharr		70400		79112		0.12
+Pilot Point		3856		4525		0.17
+Pine Forest		487		519		0.07
+Pinehurst		2097		1976		-0.06
+Pine Island		988		1159		0.17
+Pineland		850		800		-0.06
+Piney Point Village		3125		3444		0.10
+Pittsburg		4497		4697		0.04
+Plains		1481		1655		0.12
+Plainview		22194		20143		-0.09
+Plano		259841		287677		0.11
+Plantersville				594		#DIV/0!
+Pleak		1044		1675		0.60
+Pleasanton		8934		10855		0.22
+Pleasant Valley		336		330		-0.02
+Plum Grove		600		726		0.21
+Point		820		926		0.13
+Point Blank		688		752		0.09
+Point Comfort		737		677		-0.08
+Point Venture		800		1033		0.29
+Ponder		1395		2369		0.70
+Port Aransas		3480		4266		0.23
+Port Arthur		53818		54280		0.01
+Port Isabel		5006		6256		0.25
+Portland		15099		17268		0.14
+Port Lavaca		12248		11854		-0.03
+Port Neches		13040		12655		-0.03
+Post		5376		5115		-0.05
+Post Oak Bend City		595		587		-0.01
+Poteet		3260		3507		0.08
+Poth		1908		2284		0.20
+Pottsboro		2160		2489		0.15
+Powell		136		146		0.07
+Poynor		305		306		0.00
+Prairie View		5576		6953		0.25
+Premont		2653		2543		-0.04
+Presidio		4426		3894		-0.12
+Primera		4070		5130		0.26
+Princeton		6807		13894		1.04
+Progreso		5507		5944		0.08
+Progreso Lakes		240		291		0.21
+Prosper		9423		24579		1.61
+Providence Village				7377		#DIV/0!
+Putnam		94		93		-0.01
+Pyote		114		132		0.16
+Quanah		2641		2487		-0.06
+Queen City		1476		1436		-0.03
+Quinlan		1394		1524		0.09
+Quintana		56		94		0.68
+Quitaque		411		389		-0.05
+Quitman		1809		1849		0.02
+Ralls		1944		1806		-0.07
+Rancho Viejo		2437		2460		0.01
+Ranger		2468		2469		0.00
+Rankin		778		851		0.09
+Ransom Canyon		1096		1124		0.03
+Ravenna		209		225		0.08
+Raymondville		11284		10880		-0.04
+Red Lick		1008		1010		0.00
+Red Oak		10769		13464		0.25
+Redwater		1057		1101		0.04
+Refugio		2890		2734		-0.05
+Reklaw		379		395		0.04
+Reno		3166		3346		0.06
+Reno		2494		3204		0.28
+Retreat		377		384		0.02
+Rhome		1522		1845		0.21
+Rice		923		974		0.06
+Richardson		99223		121323		0.22
+Richland		264		273		0.03
+Richland Hills		7801		7953		0.02
+Richland Springs		338		309		-0.09
+Richmond		11679		12578		0.08
+Richwood		3510		3988		0.14
+Riesel		1007		1037		0.03
+Rio Bravo		4794		4634		-0.03
+Rio Grande City		13834		14511		0.05
+Rio Hondo		2356		2707		0.15
+Rio Vista		873		1075		0.23
+Rising Star		835		821		-0.02
+River Oaks		7427		7630		0.03
+Riverside		510		549		0.08
+Roanoke		5962		9388		0.57
+Roaring Springs		234		231		-0.01
+Robert Lee		1049		1048		0.00
+Robinson		10509		11926		0.13
+Robstown		11487		11261		-0.02
+Roby		643		619		-0.04
+Rochester		324		307		-0.05
+Rockdale		5595		5503		-0.02
+Rockport		8766		10604		0.21
+Rocksprings		1182		1135		-0.04
+Rockwall		37490		45888		0.22
+Rocky Mound		75		75		0.00
+Rogers		1218		1252		0.03
+Rollingwood		1412		1585		0.12
+Roma		9765		11490		0.18
+Roman Forest		1538		2006		0.30
+Ropesville		434		427		-0.02
+Roscoe		1322		1285		-0.03
+Rosebud		1412		1349		-0.04
+Rose City		502		484		-0.04
+Rose Hill Acres		441		436		-0.01
+Rosenberg		30618		38307		0.25
+Ross		283		284		0.00
+Rosser		332		400		0.20
+Rotan		1508		1438		-0.05
+Round Mountain		181		169		-0.07
+Round Rock		99887		133372		0.34
+Round Top		90		90		0.00
+Rowlett		56199		67339		0.20
+Roxton		650		639		-0.02
+Royse City		9349		14702		0.57
+Rule		636		599		-0.06
+Runaway Bay		1286		1576		0.23
+Runge		1031		1138		0.10
+Rusk		5551		5602		0.01
+Sabinal		1695		1673		-0.01
+Sachse		20329		26046		0.28
+Sadler		343		383		0.12
+Saginaw		19806		24310		0.23
+St. Hedwig		2094		2488		0.19
+St. Jo		1043		1030		-0.01
+St. Paul		1066		1051		-0.01
+Salado		2126		2370		0.11
+San Angelo		93200		101004		0.08
+San Antonio		1327407		1547253		0.17
+San Augustine		2108		1888		-0.10
+San Benito		24250		24243		0.00
+Sanctuary		329		321		-0.02
+San Diego		4488		4221		-0.06
+Sandy Oaks				4660		#DIV/0!
+Sandy Point				236		#DIV/0!
+San Elizario				9089		#DIV/0!
+San Felipe		747		825		0.10
+Sanford		164		156		-0.05
+Sanger		6916		8732		0.26
+San Juan		33856		37008		0.09
+San Leanna		497		507		0.02
+San Marcos		44894		64776		0.44
+San Patricio		395		375		-0.05
+San Perlita		573		556		-0.03
+San Saba		3099		3168		0.02
+Sansom Park		4686		5748		0.23
+Santa Anna		1099		1007		-0.08
+Santa Clara		725		751		0.04
+Santa Fe		12222		13449		0.10
+Santa Rosa		2873		2723		-0.05
+Savoy		831		872		0.05
+Schertz		31465		42042		0.34
+Schulenburg		2852		2913		0.02
+Scotland		501		474		-0.05
+Scottsville		376		354		-0.06
+Scurry		681		781		0.15
+Seabrook		11952		14149		0.18
+Seadrift		1364		1493		0.09
+Seagoville		14835		16861		0.14
+Seagraves		2417		2936		0.21
+Sealy		6019		6446		0.07
+Seguin		25175		29992		0.19
+Selma		5540		11132		1.01
+Seminole		6430		7815		0.22
+Seven Oaks		111		129		0.16
+Seven Points		1455		1521		0.05
+Seymour		2740		2550		-0.07
+Shady Shores		2612		2865		0.10
+Shallowater		2484		2574		0.04
+Shamrock		1910		1764		-0.08
+Shavano Park		3035		3979		0.31
+Shenandoah		2134		2987		0.40
+Shepherd		2319		2413		0.04
+Sherman		38521		44002		0.14
+Shiner		2069		2162		0.04
+Shoreacres		1493		1593		0.07
+Silsbee		6611		6617		0.00
+Silverton		731		686		-0.06
+Simonton		814		884		0.09
+Sinton		5665		5354		-0.05
+Skellytown		473		449		-0.05
+Slaton		6121		5890		-0.04
+Smiley		549		570		0.04
+Smithville		3817		4515		0.18
+Smyer		474		478		0.01
+Snook		511		541		0.06
+Snyder		11202		11023		-0.02
+Socorro		32013		34370		0.07
+Somerset		1631		1965		0.20
+Somerville		1376		1465		0.06
+Sonora		3027		2786		-0.08
+Sour Lake		1813		1924		0.06
+South Houston		16983		17438		0.03
+Southlake		26575		32376		0.22
+Southmayd		992		1137		0.15
+South Mountain		384		365		-0.05
+South Padre Island		2816		2778		-0.01
+Southside Place		1715		1883		0.10
+Spearman		3368		3256		-0.03
+Splendora		1615		2255		0.40
+Spofford		95		97		0.02
+Spring Branch				254		#DIV/0!
+Springlake		108		102		-0.06
+Springtown		2658		3190		0.20
+Spring Valley Village		3715		4319		0.16
+Spur		1318		1199		-0.09
+Stafford		17693		17362		-0.02
+Stagecoach		538		592		0.10
+Stamford		3124		2941		-0.06
+Stanton		2492		3000		0.20
+Staples		267		277		0.04
+Star Harbor		444		477		0.07
+Stephenville		17123		21247		0.24
+Sterling City		888		998		0.12
+Stinnett		1881		1770		-0.06
+Stockdale		1442		1649		0.14
+Stratford		2017		2057		0.02
+Strawn		653		671		0.03
+Streetman		247		246		0.00
+Sudan		958		895		-0.07
+Sugar Land		78817		118488		0.50
+Sullivan City		4002		4170		0.04
+Sulphur Springs		15449		16234		0.05
+Sundown		1397		1425		0.02
+Sunnyvale		5130		6841		0.33
+Sunray		1926		1812		-0.06
+Sunrise Beach Village		713		796		0.12
+Sunset Valley		749		672		-0.10
+Sun Valley		69		83		0.20
+Surfside Beach		482		579		0.20
+Sweeny		3684		3717		0.01
+Sweetwater		10906		10469		-0.04
+Taft		3048		2867		-0.06
+Tahoka		2673		2649		-0.01
+Talco		516		497		-0.04
+Talty		1535		2760		0.80
+Tatum		1385		1384		0.00
+Taylor		15191		17383		0.14
+Taylor Lake Village		3544		3571		0.01
+Taylor Landing		228		240		0.05
+Teague		3560		3515		-0.01
+Tehuacana		283		279		-0.01
+Temple		66102		78439		0.19
+Tenaha		1160		1146		-0.01
+Terrell		15816		18869		0.19
+Terrell Hills		4878		5447		0.12
+Texarkana		36411		36317		0.00
+Texas City		45099		50094		0.11
+Texhoma		346		323		-0.07
+Texline		507		539		0.06
+The Colony		36328		44438		0.22
+The Hills		2472		2487		0.01
+Thompsons		246		350		0.42
+Thorndale		1336		1302		-0.03
+Thornton		526		524		0.00
+Thorntonville		476		541		0.14
+Thrall		839		977		0.16
+Three Rivers		1848		1949		0.05
+Throckmorton		828		761		-0.08
+Tiki Island		968		1065		0.10
+Timbercreek Canyon		418		471		0.13
+Timpson		1155		1134		-0.02
+Tioga		803		1051		0.31
+Tira		297		313		0.05
+Toco		75		76		0.01
+Todd Mission		107		114		0.07
+Tolar		681		1004		0.47
+Tomball		10753		11778		0.10
+Tom Bean		1045		1081		0.03
+Tool		2240		2302		0.03
+Toyah		90		108		0.20
+Trent		337		349		0.04
+Trenton		635		683		0.08
+Trinidad		886		870		-0.02
+Trinity		2697		2756		0.02
+Trophy Club		8024		12451		0.55
+Troup		1869		2044		0.09
+Troy		1645		2016		0.23
+Tulia		4967		4655		-0.06
+Turkey		421		378		-0.10
+Tuscola		742		739		0.00
+Tye		1242		1333		0.07
+Tyler		96900		106985		0.10
+Uhland		1014		1294		0.28
+Uncertain		94		92		-0.02
+Union Grove		357		385		0.08
+Union Valley		307		398		0.30
+Universal City		18530		20890		0.13
+University Park		23068		24985		0.08
+Uvalde		15751		16001		0.02
+Valentine		134		133		-0.01
+Valley Mills		1203		1180		-0.02
+Valley View		757		845		0.12
+Van		2632		2741		0.04
+Van Alstyne		3046		4378		0.44
+Van Horn		2063		1870		-0.09
+Vega		884		924		0.05
+Venus		2960		4368		0.48
+Vernon		11002		10323		-0.06
+Victoria		62592		66916		0.07
+Vidor		10579		10403		-0.02
+Vinton		1971		2022		0.03
+Volente		520		599		0.15
+Von Ormy		1085		1287		0.19
+Waco		124805		139236		0.12
+Waelder		1065		1133		0.06
+Wake Village		5492		5327		-0.03
+Waller		2326		3488		0.50
+Wallis		1252		1303		0.04
+Walnut Springs		827		868		0.05
+Warren City		298		305		0.02
+Waskom		2160		2190		0.01
+Watauga		23497		24481		0.04
+Waxahachie		29621		37988		0.28
+Weatherford		25250		33547		0.33
+Webberville		392		485		0.24
+Webster		10400		11451		0.10
+Weimar		2151		2226		0.03
+Weinert		172		162		-0.06
+Weir		450		530		0.18
+Wellington		2189		2068		-0.06
+Wellman		203		203		0.00
+Wells		790		792		0.00
+Weslaco		35670		41629		0.17
+West		2807		2986		0.06
+Westbrook		253		244		-0.04
+West Columbia		3905		3830		-0.02
+Westlake		992		1709		0.72
+West Lake Hills		3063		3286		0.07
+Weston		563		540		-0.04
+Weston Lakes		2482		4003		0.61
+West Orange		3443		3223		-0.06
+Westover Hills		682		683		0.00
+West Tawakoni		1576		2006		0.27
+West University Place		14787		15585		0.05
+Westworth Village		2472		2757		0.12
+Wharton		8832		8637		-0.02
+Wheeler		1592		1477		-0.07
+White Deer		1000		955		-0.05
+Whiteface		449		412		-0.08
+Whitehouse		7660		8905		0.16
+White Oak		6469		6322		-0.02
+Whitesboro		3793		4120		0.09
+White Settlement		16116		17851		0.11
+Whitewright		1604		1721		0.07
+Whitney		2087		2162		0.04
+Wichita Falls		104553		104683		0.00
+Wickett		498		559		0.12
+Willis		5662		7028		0.24
+Willow Park		3982		5842		0.47
+Wills Point		3524		3651		0.04
+Wilmer		3682		4772		0.30
+Wilson		489		490		0.00
+Wimberley		2626		3232		0.23
+Windcrest		5364		5876		0.10
+Windom		199		205		0.03
+Windthorst		409		379		-0.07
+Winfield		524		520		-0.01
+Wink		940		1028		0.09
+Winnsboro		3434		3299		-0.04
+Winona		576		608		0.06
+Winters		2562		2448		-0.04
+Wixon Valley		254		253		0.00
+Wolfe City		1412		1480		0.05
+Wolfforth		3670		5486		0.49
+Woodbranch		1282		1441		0.12
+Woodcreek		1457		1716		0.18
+Woodloch		207		208		0.00
+Woodsboro		1512		1410		-0.07
+Woodson		264		241		-0.09
+Woodville		2586		2428		-0.06
+Woodway		8452		9024		0.07
+Wortham		1073		996		-0.07
+Wylie		41427		53067		0.28
+Yantis		388		428		0.10
+Yoakum		5815		5940		0.02
+Yorktown		2092		2050		-0.02
+Zavalla		713		710		0.00

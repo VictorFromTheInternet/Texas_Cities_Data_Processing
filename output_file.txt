@@ -1,0 +1,6100 @@
+Name         : Fulshear                 
+2010 pop     : 1134                     
+2020 pop     : 16856                    
+Growth       : 1386.420 percent
+
+Name         : Farmersville             
+2010 pop     : 3301                     
+2020 pop     : 10397                    
+Growth       : 214.965 percent
+
+Name         : Liberty Hill             
+2010 pop     : 967                      
+2020 pop     : 2931                     
+Growth       : 203.102 percent
+
+Name         : Fate                     
+2010 pop     : 6357                     
+2020 pop     : 17958                    
+Growth       : 182.492 percent
+
+Name         : Celina                   
+2010 pop     : 6028                     
+2020 pop     : 16739                    
+Growth       : 177.687 percent
+
+Name         : Iowa Colony              
+2010 pop     : 1170                     
+2020 pop     : 3233                     
+Growth       : 176.325 percent
+
+Name         : Manor                    
+2010 pop     : 5037                     
+2020 pop     : 13866                    
+Growth       : 175.283 percent
+
+Name         : Prosper                  
+2010 pop     : 9423                     
+2020 pop     : 24579                    
+Growth       : 160.840 percent
+
+Name         : Dripping Springs         
+2010 pop     : 1788                     
+2020 pop     : 4650                     
+Growth       : 160.067 percent
+
+Name         : Melissa                  
+2010 pop     : 4695                     
+2020 pop     : 12117                    
+Growth       : 158.083 percent
+
+Name         : Josephine                
+2010 pop     : 812                      
+2020 pop     : 2094                     
+Growth       : 157.882 percent
+
+Name         : McLendon-Chisholm        
+2010 pop     : 1373                     
+2020 pop     : 3455                     
+Growth       : 151.639 percent
+
+Name         : Manvel                   
+2010 pop     : 5179                     
+2020 pop     : 12671                    
+Growth       : 144.661 percent
+
+Name         : Annetta                  
+2010 pop     : 1288                     
+2020 pop     : 3041                     
+Growth       : 136.102 percent
+
+Name         : Leander                  
+2010 pop     : 26521                    
+2020 pop     : 62608                    
+Growth       : 136.070 percent
+
+Name         : Bee Cave                 
+2010 pop     : 3925                     
+2020 pop     : 9144                     
+Growth       : 132.968 percent
+
+Name         : Creedmoor                
+2010 pop     : 202                      
+2020 pop     : 458                      
+Growth       : 126.733 percent
+
+Name         : Montgomery               
+2010 pop     : 621                      
+2020 pop     : 1360                     
+Growth       : 119.002 percent
+
+Name         : Escobares                
+2010 pop     : 1188                     
+2020 pop     : 2588                     
+Growth       : 117.845 percent
+
+Name         : DISH                     
+2010 pop     : 201                      
+2020 pop     : 437                      
+Growth       : 117.413 percent
+
+Name         : Knollwood                
+2010 pop     : 226                      
+2020 pop     : 489                      
+Growth       : 116.372 percent
+
+Name         : Cibolo                   
+2010 pop     : 15349                    
+2020 pop     : 32276                    
+Growth       : 110.281 percent
+
+Name         : Buda                     
+2010 pop     : 7295                     
+2020 pop     : 15108                    
+Growth       : 107.101 percent
+
+Name         : Oak Point                
+2010 pop     : 2786                     
+2020 pop     : 5762                     
+Growth       : 106.820 percent
+
+Name         : Little Elm               
+2010 pop     : 25898                    
+2020 pop     : 53126                    
+Growth       : 105.136 percent
+
+Name         : Anna                     
+2010 pop     : 8249                     
+2020 pop     : 16896                    
+Growth       : 104.825 percent
+
+Name         : Princeton                
+2010 pop     : 6807                     
+2020 pop     : 13894                    
+Growth       : 104.113 percent
+
+Name         : Selma                    
+2010 pop     : 5540                     
+2020 pop     : 11132                    
+Growth       : 100.939 percent
+
+Name         : Northlake                
+2010 pop     : 1724                     
+2020 pop     : 3348                     
+Growth       : 94.200 percent
+
+Name         : Aubrey                   
+2010 pop     : 2595                     
+2020 pop     : 5006                     
+Growth       : 92.909 percent
+
+Name         : Hutto                    
+2010 pop     : 14698                    
+2020 pop     : 27947                    
+Growth       : 90.142 percent
+
+Name         : Jarrell                  
+2010 pop     : 984                      
+2020 pop     : 1832                     
+Growth       : 86.179 percent
+
+Name         : Midlothian               
+2010 pop     : 18037                    
+2020 pop     : 33532                    
+Growth       : 85.907 percent
+
+Name         : Cresson                  
+2010 pop     : 741                      
+2020 pop     : 1349                     
+Growth       : 82.051 percent
+
+Name         : Lincoln Park             
+2010 pop     : 308                      
+2020 pop     : 558                      
+Growth       : 81.169 percent
+
+Name         : Talty                    
+2010 pop     : 1535                     
+2020 pop     : 2760                     
+Growth       : 79.805 percent
+
+Name         : Aledo                    
+2010 pop     : 2716                     
+2020 pop     : 4858                     
+Growth       : 78.866 percent
+
+Name         : Lakewood Village         
+2010 pop     : 545                      
+2020 pop     : 964                      
+Growth       : 76.881 percent
+
+Name         : Kyle                     
+2010 pop     : 28016                    
+2020 pop     : 48393                    
+Growth       : 72.733 percent
+
+Name         : Westlake                 
+2010 pop     : 992                      
+2020 pop     : 1709                     
+Growth       : 72.278 percent
+
+Name         : Oak Ridge                
+2010 pop     : 141                      
+2020 pop     : 242                      
+Growth       : 71.631 percent
+
+Name         : Mont Belvieu             
+2010 pop     : 3835                     
+2020 pop     : 6574                     
+Growth       : 71.421 percent
+
+Name         : Frisco                   
+2010 pop     : 116989                   
+2020 pop     : 200509                   
+Growth       : 71.391 percent
+
+Name         : Boerne                   
+2010 pop     : 10471                    
+2020 pop     : 17850                    
+Growth       : 70.471 percent
+
+Name         : Ponder                   
+2010 pop     : 1395                     
+2020 pop     : 2369                     
+Growth       : 69.821 percent
+
+Name         : Onalaska                 
+2010 pop     : 1764                     
+2020 pop     : 2967                     
+Growth       : 68.197 percent
+
+Name         : Georgetown               
+2010 pop     : 47400                    
+2020 pop     : 79604                    
+Growth       : 67.941 percent
+
+Name         : Quintana                 
+2010 pop     : 56                       
+2020 pop     : 94                       
+Growth       : 67.857 percent
+
+Name         : Lavon                    
+2010 pop     : 2219                     
+2020 pop     : 3724                     
+Growth       : 67.823 percent
+
+Name         : Lucas                    
+2010 pop     : 5166                     
+2020 pop     : 8553                     
+Growth       : 65.563 percent
+
+Name         : Fair Oaks Ranch          
+2010 pop     : 5986                     
+2020 pop     : 9833                     
+Growth       : 64.267 percent
+
+Name         : Ivanhoe                  
+2010 pop     : 887                      
+2020 pop     : 1436                     
+Growth       : 61.894 percent
+
+Name         : Weston Lakes             
+2010 pop     : 2482                     
+2020 pop     : 4003                     
+Growth       : 61.281 percent
+
+Name         : Pleak                    
+2010 pop     : 1044                     
+2020 pop     : 1675                     
+Growth       : 60.441 percent
+
+Name         : Conroe                   
+2010 pop     : 56207                    
+2020 pop     : 89956                    
+Growth       : 60.044 percent
+
+Name         : Forney                   
+2010 pop     : 14661                    
+2020 pop     : 23455                    
+Growth       : 59.982 percent
+
+Name         : Cedar Park               
+2010 pop     : 48937                    
+2020 pop     : 77595                    
+Growth       : 58.561 percent
+
+Name         : Roanoke                  
+2010 pop     : 5962                     
+2020 pop     : 9388                     
+Growth       : 57.464 percent
+
+Name         : Royse City               
+2010 pop     : 9349                     
+2020 pop     : 14702                    
+Growth       : 57.257 percent
+
+Name         : New Braunfels            
+2010 pop     : 57740                    
+2020 pop     : 90209                    
+Growth       : 56.233 percent
+
+Name         : Trophy Club              
+2010 pop     : 8024                     
+2020 pop     : 12451                    
+Growth       : 55.172 percent
+
+Name         : Katy                     
+2010 pop     : 14102                    
+2020 pop     : 21729                    
+Growth       : 54.085 percent
+
+Name         : Nevada                   
+2010 pop     : 822                      
+2020 pop     : 1257                     
+Growth       : 52.920 percent
+
+Name         : McKinney                 
+2010 pop     : 131117                   
+2020 pop     : 199177                   
+Growth       : 51.908 percent
+
+Name         : Converse                 
+2010 pop     : 18198                    
+2020 pop     : 27466                    
+Growth       : 50.929 percent
+
+Name         : Sugar Land               
+2010 pop     : 78817                    
+2020 pop     : 118488                   
+Growth       : 50.333 percent
+
+Name         : Magnolia                 
+2010 pop     : 1393                     
+2020 pop     : 2093                     
+Growth       : 50.251 percent
+
+Name         : Waller                   
+2010 pop     : 2326                     
+2020 pop     : 3488                     
+Growth       : 49.957 percent
+
+Name         : Oak Ridge                
+2010 pop     : 495                      
+2020 pop     : 742                      
+Growth       : 49.899 percent
+
+Name         : Wolfforth                
+2010 pop     : 3670                     
+2020 pop     : 5486                     
+Growth       : 49.482 percent
+
+Name         : Hudson Oaks              
+2010 pop     : 1662                     
+2020 pop     : 2479                     
+Growth       : 49.158 percent
+
+Name         : Hickory Creek            
+2010 pop     : 3247                     
+2020 pop     : 4795                     
+Growth       : 47.675 percent
+
+Name         : Venus                    
+2010 pop     : 2960                     
+2020 pop     : 4368                     
+Growth       : 47.568 percent
+
+Name         : Alton                    
+2010 pop     : 12341                    
+2020 pop     : 18198                    
+Growth       : 47.460 percent
+
+Name         : Tolar                    
+2010 pop     : 681                      
+2020 pop     : 1004                     
+Growth       : 47.430 percent
+
+Name         : Willow Park              
+2010 pop     : 3982                     
+2020 pop     : 5842                     
+Growth       : 46.710 percent
+
+Name         : La Villa                 
+2010 pop     : 1957                     
+2020 pop     : 2870                     
+Growth       : 46.653 percent
+
+Name         : Beach City               
+2010 pop     : 2198                     
+2020 pop     : 3221                     
+Growth       : 46.542 percent
+
+Name         : Hempstead                
+2010 pop     : 5770                     
+2020 pop     : 8355                     
+Growth       : 44.801 percent
+
+Name         : San Marcos               
+2010 pop     : 44894                    
+2020 pop     : 64776                    
+Growth       : 44.287 percent
+
+Name         : Van Alstyne              
+2010 pop     : 3046                     
+2020 pop     : 4378                     
+Growth       : 43.729 percent
+
+Name         : Blue Ridge               
+2010 pop     : 822                      
+2020 pop     : 1180                     
+Growth       : 43.552 percent
+
+Name         : Briarcliff               
+2010 pop     : 1438                     
+2020 pop     : 2062                     
+Growth       : 43.394 percent
+
+Name         : Fairview                 
+2010 pop     : 7248                     
+2020 pop     : 10372                    
+Growth       : 43.102 percent
+
+Name         : Thompsons                
+2010 pop     : 246                      
+2020 pop     : 350                      
+Growth       : 42.276 percent
+
+Name         : Los Fresnos              
+2010 pop     : 5542                     
+2020 pop     : 7837                     
+Growth       : 41.411 percent
+
+Name         : Crowley                  
+2010 pop     : 12838                    
+2020 pop     : 18070                    
+Growth       : 40.754 percent
+
+Name         : Emhouse                  
+2010 pop     : 133                      
+2020 pop     : 187                      
+Growth       : 40.602 percent
+
+Name         : Lakeway                  
+2010 pop     : 11391                    
+2020 pop     : 15981                    
+Growth       : 40.295 percent
+
+Name         : Shenandoah               
+2010 pop     : 2134                     
+2020 pop     : 2987                     
+Growth       : 39.972 percent
+
+Name         : Splendora                
+2010 pop     : 1615                     
+2020 pop     : 2255                     
+Growth       : 39.628 percent
+
+Name         : Crane                    
+2010 pop     : 3353                     
+2020 pop     : 4675                     
+Growth       : 39.427 percent
+
+Name         : Pflugerville             
+2010 pop     : 46936                    
+2020 pop     : 65380                    
+Growth       : 39.296 percent
+
+Name         : Patton Village           
+2010 pop     : 1557                     
+2020 pop     : 2157                     
+Growth       : 38.536 percent
+
+Name         : La Vernia                
+2010 pop     : 1034                     
+2020 pop     : 1428                     
+Growth       : 38.104 percent
+
+Name         : Nolanville               
+2010 pop     : 4259                     
+2020 pop     : 5879                     
+Growth       : 38.037 percent
+
+Name         : Joshua                   
+2010 pop     : 5910                     
+2020 pop     : 8101                     
+Growth       : 37.073 percent
+
+Name         : Edgecliff Village        
+2010 pop     : 2776                     
+2020 pop     : 3788                     
+Growth       : 36.455 percent
+
+Name         : Godley                   
+2010 pop     : 1009                     
+2020 pop     : 1373                     
+Growth       : 36.075 percent
+
+Name         : Parker                   
+2010 pop     : 3811                     
+2020 pop     : 5177                     
+Growth       : 35.844 percent
+
+Name         : Helotes                  
+2010 pop     : 7341                     
+2020 pop     : 9961                     
+Growth       : 35.690 percent
+
+Name         : Cross Timber             
+2010 pop     : 268                      
+2020 pop     : 362                      
+Growth       : 35.075 percent
+
+Name         : Crandall                 
+2010 pop     : 2858                     
+2020 pop     : 3860                     
+Growth       : 35.059 percent
+
+Name         : Heath                    
+2010 pop     : 6921                     
+2020 pop     : 9331                     
+Growth       : 34.822 percent
+
+Name         : Bullard                  
+2010 pop     : 2463                     
+2020 pop     : 3318                     
+Growth       : 34.714 percent
+
+Name         : Granbury                 
+2010 pop     : 7978                     
+2020 pop     : 10730                    
+Growth       : 34.495 percent
+
+Name         : Cool                     
+2010 pop     : 157                      
+2020 pop     : 211                      
+Growth       : 34.395 percent
+
+Name         : Bastrop                  
+2010 pop     : 7218                     
+2020 pop     : 9688                     
+Growth       : 34.220 percent
+
+Name         : Pearland                 
+2010 pop     : 91252                    
+2020 pop     : 122460                   
+Growth       : 34.200 percent
+
+Name         : Lindale                  
+2010 pop     : 4818                     
+2020 pop     : 6464                     
+Growth       : 34.164 percent
+
+Name         : Argyle                   
+2010 pop     : 3282                     
+2020 pop     : 4403                     
+Growth       : 34.156 percent
+
+Name         : Schertz                  
+2010 pop     : 31465                    
+2020 pop     : 42042                    
+Growth       : 33.615 percent
+
+Name         : Round Rock               
+2010 pop     : 99887                    
+2020 pop     : 133372                   
+Growth       : 33.523 percent
+
+Name         : Indian Lake              
+2010 pop     : 640                      
+2020 pop     : 854                      
+Growth       : 33.438 percent
+
+Name         : Sunnyvale                
+2010 pop     : 5130                     
+2020 pop     : 6841                     
+Growth       : 33.353 percent
+
+Name         : Weatherford              
+2010 pop     : 25250                    
+2020 pop     : 33547                    
+Growth       : 32.859 percent
+
+Name         : Justin                   
+2010 pop     : 3246                     
+2020 pop     : 4279                     
+Growth       : 31.824 percent
+
+Name         : Mabank                   
+2010 pop     : 3035                     
+2020 pop     : 3995                     
+Growth       : 31.631 percent
+
+Name         : Midland                  
+2010 pop     : 111147                   
+2020 pop     : 146038                   
+Growth       : 31.392 percent
+
+Name         : Pattison                 
+2010 pop     : 472                      
+2020 pop     : 620                      
+Growth       : 31.356 percent
+
+Name         : Shavano Park             
+2010 pop     : 3035                     
+2020 pop     : 3979                     
+Growth       : 31.104 percent
+
+Name         : Tioga                    
+2010 pop     : 803                      
+2020 pop     : 1051                     
+Growth       : 30.884 percent
+
+Name         : Roman Forest             
+2010 pop     : 1538                     
+2020 pop     : 2006                     
+Growth       : 30.429 percent
+
+Name         : Edinburg                 
+2010 pop     : 77100                    
+2020 pop     : 100243                   
+Growth       : 30.017 percent
+
+Name         : Burleson                 
+2010 pop     : 36690                    
+2020 pop     : 47641                    
+Growth       : 29.847 percent
+
+Name         : Copper Canyon            
+2010 pop     : 1334                     
+2020 pop     : 1731                     
+Growth       : 29.760 percent
+
+Name         : Union Valley             
+2010 pop     : 307                      
+2020 pop     : 398                      
+Growth       : 29.642 percent
+
+Name         : Pelican Bay              
+2010 pop     : 1547                     
+2020 pop     : 2005                     
+Growth       : 29.606 percent
+
+Name         : Wilmer                   
+2010 pop     : 3682                     
+2020 pop     : 4772                     
+Growth       : 29.603 percent
+
+Name         : Nash                     
+2010 pop     : 2960                     
+2020 pop     : 3827                     
+Growth       : 29.291 percent
+
+Name         : Point Venture            
+2010 pop     : 800                      
+2020 pop     : 1033                     
+Growth       : 29.125 percent
+
+Name         : League City              
+2010 pop     : 83560                    
+2020 pop     : 107536                   
+Growth       : 28.693 percent
+
+Name         : Howe                     
+2010 pop     : 2600                     
+2020 pop     : 3346                     
+Growth       : 28.692 percent
+
+Name         : Johnson City             
+2010 pop     : 1656                     
+2020 pop     : 2131                     
+Growth       : 28.684 percent
+
+Name         : Mansfield                
+2010 pop     : 56368                    
+2020 pop     : 72419                    
+Growth       : 28.475 percent
+
+Name         : Reno                     
+2010 pop     : 2494                     
+2020 pop     : 3204                     
+Growth       : 28.468 percent
+
+Name         : College Station          
+2010 pop     : 93857                    
+2020 pop     : 120511                   
+Growth       : 28.399 percent
+
+Name         : Waxahachie               
+2010 pop     : 29621                    
+2020 pop     : 37988                    
+Growth       : 28.247 percent
+
+Name         : Sachse                   
+2010 pop     : 20329                    
+2020 pop     : 26046                    
+Growth       : 28.122 percent
+
+Name         : Wylie                    
+2010 pop     : 41427                    
+2020 pop     : 53067                    
+Growth       : 28.098 percent
+
+Name         : Kennedale                
+2010 pop     : 6763                     
+2020 pop     : 8645                     
+Growth       : 27.828 percent
+
+Name         : Uhland                   
+2010 pop     : 1014                     
+2020 pop     : 1294                     
+Growth       : 27.613 percent
+
+Name         : Addison                  
+2010 pop     : 13056                    
+2020 pop     : 16661                    
+Growth       : 27.612 percent
+
+Name         : West Tawakoni            
+2010 pop     : 1576                     
+2020 pop     : 2006                     
+Growth       : 27.284 percent
+
+Name         : Paradise                 
+2010 pop     : 441                      
+2020 pop     : 561                      
+Growth       : 27.211 percent
+
+Name         : Haslet                   
+2010 pop     : 1517                     
+2020 pop     : 1923                     
+Growth       : 26.763 percent
+
+Name         : Garden Ridge             
+2010 pop     : 3259                     
+2020 pop     : 4130                     
+Growth       : 26.726 percent
+
+Name         : Hidalgo                  
+2010 pop     : 11198                    
+2020 pop     : 14183                    
+Growth       : 26.657 percent
+
+Name         : Belton                   
+2010 pop     : 18216                    
+2020 pop     : 23054                    
+Growth       : 26.559 percent
+
+Name         : Sanger                   
+2010 pop     : 6916                     
+2020 pop     : 8732                     
+Growth       : 26.258 percent
+
+Name         : Primera                  
+2010 pop     : 4070                     
+2020 pop     : 5130                     
+Growth       : 26.044 percent
+
+Name         : Farmers Branch           
+2010 pop     : 28616                    
+2020 pop     : 35991                    
+Growth       : 25.772 percent
+
+Name         : Live Oak                 
+2010 pop     : 13131                    
+2020 pop     : 16499                    
+Growth       : 25.649 percent
+
+Name         : Alvarado                 
+2010 pop     : 3785                     
+2020 pop     : 4739                     
+Growth       : 25.205 percent
+
+Name         : Elmendorf                
+2010 pop     : 1488                     
+2020 pop     : 1862                     
+Growth       : 25.134 percent
+
+Name         : Rosenberg                
+2010 pop     : 30618                    
+2020 pop     : 38307                    
+Growth       : 25.113 percent
+
+Name         : Lago Vista               
+2010 pop     : 6041                     
+2020 pop     : 7556                     
+Growth       : 25.079 percent
+
+Name         : Red Oak                  
+2010 pop     : 10769                    
+2020 pop     : 13464                    
+Growth       : 25.026 percent
+
+Name         : Mountain City            
+2010 pop     : 648                      
+2020 pop     : 810                      
+Growth       : 25.000 percent
+
+Name         : Port Isabel              
+2010 pop     : 5006                     
+2020 pop     : 6256                     
+Growth       : 24.970 percent
+
+Name         : Cottonwood Shores        
+2010 pop     : 1123                     
+2020 pop     : 1403                     
+Growth       : 24.933 percent
+
+Name         : Prairie View             
+2010 pop     : 5576                     
+2020 pop     : 6953                     
+Growth       : 24.695 percent
+
+Name         : Brazos Bend              
+2010 pop     : 305                      
+2020 pop     : 380                      
+Growth       : 24.590 percent
+
+Name         : Allen                    
+2010 pop     : 84246                    
+2020 pop     : 104627                   
+Growth       : 24.192 percent
+
+Name         : Willis                   
+2010 pop     : 5662                     
+2020 pop     : 7028                     
+Growth       : 24.126 percent
+
+Name         : Stephenville             
+2010 pop     : 17123                    
+2020 pop     : 21247                    
+Growth       : 24.085 percent
+
+Name         : Bayview                  
+2010 pop     : 383                      
+2020 pop     : 475                      
+Growth       : 24.021 percent
+
+Name         : Fort Worth               
+2010 pop     : 741206                   
+2020 pop     : 918915                   
+Growth       : 23.976 percent
+
+Name         : Hays                     
+2010 pop     : 217                      
+2020 pop     : 269                      
+Growth       : 23.963 percent
+
+Name         : Arcola                   
+2010 pop     : 1642                     
+2020 pop     : 2034                     
+Growth       : 23.873 percent
+
+Name         : Webberville              
+2010 pop     : 392                      
+2020 pop     : 485                      
+Growth       : 23.724 percent
+
+Name         : Crawford                 
+2010 pop     : 717                      
+2020 pop     : 887                      
+Growth       : 23.710 percent
+
+Name         : Odessa                   
+2010 pop     : 99940                    
+2020 pop     : 123334                   
+Growth       : 23.408 percent
+
+Name         : Denton                   
+2010 pop     : 113383                   
+2020 pop     : 139869                   
+Growth       : 23.360 percent
+
+Name         : Rio Vista                
+2010 pop     : 873                      
+2020 pop     : 1075                     
+Growth       : 23.139 percent
+
+Name         : Kenefick                 
+2010 pop     : 563                      
+2020 pop     : 693                      
+Growth       : 23.091 percent
+
+Name         : Wimberley                
+2010 pop     : 2626                     
+2020 pop     : 3232                     
+Growth       : 23.077 percent
+
+Name         : Lytle                    
+2010 pop     : 2492                     
+2020 pop     : 3066                     
+Growth       : 23.034 percent
+
+Name         : Bulverde                 
+2010 pop     : 4630                     
+2020 pop     : 5692                     
+Growth       : 22.937 percent
+
+Name         : Saginaw                  
+2010 pop     : 19806                    
+2020 pop     : 24310                    
+Growth       : 22.741 percent
+
+Name         : New Fairview             
+2010 pop     : 1258                     
+2020 pop     : 1544                     
+Growth       : 22.734 percent
+
+Name         : Sansom Park              
+2010 pop     : 4686                     
+2020 pop     : 5748                     
+Growth       : 22.663 percent
+
+Name         : Newark                   
+2010 pop     : 1005                     
+2020 pop     : 1232                     
+Growth       : 22.587 percent
+
+Name         : Port Aransas             
+2010 pop     : 3480                     
+2020 pop     : 4266                     
+Growth       : 22.586 percent
+
+Name         : Troy                     
+2010 pop     : 1645                     
+2020 pop     : 2016                     
+Growth       : 22.553 percent
+
+Name         : Runaway Bay              
+2010 pop     : 1286                     
+2020 pop     : 1576                     
+Growth       : 22.551 percent
+
+Name         : Rockwall                 
+2010 pop     : 37490                    
+2020 pop     : 45888                    
+Growth       : 22.401 percent
+
+Name         : The Colony               
+2010 pop     : 36328                    
+2020 pop     : 44438                    
+Growth       : 22.324 percent
+
+Name         : Richardson               
+2010 pop     : 99223                    
+2020 pop     : 121323                   
+Growth       : 22.273 percent
+
+Name         : Draper                   
+2010 pop     : 27                       
+2020 pop     : 33                       
+Growth       : 22.222 percent
+
+Name         : Azle                     
+2010 pop     : 10947                    
+2020 pop     : 13369                    
+Growth       : 22.125 percent
+
+Name         : New Berlin               
+2010 pop     : 511                      
+2020 pop     : 624                      
+Growth       : 22.114 percent
+
+Name         : Lakeside                 
+2010 pop     : 1307                     
+2020 pop     : 1593                     
+Growth       : 21.882 percent
+
+Name         : Southlake                
+2010 pop     : 26575                    
+2020 pop     : 32376                    
+Growth       : 21.829 percent
+
+Name         : Bridge City              
+2010 pop     : 7840                     
+2020 pop     : 9546                     
+Growth       : 21.760 percent
+
+Name         : Austin                   
+2010 pop     : 790390                   
+2020 pop     : 961855                   
+Growth       : 21.694 percent
+
+Name         : Andrews                  
+2010 pop     : 11088                    
+2020 pop     : 13487                    
+Growth       : 21.636 percent
+
+Name         : Seminole                 
+2010 pop     : 6430                     
+2020 pop     : 7815                     
+Growth       : 21.540 percent
+
+Name         : Pleasanton               
+2010 pop     : 8934                     
+2020 pop     : 10855                    
+Growth       : 21.502 percent
+
+Name         : Seagraves                
+2010 pop     : 2417                     
+2020 pop     : 2936                     
+Growth       : 21.473 percent
+
+Name         : Harker Heights           
+2010 pop     : 26700                    
+2020 pop     : 32421                    
+Growth       : 21.427 percent
+
+Name         : Progreso Lakes           
+2010 pop     : 240                      
+2020 pop     : 291                      
+Growth       : 21.250 percent
+
+Name         : Leon Valley              
+2010 pop     : 10151                    
+2020 pop     : 12306                    
+Growth       : 21.229 percent
+
+Name         : Rhome                    
+2010 pop     : 1522                     
+2020 pop     : 1845                     
+Growth       : 21.222 percent
+
+Name         : Dayton                   
+2010 pop     : 7242                     
+2020 pop     : 8777                     
+Growth       : 21.196 percent
+
+Name         : Plum Grove               
+2010 pop     : 600                      
+2020 pop     : 726                      
+Growth       : 21.000 percent
+
+Name         : Rockport                 
+2010 pop     : 8766                     
+2020 pop     : 10604                    
+Growth       : 20.967 percent
+
+Name         : Krum                     
+2010 pop     : 4157                     
+2020 pop     : 5018                     
+Growth       : 20.712 percent
+
+Name         : North Cleveland          
+2010 pop     : 247                      
+2020 pop     : 298                      
+Growth       : 20.648 percent
+
+Name         : Rosser                   
+2010 pop     : 332                      
+2020 pop     : 400                      
+Growth       : 20.482 percent
+
+Name         : Somerset                 
+2010 pop     : 1631                     
+2020 pop     : 1965                     
+Growth       : 20.478 percent
+
+Name         : Stanton                  
+2010 pop     : 2492                     
+2020 pop     : 3000                     
+Growth       : 20.385 percent
+
+Name         : Sun Valley               
+2010 pop     : 69                       
+2020 pop     : 83                       
+Growth       : 20.290 percent
+
+Name         : Elgin                    
+2010 pop     : 8135                     
+2020 pop     : 9784                     
+Growth       : 20.270 percent
+
+Name         : Surfside Beach           
+2010 pop     : 482                      
+2020 pop     : 579                      
+Growth       : 20.124 percent
+
+Name         : Hallsville               
+2010 pop     : 3577                     
+2020 pop     : 4296                     
+Growth       : 20.101 percent
+
+Name         : Springtown               
+2010 pop     : 2658                     
+2020 pop     : 3190                     
+Growth       : 20.015 percent
+
+Name         : Toyah                    
+2010 pop     : 90                       
+2020 pop     : 108                      
+Growth       : 20.000 percent
+
+Name         : Ackerly                  
+2010 pop     : 220                      
+2020 pop     : 264                      
+Growth       : 20.000 percent
+
+Name         : Rowlett                  
+2010 pop     : 56199                    
+2020 pop     : 67339                    
+Growth       : 19.822 percent
+
+Name         : Chandler                 
+2010 pop     : 2734                     
+2020 pop     : 3275                     
+Growth       : 19.788 percent
+
+Name         : Poth                     
+2010 pop     : 1908                     
+2020 pop     : 2284                     
+Growth       : 19.706 percent
+
+Name         : Kendleton                
+2010 pop     : 380                      
+2020 pop     : 454                      
+Growth       : 19.474 percent
+
+Name         : Lampasas                 
+2010 pop     : 6681                     
+2020 pop     : 7982                     
+Growth       : 19.473 percent
+
+Name         : Bertram                  
+2010 pop     : 1353                     
+2020 pop     : 1616                     
+Growth       : 19.438 percent
+
+Name         : La Marque                
+2010 pop     : 14509                    
+2020 pop     : 17319                    
+Growth       : 19.367 percent
+
+Name         : Ovilla                   
+2010 pop     : 3492                     
+2020 pop     : 4167                     
+Growth       : 19.330 percent
+
+Name         : Grapevine                
+2010 pop     : 46334                    
+2020 pop     : 55281                    
+Growth       : 19.310 percent
+
+Name         : Terrell                  
+2010 pop     : 15816                    
+2020 pop     : 18869                    
+Growth       : 19.303 percent
+
+Name         : Goodrich                 
+2010 pop     : 271                      
+2020 pop     : 323                      
+Growth       : 19.188 percent
+
+Name         : Pecos                    
+2010 pop     : 8780                     
+2020 pop     : 10461                    
+Growth       : 19.146 percent
+
+Name         : Keller                   
+2010 pop     : 39627                    
+2020 pop     : 47213                    
+Growth       : 19.144 percent
+
+Name         : Seguin                   
+2010 pop     : 25175                    
+2020 pop     : 29992                    
+Growth       : 19.134 percent
+
+Name         : Euless                   
+2010 pop     : 51277                    
+2020 pop     : 61032                    
+Growth       : 19.024 percent
+
+Name         : St. Hedwig               
+2010 pop     : 2094                     
+2020 pop     : 2488                     
+Growth       : 18.816 percent
+
+Name         : Cuero                    
+2010 pop     : 6841                     
+2020 pop     : 8128                     
+Growth       : 18.813 percent
+
+Name         : Temple                   
+2010 pop     : 66102                    
+2020 pop     : 78439                    
+Growth       : 18.664 percent
+
+Name         : Von Ormy                 
+2010 pop     : 1085                     
+2020 pop     : 1287                     
+Growth       : 18.618 percent
+
+Name         : Glenn Heights            
+2010 pop     : 11278                    
+2020 pop     : 13377                    
+Growth       : 18.611 percent
+
+Name         : Killeen                  
+2010 pop     : 127921                   
+2020 pop     : 151666                   
+Growth       : 18.562 percent
+
+Name         : Seabrook                 
+2010 pop     : 11952                    
+2020 pop     : 14149                    
+Growth       : 18.382 percent
+
+Name         : Clear Lake Shores        
+2010 pop     : 1063                     
+2020 pop     : 1258                     
+Growth       : 18.344 percent
+
+Name         : Smithville               
+2010 pop     : 3817                     
+2020 pop     : 4515                     
+Growth       : 18.287 percent
+
+Name         : Canton                   
+2010 pop     : 3581                     
+2020 pop     : 4229                     
+Growth       : 18.096 percent
+
+Name         : Annetta South            
+2010 pop     : 526                      
+2020 pop     : 621                      
+Growth       : 18.061 percent
+
+Name         : Old River-Winfree        
+2010 pop     : 1245                     
+2020 pop     : 1467                     
+Growth       : 17.831 percent
+
+Name         : Weir                     
+2010 pop     : 450                      
+2020 pop     : 530                      
+Growth       : 17.778 percent
+
+Name         : Woodcreek                
+2010 pop     : 1457                     
+2020 pop     : 1716                     
+Growth       : 17.776 percent
+
+Name         : Horseshoe Bay            
+2010 pop     : 3418                     
+2020 pop     : 4024                     
+Growth       : 17.730 percent
+
+Name         : Roma                     
+2010 pop     : 9765                     
+2020 pop     : 11490                    
+Growth       : 17.665 percent
+
+Name         : Flower Mound             
+2010 pop     : 64669                    
+2020 pop     : 75956                    
+Growth       : 17.453 percent
+
+Name         : Bartonville              
+2010 pop     : 1469                     
+2020 pop     : 1725                     
+Growth       : 17.427 percent
+
+Name         : Horizon City             
+2010 pop     : 16735                    
+2020 pop     : 19642                    
+Growth       : 17.371 percent
+
+Name         : Lake Bridgeport          
+2010 pop     : 340                      
+2020 pop     : 399                      
+Growth       : 17.353 percent
+
+Name         : Pilot Point              
+2010 pop     : 3856                     
+2020 pop     : 4525                     
+Growth       : 17.350 percent
+
+Name         : Boyd                     
+2010 pop     : 1207                     
+2020 pop     : 1416                     
+Growth       : 17.316 percent
+
+Name         : Pine Island              
+2010 pop     : 988                      
+2020 pop     : 1159                     
+Growth       : 17.308 percent
+
+Name         : Buffalo Gap              
+2010 pop     : 464                      
+2020 pop     : 543                      
+Growth       : 17.026 percent
+
+Name         : Grey Forest              
+2010 pop     : 483                      
+2020 pop     : 564                      
+Growth       : 16.770 percent
+
+Name         : Weslaco                  
+2010 pop     : 35670                    
+2020 pop     : 41629                    
+Growth       : 16.706 percent
+
+Name         : Balch Springs            
+2010 pop     : 23728                    
+2020 pop     : 27685                    
+Growth       : 16.677 percent
+
+Name         : Fruitvale                
+2010 pop     : 408                      
+2020 pop     : 476                      
+Growth       : 16.667 percent
+
+Name         : Brownsboro               
+2010 pop     : 1039                     
+2020 pop     : 1212                     
+Growth       : 16.651 percent
+
+Name         : Baytown                  
+2010 pop     : 71802                    
+2020 pop     : 83701                    
+Growth       : 16.572 percent
+
+Name         : San Antonio              
+2010 pop     : 1327407                  
+2020 pop     : 1547253                  
+Growth       : 16.562 percent
+
+Name         : Appleby                  
+2010 pop     : 474                      
+2020 pop     : 552                      
+Growth       : 16.456 percent
+
+Name         : Thrall                   
+2010 pop     : 839                      
+2020 pop     : 977                      
+Growth       : 16.448 percent
+
+Name         : Marion                   
+2010 pop     : 1066                     
+2020 pop     : 1241                     
+Growth       : 16.417 percent
+
+Name         : Spring Valley Village    
+2010 pop     : 3715                     
+2020 pop     : 4319                     
+Growth       : 16.258 percent
+
+Name         : Whitehouse               
+2010 pop     : 7660                     
+2020 pop     : 8905                     
+Growth       : 16.253 percent
+
+Name         : Seven Oaks               
+2010 pop     : 111                      
+2020 pop     : 129                      
+Growth       : 16.216 percent
+
+Name         : Kaufman                  
+2010 pop     : 6703                     
+2020 pop     : 7788                     
+Growth       : 16.187 percent
+
+Name         : Carl's Corner            
+2010 pop     : 173                      
+2020 pop     : 201                      
+Growth       : 16.185 percent
+
+Name         : Pearsall                 
+2010 pop     : 9146                     
+2020 pop     : 10609                    
+Growth       : 15.996 percent
+
+Name         : Marble Falls             
+2010 pop     : 6077                     
+2020 pop     : 7038                     
+Growth       : 15.814 percent
+
+Name         : Pyote                    
+2010 pop     : 114                      
+2020 pop     : 132                      
+Growth       : 15.789 percent
+
+Name         : Murphy                   
+2010 pop     : 17708                    
+2020 pop     : 20500                    
+Growth       : 15.767 percent
+
+Name         : Lone Oak                 
+2010 pop     : 598                      
+2020 pop     : 692                      
+Growth       : 15.719 percent
+
+Name         : Coahoma                  
+2010 pop     : 817                      
+2020 pop     : 945                      
+Growth       : 15.667 percent
+
+Name         : Orchard                  
+2010 pop     : 352                      
+2020 pop     : 407                      
+Growth       : 15.625 percent
+
+Name         : Combine                  
+2010 pop     : 1942                     
+2020 pop     : 2245                     
+Growth       : 15.602 percent
+
+Name         : Benbrook                 
+2010 pop     : 21234                    
+2020 pop     : 24520                    
+Growth       : 15.475 percent
+
+Name         : Hawk Cove                
+2010 pop     : 483                      
+2020 pop     : 557                      
+Growth       : 15.321 percent
+
+Name         : Pottsboro                
+2010 pop     : 2160                     
+2020 pop     : 2489                     
+Growth       : 15.231 percent
+
+Name         : Volente                  
+2010 pop     : 520                      
+2020 pop     : 599                      
+Growth       : 15.192 percent
+
+Name         : Grandview                
+2010 pop     : 1561                     
+2020 pop     : 1798                     
+Growth       : 15.183 percent
+
+Name         : Friendswood              
+2010 pop     : 35805                    
+2020 pop     : 41213                    
+Growth       : 15.104 percent
+
+Name         : Collinsville             
+2010 pop     : 1624                     
+2020 pop     : 1866                     
+Growth       : 14.901 percent
+
+Name         : Rio Hondo                
+2010 pop     : 2356                     
+2020 pop     : 2707                     
+Growth       : 14.898 percent
+
+Name         : Jonestown                
+2010 pop     : 1834                     
+2020 pop     : 2105                     
+Growth       : 14.776 percent
+
+Name         : Eustace                  
+2010 pop     : 991                      
+2020 pop     : 1137                     
+Growth       : 14.733 percent
+
+Name         : Bayou Vista              
+2010 pop     : 1537                     
+2020 pop     : 1763                     
+Growth       : 14.704 percent
+
+Name         : Scurry                   
+2010 pop     : 681                      
+2020 pop     : 781                      
+Growth       : 14.684 percent
+
+Name         : Southmayd                
+2010 pop     : 992                      
+2020 pop     : 1137                     
+Growth       : 14.617 percent
+
+Name         : Lewisville               
+2010 pop     : 95290                    
+2020 pop     : 109212                   
+Growth       : 14.610 percent
+
+Name         : Copperas Cove            
+2010 pop     : 32032                    
+2020 pop     : 36670                    
+Growth       : 14.479 percent
+
+Name         : DeSoto                   
+2010 pop     : 49047                    
+2020 pop     : 56145                    
+Growth       : 14.472 percent
+
+Name         : Kilgore                  
+2010 pop     : 12975                    
+2020 pop     : 14852                    
+Growth       : 14.466 percent
+
+Name         : Ferris                   
+2010 pop     : 2436                     
+2020 pop     : 2788                     
+Growth       : 14.450 percent
+
+Name         : Taylor                   
+2010 pop     : 15191                    
+2020 pop     : 17383                    
+Growth       : 14.430 percent
+
+Name         : Oak Valley               
+2010 pop     : 368                      
+2020 pop     : 421                      
+Growth       : 14.402 percent
+
+Name         : Goldsmith                
+2010 pop     : 257                      
+2020 pop     : 294                      
+Growth       : 14.397 percent
+
+Name         : Millsap                  
+2010 pop     : 403                      
+2020 pop     : 461                      
+Growth       : 14.392 percent
+
+Name         : Portland                 
+2010 pop     : 15099                    
+2020 pop     : 17268                    
+Growth       : 14.365 percent
+
+Name         : Stockdale                
+2010 pop     : 1442                     
+2020 pop     : 1649                     
+Growth       : 14.355 percent
+
+Name         : Oak Leaf                 
+2010 pop     : 1298                     
+2020 pop     : 1484                     
+Growth       : 14.330 percent
+
+Name         : Liverpool                
+2010 pop     : 482                      
+2020 pop     : 551                      
+Growth       : 14.315 percent
+
+Name         : Colleyville              
+2010 pop     : 22807                    
+2020 pop     : 26057                    
+Growth       : 14.250 percent
+
+Name         : Sherman                  
+2010 pop     : 38521                    
+2020 pop     : 44002                    
+Growth       : 14.229 percent
+
+Name         : El Lago                  
+2010 pop     : 2706                     
+2020 pop     : 3090                     
+Growth       : 14.191 percent
+
+Name         : Hardin                   
+2010 pop     : 819                      
+2020 pop     : 935                      
+Growth       : 14.164 percent
+
+Name         : Mustang Ridge            
+2010 pop     : 861                      
+2020 pop     : 981                      
+Growth       : 13.937 percent
+
+Name         : Aurora                   
+2010 pop     : 1220                     
+2020 pop     : 1390                     
+Growth       : 13.934 percent
+
+Name         : Kemah                    
+2010 pop     : 1773                     
+2020 pop     : 2019                     
+Growth       : 13.875 percent
+
+Name         : Jourdanton               
+2010 pop     : 3871                     
+2020 pop     : 4405                     
+Growth       : 13.795 percent
+
+Name         : Hitchcock                
+2010 pop     : 6961                     
+2020 pop     : 7914                     
+Growth       : 13.691 percent
+
+Name         : Seagoville               
+2010 pop     : 14835                    
+2020 pop     : 16861                    
+Growth       : 13.657 percent
+
+Name         : Thorntonville            
+2010 pop     : 476                      
+2020 pop     : 541                      
+Growth       : 13.655 percent
+
+Name         : Kermit                   
+2010 pop     : 5708                     
+2020 pop     : 6486                     
+Growth       : 13.630 percent
+
+Name         : Richwood                 
+2010 pop     : 3510                     
+2020 pop     : 3988                     
+Growth       : 13.618 percent
+
+Name         : Corinth                  
+2010 pop     : 19935                    
+2020 pop     : 22634                    
+Growth       : 13.539 percent
+
+Name         : Lipan                    
+2010 pop     : 430                      
+2020 pop     : 488                      
+Growth       : 13.488 percent
+
+Name         : Robinson                 
+2010 pop     : 10509                    
+2020 pop     : 11926                    
+Growth       : 13.484 percent
+
+Name         : Lake Dallas              
+2010 pop     : 7105                     
+2020 pop     : 8063                     
+Growth       : 13.483 percent
+
+Name         : Navasota                 
+2010 pop     : 7049                     
+2020 pop     : 7998                     
+Growth       : 13.463 percent
+
+Name         : Fairchilds               
+2010 pop     : 763                      
+2020 pop     : 864                      
+Growth       : 13.237 percent
+
+Name         : Hill Country Village     
+2010 pop     : 985                      
+2020 pop     : 1114                     
+Growth       : 13.096 percent
+
+Name         : Forest Hill              
+2010 pop     : 12355                    
+2020 pop     : 13955                    
+Growth       : 12.950 percent
+
+Name         : Point                    
+2010 pop     : 820                      
+2020 pop     : 926                      
+Growth       : 12.927 percent
+
+Name         : Holiday Lakes            
+2010 pop     : 1107                     
+2020 pop     : 1250                     
+Growth       : 12.918 percent
+
+Name         : Lindsay                  
+2010 pop     : 1018                     
+2020 pop     : 1149                     
+Growth       : 12.868 percent
+
+Name         : East Mountain            
+2010 pop     : 797                      
+2020 pop     : 899                      
+Growth       : 12.798 percent
+
+Name         : Greenville               
+2010 pop     : 25557                    
+2020 pop     : 28827                    
+Growth       : 12.795 percent
+
+Name         : Lubbock                  
+2010 pop     : 229573                   
+2020 pop     : 258862                   
+Growth       : 12.758 percent
+
+Name         : Universal City           
+2010 pop     : 18530                    
+2020 pop     : 20890                    
+Growth       : 12.736 percent
+
+Name         : Alma                     
+2010 pop     : 331                      
+2020 pop     : 373                      
+Growth       : 12.689 percent
+
+Name         : Timbercreek Canyon       
+2010 pop     : 418                      
+2020 pop     : 471                      
+Growth       : 12.679 percent
+
+Name         : Commerce                 
+2010 pop     : 8078                     
+2020 pop     : 9090                     
+Growth       : 12.528 percent
+
+Name         : Monahans                 
+2010 pop     : 6953                     
+2020 pop     : 7816                     
+Growth       : 12.412 percent
+
+Name         : Woodbranch               
+2010 pop     : 1282                     
+2020 pop     : 1441                     
+Growth       : 12.402 percent
+
+Name         : Sterling City            
+2010 pop     : 888                      
+2020 pop     : 998                      
+Growth       : 12.387 percent
+
+Name         : Pharr                    
+2010 pop     : 70400                    
+2020 pop     : 79112                    
+Growth       : 12.375 percent
+
+Name         : Morgan's Point Resort    
+2010 pop     : 4170                     
+2020 pop     : 4685                     
+Growth       : 12.350 percent
+
+Name         : Rollingwood              
+2010 pop     : 1412                     
+2020 pop     : 1585                     
+Growth       : 12.252 percent
+
+Name         : Wickett                  
+2010 pop     : 498                      
+2020 pop     : 559                      
+Growth       : 12.249 percent
+
+Name         : Fulton                   
+2010 pop     : 1358                     
+2020 pop     : 1523                     
+Growth       : 12.150 percent
+
+Name         : DeCordova                
+2010 pop     : 2683                     
+2020 pop     : 3007                     
+Growth       : 12.076 percent
+
+Name         : Carrollton               
+2010 pop     : 119097                   
+2020 pop     : 133434                   
+Growth       : 12.038 percent
+
+Name         : Missouri City            
+2010 pop     : 67358                    
+2020 pop     : 75457                    
+Growth       : 12.024 percent
+
+Name         : Grandfalls               
+2010 pop     : 360                      
+2020 pop     : 403                      
+Growth       : 11.944 percent
+
+Name         : Gunter                   
+2010 pop     : 1498                     
+2020 pop     : 1675                     
+Growth       : 11.816 percent
+
+Name         : Alvin                    
+2010 pop     : 24236                    
+2020 pop     : 27098                    
+Growth       : 11.809 percent
+
+Name         : Early                    
+2010 pop     : 2762                     
+2020 pop     : 3087                     
+Growth       : 11.767 percent
+
+Name         : Plains                   
+2010 pop     : 1481                     
+2020 pop     : 1655                     
+Growth       : 11.749 percent
+
+Name         : Caddo Mills              
+2010 pop     : 1338                     
+2020 pop     : 1495                     
+Growth       : 11.734 percent
+
+Name         : Floresville              
+2010 pop     : 6448                     
+2020 pop     : 7203                     
+Growth       : 11.709 percent
+
+Name         : Panorama Village         
+2010 pop     : 2170                     
+2020 pop     : 2424                     
+Growth       : 11.705 percent
+
+Name         : Mobile City              
+2010 pop     : 188                      
+2020 pop     : 210                      
+Growth       : 11.702 percent
+
+Name         : Terrell Hills            
+2010 pop     : 4878                     
+2020 pop     : 5447                     
+Growth       : 11.665 percent
+
+Name         : Sadler                   
+2010 pop     : 343                      
+2020 pop     : 383                      
+Growth       : 11.662 percent
+
+Name         : Sunrise Beach Village    
+2010 pop     : 713                      
+2020 pop     : 796                      
+Growth       : 11.641 percent
+
+Name         : Valley View              
+2010 pop     : 757                      
+2020 pop     : 845                      
+Growth       : 11.625 percent
+
+Name         : Dickinson                
+2010 pop     : 18680                    
+2020 pop     : 20847                    
+Growth       : 11.601 percent
+
+Name         : Cross Roads              
+2010 pop     : 1563                     
+2020 pop     : 1744                     
+Growth       : 11.580 percent
+
+Name         : North Richland Hills     
+2010 pop     : 63343                    
+2020 pop     : 70670                    
+Growth       : 11.567 percent
+
+Name         : Waco                     
+2010 pop     : 124805                   
+2020 pop     : 139236                   
+Growth       : 11.563 percent
+
+Name         : Westworth Village        
+2010 pop     : 2472                     
+2020 pop     : 2757                     
+Growth       : 11.529 percent
+
+Name         : Canyon                   
+2010 pop     : 13303                    
+2020 pop     : 14836                    
+Growth       : 11.524 percent
+
+Name         : Hunters Creek Village    
+2010 pop     : 4367                     
+2020 pop     : 4869                     
+Growth       : 11.495 percent
+
+Name         : Opdyke West              
+2010 pop     : 174                      
+2020 pop     : 194                      
+Growth       : 11.494 percent
+
+Name         : Salado                   
+2010 pop     : 2126                     
+2020 pop     : 2370                     
+Growth       : 11.477 percent
+
+Name         : LaCoste                  
+2010 pop     : 1119                     
+2020 pop     : 1247                     
+Growth       : 11.439 percent
+
+Name         : Lake Tanglewood          
+2010 pop     : 796                      
+2020 pop     : 886                      
+Growth       : 11.307 percent
+
+Name         : Lockhart                 
+2010 pop     : 12698                    
+2020 pop     : 14133                    
+Growth       : 11.301 percent
+
+Name         : Hackberry                
+2010 pop     : 968                      
+2020 pop     : 1077                     
+Growth       : 11.260 percent
+
+Name         : Karnes City              
+2010 pop     : 3042                     
+2020 pop     : 3383                     
+Growth       : 11.210 percent
+
+Name         : Coppell                  
+2010 pop     : 38659                    
+2020 pop     : 42983                    
+Growth       : 11.185 percent
+
+Name         : Laredo                   
+2010 pop     : 236091                   
+2020 pop     : 262491                   
+Growth       : 11.182 percent
+
+Name         : Natalia                  
+2010 pop     : 1431                     
+2020 pop     : 1590                     
+Growth       : 11.111 percent
+
+Name         : Texas City               
+2010 pop     : 45099                    
+2020 pop     : 50094                    
+Growth       : 11.076 percent
+
+Name         : Oak Grove                
+2010 pop     : 603                      
+2020 pop     : 669                      
+Growth       : 10.945 percent
+
+Name         : Liberty                  
+2010 pop     : 8397                     
+2020 pop     : 9314                     
+Growth       : 10.921 percent
+
+Name         : Grand Prairie            
+2010 pop     : 175396                   
+2020 pop     : 194543                   
+Growth       : 10.916 percent
+
+Name         : Irving                   
+2010 pop     : 216290                   
+2020 pop     : 239798                   
+Growth       : 10.869 percent
+
+Name         : Pecan Hill               
+2010 pop     : 626                      
+2020 pop     : 694                      
+Growth       : 10.863 percent
+
+Name         : White Settlement         
+2010 pop     : 16116                    
+2020 pop     : 17851                    
+Growth       : 10.766 percent
+
+Name         : Plano                    
+2010 pop     : 259841                   
+2020 pop     : 287677                   
+Growth       : 10.713 percent
+
+Name         : Highland Village         
+2010 pop     : 15056                    
+2020 pop     : 16668                    
+Growth       : 10.707 percent
+
+Name         : Garrett                  
+2010 pop     : 806                      
+2020 pop     : 892                      
+Growth       : 10.670 percent
+
+Name         : Brenham                  
+2010 pop     : 15716                    
+2020 pop     : 17369                    
+Growth       : 10.518 percent
+
+Name         : Houston                  
+2010 pop     : 2099451                  
+2020 pop     : 2320268                  
+Growth       : 10.518 percent
+
+Name         : Maypearl                 
+2010 pop     : 934                      
+2020 pop     : 1032                     
+Growth       : 10.493 percent
+
+Name         : Krugerville              
+2010 pop     : 1662                     
+2020 pop     : 1836                     
+Growth       : 10.469 percent
+
+Name         : San Felipe               
+2010 pop     : 747                      
+2020 pop     : 825                      
+Growth       : 10.442 percent
+
+Name         : Glen Rose                
+2010 pop     : 2444                     
+2020 pop     : 2699                     
+Growth       : 10.434 percent
+
+Name         : Tyler                    
+2010 pop     : 96900                    
+2020 pop     : 106985                   
+Growth       : 10.408 percent
+
+Name         : Grays Prairie            
+2010 pop     : 337                      
+2020 pop     : 372                      
+Growth       : 10.386 percent
+
+Name         : Runge                    
+2010 pop     : 1031                     
+2020 pop     : 1138                     
+Growth       : 10.378 percent
+
+Name         : McAllen                  
+2010 pop     : 129877                   
+2020 pop     : 143268                   
+Growth       : 10.311 percent
+
+Name         : Yantis                   
+2010 pop     : 388                      
+2020 pop     : 428                      
+Growth       : 10.309 percent
+
+Name         : Martindale               
+2010 pop     : 1116                     
+2020 pop     : 1231                     
+Growth       : 10.305 percent
+
+Name         : Hewitt                   
+2010 pop     : 13549                    
+2020 pop     : 14937                    
+Growth       : 10.244 percent
+
+Name         : Olmos Park               
+2010 pop     : 2237                     
+2020 pop     : 2466                     
+Growth       : 10.237 percent
+
+Name         : Castroville              
+2010 pop     : 2680                     
+2020 pop     : 2954                     
+Growth       : 10.224 percent
+
+Name         : Bryan                    
+2010 pop     : 76201                    
+2020 pop     : 83980                    
+Growth       : 10.209 percent
+
+Name         : Piney Point Village      
+2010 pop     : 3125                     
+2020 pop     : 3444                     
+Growth       : 10.208 percent
+
+Name         : Webster                  
+2010 pop     : 10400                    
+2020 pop     : 11451                    
+Growth       : 10.106 percent
+
+Name         : Santa Fe                 
+2010 pop     : 12222                    
+2020 pop     : 13449                    
+Growth       : 10.039 percent
+
+Name         : Stagecoach               
+2010 pop     : 538                      
+2020 pop     : 592                      
+Growth       : 10.037 percent
+
+Name         : Tiki Island              
+2010 pop     : 968                      
+2020 pop     : 1065                     
+Growth       : 10.021 percent
+
+Name         : Needville                
+2010 pop     : 2823                     
+2020 pop     : 3103                     
+Growth       : 9.919 percent
+
+Name         : Hutchins                 
+2010 pop     : 5338                     
+2020 pop     : 5866                     
+Growth       : 9.891 percent
+
+Name         : Southside Place          
+2010 pop     : 1715                     
+2020 pop     : 1883                     
+Growth       : 9.796 percent
+
+Name         : Jamaica Beach            
+2010 pop     : 983                      
+2020 pop     : 1079                     
+Growth       : 9.766 percent
+
+Name         : Shady Shores             
+2010 pop     : 2612                     
+2020 pop     : 2865                     
+Growth       : 9.686 percent
+
+Name         : Brazos Country           
+2010 pop     : 469                      
+2020 pop     : 514                      
+Growth       : 9.595 percent
+
+Name         : Huntsville               
+2010 pop     : 38548                    
+2020 pop     : 42241                    
+Growth       : 9.580 percent
+
+Name         : Windcrest                
+2010 pop     : 5364                     
+2020 pop     : 5876                     
+Growth       : 9.545 percent
+
+Name         : Tomball                  
+2010 pop     : 10753                    
+2020 pop     : 11778                    
+Growth       : 9.532 percent
+
+Name         : Lumberton                
+2010 pop     : 11943                    
+2020 pop     : 13073                    
+Growth       : 9.462 percent
+
+Name         : Seadrift                 
+2010 pop     : 1364                     
+2020 pop     : 1493                     
+Growth       : 9.457 percent
+
+Name         : Moore Station            
+2010 pop     : 201                      
+2020 pop     : 220                      
+Growth       : 9.453 percent
+
+Name         : Gun Barrel City          
+2010 pop     : 5672                     
+2020 pop     : 6208                     
+Growth       : 9.450 percent
+
+Name         : Mission                  
+2010 pop     : 77058                    
+2020 pop     : 84331                    
+Growth       : 9.438 percent
+
+Name         : Rankin                   
+2010 pop     : 778                      
+2020 pop     : 851                      
+Growth       : 9.383 percent
+
+Name         : Troup                    
+2010 pop     : 1869                     
+2020 pop     : 2044                     
+Growth       : 9.363 percent
+
+Name         : Wink                     
+2010 pop     : 940                      
+2020 pop     : 1028                     
+Growth       : 9.362 percent
+
+Name         : Mingus                   
+2010 pop     : 235                      
+2020 pop     : 257                      
+Growth       : 9.362 percent
+
+Name         : Bishop Hills             
+2010 pop     : 193                      
+2020 pop     : 211                      
+Growth       : 9.326 percent
+
+Name         : Quinlan                  
+2010 pop     : 1394                     
+2020 pop     : 1524                     
+Growth       : 9.326 percent
+
+Name         : San Juan                 
+2010 pop     : 33856                    
+2020 pop     : 37008                    
+Growth       : 9.310 percent
+
+Name         : Point Blank              
+2010 pop     : 688                      
+2020 pop     : 752                      
+Growth       : 9.302 percent
+
+Name         : Bells                    
+2010 pop     : 1392                     
+2020 pop     : 1521                     
+Growth       : 9.267 percent
+
+Name         : McCamey                  
+2010 pop     : 1887                     
+2020 pop     : 2060                     
+Growth       : 9.168 percent
+
+Name         : Cedar Hill               
+2010 pop     : 45028                    
+2020 pop     : 49148                    
+Growth       : 9.150 percent
+
+Name         : Hollywood Park           
+2010 pop     : 3062                     
+2020 pop     : 3342                     
+Growth       : 9.144 percent
+
+Name         : Kirby                    
+2010 pop     : 8000                     
+2020 pop     : 8723                     
+Growth       : 9.038 percent
+
+Name         : Mason                    
+2010 pop     : 2114                     
+2020 pop     : 2305                     
+Growth       : 9.035 percent
+
+Name         : Dallas                   
+2010 pop     : 1197816                  
+2020 pop     : 1304379                  
+Growth       : 8.896 percent
+
+Name         : Ennis                    
+2010 pop     : 18513                    
+2020 pop     : 20159                    
+Growth       : 8.891 percent
+
+Name         : Edna                     
+2010 pop     : 5499                     
+2020 pop     : 5987                     
+Growth       : 8.874 percent
+
+Name         : New Chapel Hill          
+2010 pop     : 594                      
+2020 pop     : 646                      
+Growth       : 8.754 percent
+
+Name         : New Home                 
+2010 pop     : 334                      
+2020 pop     : 363                      
+Growth       : 8.683 percent
+
+Name         : Whitesboro               
+2010 pop     : 3793                     
+2020 pop     : 4120                     
+Growth       : 8.621 percent
+
+Name         : China                    
+2010 pop     : 1160                     
+2020 pop     : 1260                     
+Growth       : 8.621 percent
+
+Name         : Palisades                
+2010 pop     : 325                      
+2020 pop     : 353                      
+Growth       : 8.615 percent
+
+Name         : Simonton                 
+2010 pop     : 814                      
+2020 pop     : 884                      
+Growth       : 8.600 percent
+
+Name         : Ingleside                
+2010 pop     : 9387                     
+2020 pop     : 10192                    
+Growth       : 8.576 percent
+
+Name         : Luling                   
+2010 pop     : 5411                     
+2020 pop     : 5869                     
+Growth       : 8.464 percent
+
+Name         : Paint Rock               
+2010 pop     : 273                      
+2020 pop     : 296                      
+Growth       : 8.425 percent
+
+Name         : San Angelo               
+2010 pop     : 93200                    
+2020 pop     : 101004                   
+Growth       : 8.373 percent
+
+Name         : Hilshire Village         
+2010 pop     : 746                      
+2020 pop     : 808                      
+Growth       : 8.311 percent
+
+Name         : University Park          
+2010 pop     : 23068                    
+2020 pop     : 24985                    
+Growth       : 8.310 percent
+
+Name         : Decatur                  
+2010 pop     : 6042                     
+2020 pop     : 6538                     
+Growth       : 8.209 percent
+
+Name         : Llano                    
+2010 pop     : 3232                     
+2020 pop     : 3497                     
+Growth       : 8.199 percent
+
+Name         : Log Cabin                
+2010 pop     : 714                      
+2020 pop     : 772                      
+Growth       : 8.123 percent
+
+Name         : Progreso                 
+2010 pop     : 5507                     
+2020 pop     : 5944                     
+Growth       : 7.935 percent
+
+Name         : Denison                  
+2010 pop     : 22682                    
+2020 pop     : 24479                    
+Growth       : 7.923 percent
+
+Name         : Arlington                
+2010 pop     : 365438                   
+2020 pop     : 394266                   
+Growth       : 7.889 percent
+
+Name         : Lancaster                
+2010 pop     : 36361                    
+2020 pop     : 39228                    
+Growth       : 7.885 percent
+
+Name         : Union Grove              
+2010 pop     : 357                      
+2020 pop     : 385                      
+Growth       : 7.843 percent
+
+Name         : Deer Park                
+2010 pop     : 32010                    
+2020 pop     : 34495                    
+Growth       : 7.763 percent
+
+Name         : Brookshire               
+2010 pop     : 4702                     
+2020 pop     : 5066                     
+Growth       : 7.741 percent
+
+Name         : La Joya                  
+2010 pop     : 3985                     
+2020 pop     : 4293                     
+Growth       : 7.729 percent
+
+Name         : Richmond                 
+2010 pop     : 11679                    
+2020 pop     : 12578                    
+Growth       : 7.698 percent
+
+Name         : Ravenna                  
+2010 pop     : 209                      
+2020 pop     : 225                      
+Growth       : 7.656 percent
+
+Name         : Riverside                
+2010 pop     : 510                      
+2020 pop     : 549                      
+Growth       : 7.647 percent
+
+Name         : Poteet                   
+2010 pop     : 3260                     
+2020 pop     : 3507                     
+Growth       : 7.577 percent
+
+Name         : Keene                    
+2010 pop     : 6106                     
+2020 pop     : 6568                     
+Growth       : 7.566 percent
+
+Name         : Trenton                  
+2010 pop     : 635                      
+2020 pop     : 683                      
+Growth       : 7.559 percent
+
+Name         : Granjeno                 
+2010 pop     : 293                      
+2020 pop     : 315                      
+Growth       : 7.509 percent
+
+Name         : Burnet                   
+2010 pop     : 5987                     
+2020 pop     : 6436                     
+Growth       : 7.500 percent
+
+Name         : Star Harbor              
+2010 pop     : 444                      
+2020 pop     : 477                      
+Growth       : 7.432 percent
+
+Name         : Miller's Cove            
+2010 pop     : 149                      
+2020 pop     : 160                      
+Growth       : 7.383 percent
+
+Name         : Oyster Creek             
+2010 pop     : 1111                     
+2020 pop     : 1193                     
+Growth       : 7.381 percent
+
+Name         : Graford                  
+2010 pop     : 584                      
+2020 pop     : 627                      
+Growth       : 7.363 percent
+
+Name         : Socorro                  
+2010 pop     : 32013                    
+2020 pop     : 34370                    
+Growth       : 7.363 percent
+
+Name         : Powell                   
+2010 pop     : 136                      
+2020 pop     : 146                      
+Growth       : 7.353 percent
+
+Name         : Ore City                 
+2010 pop     : 1144                     
+2020 pop     : 1228                     
+Growth       : 7.343 percent
+
+Name         : Tye                      
+2010 pop     : 1242                     
+2020 pop     : 1333                     
+Growth       : 7.327 percent
+
+Name         : Whitewright              
+2010 pop     : 1604                     
+2020 pop     : 1721                     
+Growth       : 7.294 percent
+
+Name         : West Lake Hills          
+2010 pop     : 3063                     
+2020 pop     : 3286                     
+Growth       : 7.280 percent
+
+Name         : Angus                    
+2010 pop     : 414                      
+2020 pop     : 444                      
+Growth       : 7.246 percent
+
+Name         : Hondo                    
+2010 pop     : 8803                     
+2020 pop     : 9436                     
+Growth       : 7.191 percent
+
+Name         : Eagle Pass               
+2010 pop     : 26248                    
+2020 pop     : 28130                    
+Growth       : 7.170 percent
+
+Name         : Forsan                   
+2010 pop     : 210                      
+2020 pop     : 225                      
+Growth       : 7.143 percent
+
+Name         : Pe�itas                  
+2010 pop     : 4403                     
+2020 pop     : 4716                     
+Growth       : 7.109 percent
+
+Name         : Kemp                     
+2010 pop     : 1154                     
+2020 pop     : 1236                     
+Growth       : 7.106 percent
+
+Name         : Sealy                    
+2010 pop     : 6019                     
+2020 pop     : 6446                     
+Growth       : 7.094 percent
+
+Name         : Annetta North            
+2010 pop     : 518                      
+2020 pop     : 554                      
+Growth       : 6.950 percent
+
+Name         : Abilene                  
+2010 pop     : 117063                   
+2020 pop     : 125182                   
+Growth       : 6.936 percent
+
+Name         : Victoria                 
+2010 pop     : 62592                    
+2020 pop     : 66916                    
+Growth       : 6.908 percent
+
+Name         : Industry                 
+2010 pop     : 304                      
+2020 pop     : 325                      
+Growth       : 6.908 percent
+
+Name         : McGregor                 
+2010 pop     : 4987                     
+2020 pop     : 5331                     
+Growth       : 6.898 percent
+
+Name         : Cleburne                 
+2010 pop     : 29337                    
+2020 pop     : 31352                    
+Growth       : 6.868 percent
+
+Name         : Evant                    
+2010 pop     : 426                      
+2020 pop     : 455                      
+Growth       : 6.808 percent
+
+Name         : Lake Worth               
+2010 pop     : 4584                     
+2020 pop     : 4896                     
+Growth       : 6.806 percent
+
+Name         : Woodway                  
+2010 pop     : 8452                     
+2020 pop     : 9024                     
+Growth       : 6.768 percent
+
+Name         : Shoreacres               
+2010 pop     : 1493                     
+2020 pop     : 1593                     
+Growth       : 6.698 percent
+
+Name         : Brownsville              
+2010 pop     : 175023                   
+2020 pop     : 186738                   
+Growth       : 6.693 percent
+
+Name         : Mercedes                 
+2010 pop     : 15570                    
+2020 pop     : 16604                    
+Growth       : 6.641 percent
+
+Name         : Bailey's Prairie         
+2010 pop     : 727                      
+2020 pop     : 775                      
+Growth       : 6.602 percent
+
+Name         : Nixon                    
+2010 pop     : 2385                     
+2020 pop     : 2542                     
+Growth       : 6.583 percent
+
+Name         : Madisonville             
+2010 pop     : 4396                     
+2020 pop     : 4685                     
+Growth       : 6.574 percent
+
+Name         : Pine Forest              
+2010 pop     : 487                      
+2020 pop     : 519                      
+Growth       : 6.571 percent
+
+Name         : Todd Mission             
+2010 pop     : 107                      
+2020 pop     : 114                      
+Growth       : 6.542 percent
+
+Name         : Muenster                 
+2010 pop     : 1544                     
+2020 pop     : 1645                     
+Growth       : 6.541 percent
+
+Name         : Double Oak               
+2010 pop     : 2867                     
+2020 pop     : 3054                     
+Growth       : 6.522 percent
+
+Name         : Mildred                  
+2010 pop     : 368                      
+2020 pop     : 392                      
+Growth       : 6.522 percent
+
+Name         : Dalhart                  
+2010 pop     : 7930                     
+2020 pop     : 8447                     
+Growth       : 6.520 percent
+
+Name         : Somerville               
+2010 pop     : 1376                     
+2020 pop     : 1465                     
+Growth       : 6.468 percent
+
+Name         : El Campo                 
+2010 pop     : 11602                    
+2020 pop     : 12350                    
+Growth       : 6.447 percent
+
+Name         : Enchanted Oaks           
+2010 pop     : 326                      
+2020 pop     : 347                      
+Growth       : 6.442 percent
+
+Name         : Waelder                  
+2010 pop     : 1065                     
+2020 pop     : 1133                     
+Growth       : 6.385 percent
+
+Name         : West                     
+2010 pop     : 2807                     
+2020 pop     : 2986                     
+Growth       : 6.377 percent
+
+Name         : Donna                    
+2010 pop     : 15798                    
+2020 pop     : 16797                    
+Growth       : 6.324 percent
+
+Name         : Texline                  
+2010 pop     : 507                      
+2020 pop     : 539                      
+Growth       : 6.312 percent
+
+Name         : Kerrville                
+2010 pop     : 22347                    
+2020 pop     : 23754                    
+Growth       : 6.296 percent
+
+Name         : Bedford                  
+2010 pop     : 46979                    
+2020 pop     : 49928                    
+Growth       : 6.277 percent
+
+Name         : Beeville                 
+2010 pop     : 12863                    
+2020 pop     : 13669                    
+Growth       : 6.266 percent
+
+Name         : Alamo                    
+2010 pop     : 18353                    
+2020 pop     : 19493                    
+Growth       : 6.212 percent
+
+Name         : Petronila                
+2010 pop     : 113                      
+2020 pop     : 120                      
+Growth       : 6.195 percent
+
+Name         : Edgewood                 
+2010 pop     : 1441                     
+2020 pop     : 1530                     
+Growth       : 6.176 percent
+
+Name         : Palmer                   
+2010 pop     : 2000                     
+2020 pop     : 2123                     
+Growth       : 6.150 percent
+
+Name         : Sour Lake                
+2010 pop     : 1813                     
+2020 pop     : 1924                     
+Growth       : 6.122 percent
+
+Name         : Granger                  
+2010 pop     : 1419                     
+2020 pop     : 1505                     
+Growth       : 6.061 percent
+
+Name         : Highland Park            
+2010 pop     : 8564                     
+2020 pop     : 9083                     
+Growth       : 6.060 percent
+
+Name         : Ector                    
+2010 pop     : 695                      
+2020 pop     : 737                      
+Growth       : 6.043 percent
+
+Name         : Niederwald               
+2010 pop     : 565                      
+2020 pop     : 599                      
+Growth       : 6.018 percent
+
+Name         : Bellmead                 
+2010 pop     : 9901                     
+2020 pop     : 10494                    
+Growth       : 5.989 percent
+
+Name         : Mount Calm               
+2010 pop     : 320                      
+2020 pop     : 339                      
+Growth       : 5.937 percent
+
+Name         : Morgan                   
+2010 pop     : 490                      
+2020 pop     : 519                      
+Growth       : 5.918 percent
+
+Name         : Snook                    
+2010 pop     : 511                      
+2020 pop     : 541                      
+Growth       : 5.871 percent
+
+Name         : Hudson                   
+2010 pop     : 4731                     
+2020 pop     : 5005                     
+Growth       : 5.792 percent
+
+Name         : Garland                  
+2010 pop     : 226876                   
+2020 pop     : 239928                   
+Growth       : 5.753 percent
+
+Name         : Palmview                 
+2010 pop     : 5460                     
+2020 pop     : 5774                     
+Growth       : 5.751 percent
+
+Name         : Iola                     
+2010 pop     : 401                      
+2020 pop     : 424                      
+Growth       : 5.736 percent
+
+Name         : Reno                     
+2010 pop     : 3166                     
+2020 pop     : 3346                     
+Growth       : 5.685 percent
+
+Name         : Duncanville              
+2010 pop     : 38524                    
+2020 pop     : 40706                    
+Growth       : 5.664 percent
+
+Name         : Galveston                
+2010 pop     : 47743                    
+2020 pop     : 50446                    
+Growth       : 5.662 percent
+
+Name         : Corsicana                
+2010 pop     : 23770                    
+2020 pop     : 25109                    
+Growth       : 5.633 percent
+
+Name         : Mineola                  
+2010 pop     : 4515                     
+2020 pop     : 4766                     
+Growth       : 5.559 percent
+
+Name         : Winona                   
+2010 pop     : 576                      
+2020 pop     : 608                      
+Growth       : 5.556 percent
+
+Name         : Rice                     
+2010 pop     : 923                      
+2020 pop     : 974                      
+Growth       : 5.525 percent
+
+Name         : Gainesville              
+2010 pop     : 16002                    
+2020 pop     : 16886                    
+Growth       : 5.524 percent
+
+Name         : Three Rivers             
+2010 pop     : 1848                     
+2020 pop     : 1949                     
+Growth       : 5.465 percent
+
+Name         : Itasca                   
+2010 pop     : 1644                     
+2020 pop     : 1733                     
+Growth       : 5.414 percent
+
+Name         : West University Place    
+2010 pop     : 14787                    
+2020 pop     : 15585                    
+Growth       : 5.397 percent
+
+Name         : Tira                     
+2010 pop     : 297                      
+2020 pop     : 313                      
+Growth       : 5.387 percent
+
+Name         : Gholson                  
+2010 pop     : 1061                     
+2020 pop     : 1118                     
+Growth       : 5.372 percent
+
+Name         : Golinda                  
+2010 pop     : 559                      
+2020 pop     : 589                      
+Growth       : 5.367 percent
+
+Name         : New Summerfield          
+2010 pop     : 1111                     
+2020 pop     : 1170                     
+Growth       : 5.311 percent
+
+Name         : Taylor Landing           
+2010 pop     : 228                      
+2020 pop     : 240                      
+Growth       : 5.263 percent
+
+Name         : Pantego                  
+2010 pop     : 2394                     
+2020 pop     : 2519                     
+Growth       : 5.221 percent
+
+Name         : Malone                   
+2010 pop     : 269                      
+2020 pop     : 283                      
+Growth       : 5.204 percent
+
+Name         : Bunker Hill Village      
+2010 pop     : 3633                     
+2020 pop     : 3822                     
+Growth       : 5.202 percent
+
+Name         : Miles                    
+2010 pop     : 829                      
+2020 pop     : 872                      
+Growth       : 5.187 percent
+
+Name         : La Ward                  
+2010 pop     : 213                      
+2020 pop     : 224                      
+Growth       : 5.164 percent
+
+Name         : Amarillo                 
+2010 pop     : 190695                   
+2020 pop     : 200393                   
+Growth       : 5.086 percent
+
+Name         : Sulphur Springs          
+2010 pop     : 15449                    
+2020 pop     : 16234                    
+Growth       : 5.081 percent
+
+Name         : Goliad                   
+2010 pop     : 1908                     
+2020 pop     : 2004                     
+Growth       : 5.031 percent
+
+Name         : Walnut Springs           
+2010 pop     : 827                      
+2020 pop     : 868                      
+Growth       : 4.958 percent
+
+Name         : Savoy                    
+2010 pop     : 831                      
+2020 pop     : 872                      
+Growth       : 4.934 percent
+
+Name         : Rio Grande City          
+2010 pop     : 13834                    
+2020 pop     : 14511                    
+Growth       : 4.894 percent
+
+Name         : La Grulla                
+2010 pop     : 1622                     
+2020 pop     : 1701                     
+Growth       : 4.871 percent
+
+Name         : Gilmer                   
+2010 pop     : 4905                     
+2020 pop     : 5143                     
+Growth       : 4.852 percent
+
+Name         : Wolfe City               
+2010 pop     : 1412                     
+2020 pop     : 1480                     
+Growth       : 4.816 percent
+
+Name         : Palmhurst                
+2010 pop     : 2607                     
+2020 pop     : 2732                     
+Growth       : 4.795 percent
+
+Name         : George West              
+2010 pop     : 2445                     
+2020 pop     : 2562                     
+Growth       : 4.785 percent
+
+Name         : Navarro                  
+2010 pop     : 210                      
+2020 pop     : 220                      
+Growth       : 4.762 percent
+
+Name         : Kempner                  
+2010 pop     : 1089                     
+2020 pop     : 1140                     
+Growth       : 4.683 percent
+
+Name         : Alamo Heights            
+2010 pop     : 7031                     
+2020 pop     : 7357                     
+Growth       : 4.637 percent
+
+Name         : El Paso                  
+2010 pop     : 649121                   
+2020 pop     : 678815                   
+Growth       : 4.574 percent
+
+Name         : Humble                   
+2010 pop     : 15133                    
+2020 pop     : 15824                    
+Growth       : 4.566 percent
+
+Name         : Farwell                  
+2010 pop     : 1363                     
+2020 pop     : 1425                     
+Growth       : 4.549 percent
+
+Name         : Penelope                 
+2010 pop     : 198                      
+2020 pop     : 207                      
+Growth       : 4.545 percent
+
+Name         : Jewett                   
+2010 pop     : 1167                     
+2020 pop     : 1220                     
+Growth       : 4.542 percent
+
+Name         : Seven Points             
+2010 pop     : 1455                     
+2020 pop     : 1521                     
+Growth       : 4.536 percent
+
+Name         : Vega                     
+2010 pop     : 884                      
+2020 pop     : 924                      
+Growth       : 4.525 percent
+
+Name         : Shiner                   
+2010 pop     : 2069                     
+2020 pop     : 2162                     
+Growth       : 4.495 percent
+
+Name         : Giddings                 
+2010 pop     : 4881                     
+2020 pop     : 5099                     
+Growth       : 4.466 percent
+
+Name         : Holland                  
+2010 pop     : 1121                     
+2020 pop     : 1171                     
+Growth       : 4.460 percent
+
+Name         : Pittsburg                
+2010 pop     : 4497                     
+2020 pop     : 4697                     
+Growth       : 4.447 percent
+
+Name         : Bowie                    
+2010 pop     : 5218                     
+2020 pop     : 5448                     
+Growth       : 4.408 percent
+
+Name         : Blooming Grove           
+2010 pop     : 821                      
+2020 pop     : 857                      
+Growth       : 4.385 percent
+
+Name         : Lake City                
+2010 pop     : 509                      
+2020 pop     : 531                      
+Growth       : 4.322 percent
+
+Name         : Reklaw                   
+2010 pop     : 379                      
+2020 pop     : 395                      
+Growth       : 4.222 percent
+
+Name         : Sullivan City            
+2010 pop     : 4002                     
+2020 pop     : 4170                     
+Growth       : 4.198 percent
+
+Name         : Watauga                  
+2010 pop     : 23497                    
+2020 pop     : 24481                    
+Growth       : 4.188 percent
+
+Name         : Marquez                  
+2010 pop     : 263                      
+2020 pop     : 274                      
+Growth       : 4.183 percent
+
+Name         : Redwater                 
+2010 pop     : 1057                     
+2020 pop     : 1101                     
+Growth       : 4.163 percent
+
+Name         : New Deal                 
+2010 pop     : 794                      
+2020 pop     : 827                      
+Growth       : 4.156 percent
+
+Name         : Corpus Christi           
+2010 pop     : 305215                   
+2020 pop     : 317863                   
+Growth       : 4.144 percent
+
+Name         : Van                      
+2010 pop     : 2632                     
+2020 pop     : 2741                     
+Growth       : 4.141 percent
+
+Name         : Honey Grove              
+2010 pop     : 1668                     
+2020 pop     : 1737                     
+Growth       : 4.137 percent
+
+Name         : Gonzales                 
+2010 pop     : 7237                     
+2020 pop     : 7533                     
+Growth       : 4.090 percent
+
+Name         : Wallis                   
+2010 pop     : 1252                     
+2020 pop     : 1303                     
+Growth       : 4.073 percent
+
+Name         : Shepherd                 
+2010 pop     : 2319                     
+2020 pop     : 2413                     
+Growth       : 4.053 percent
+
+Name         : Bear Creek               
+2010 pop     : 382                      
+2020 pop     : 397                      
+Growth       : 3.927 percent
+
+Name         : Little River-Academy     
+2010 pop     : 1961                     
+2020 pop     : 2038                     
+Growth       : 3.927 percent
+
+Name         : Hemphill                 
+2010 pop     : 1198                     
+2020 pop     : 1244                     
+Growth       : 3.840 percent
+
+Name         : Smiley                   
+2010 pop     : 549                      
+2020 pop     : 570                      
+Growth       : 3.825 percent
+
+Name         : Lexington                
+2010 pop     : 1177                     
+2020 pop     : 1222                     
+Growth       : 3.823 percent
+
+Name         : Lorena                   
+2010 pop     : 1691                     
+2020 pop     : 1755                     
+Growth       : 3.785 percent
+
+Name         : New Waverly              
+2010 pop     : 1032                     
+2020 pop     : 1071                     
+Growth       : 3.779 percent
+
+Name         : Staples                  
+2010 pop     : 267                      
+2020 pop     : 277                      
+Growth       : 3.745 percent
+
+Name         : Como                     
+2010 pop     : 702                      
+2020 pop     : 728                      
+Growth       : 3.704 percent
+
+Name         : Oak Ridge North          
+2010 pop     : 3049                     
+2020 pop     : 3161                     
+Growth       : 3.673 percent
+
+Name         : Shallowater              
+2010 pop     : 2484                     
+2020 pop     : 2574                     
+Growth       : 3.623 percent
+
+Name         : Granite Shoals           
+2010 pop     : 4910                     
+2020 pop     : 5087                     
+Growth       : 3.605 percent
+
+Name         : Wills Point              
+2010 pop     : 3524                     
+2020 pop     : 3651                     
+Growth       : 3.604 percent
+
+Name         : Whitney                  
+2010 pop     : 2087                     
+2020 pop     : 2162                     
+Growth       : 3.594 percent
+
+Name         : Combes                   
+2010 pop     : 2895                     
+2020 pop     : 2999                     
+Growth       : 3.592 percent
+
+Name         : Santa Clara              
+2010 pop     : 725                      
+2020 pop     : 751                      
+Growth       : 3.586 percent
+
+Name         : Gallatin                 
+2010 pop     : 419                      
+2020 pop     : 434                      
+Growth       : 3.580 percent
+
+Name         : Lacy-Lakeview            
+2010 pop     : 6489                     
+2020 pop     : 6721                     
+Growth       : 3.575 percent
+
+Name         : Moody                    
+2010 pop     : 1371                     
+2020 pop     : 1420                     
+Growth       : 3.574 percent
+
+Name         : Trent                    
+2010 pop     : 337                      
+2020 pop     : 349                      
+Growth       : 3.561 percent
+
+Name         : Jersey Village           
+2010 pop     : 7620                     
+2020 pop     : 7890                     
+Growth       : 3.543 percent
+
+Name         : Hurst                    
+2010 pop     : 37337                    
+2020 pop     : 38655                    
+Growth       : 3.530 percent
+
+Name         : Midway                   
+2010 pop     : 228                      
+2020 pop     : 236                      
+Growth       : 3.509 percent
+
+Name         : Weimar                   
+2010 pop     : 2151                     
+2020 pop     : 2226                     
+Growth       : 3.487 percent
+
+Name         : La Porte                 
+2010 pop     : 33800                    
+2020 pop     : 34976                    
+Growth       : 3.479 percent
+
+Name         : Haltom City              
+2010 pop     : 42409                    
+2020 pop     : 43874                    
+Growth       : 3.454 percent
+
+Name         : Tom Bean                 
+2010 pop     : 1045                     
+2020 pop     : 1081                     
+Growth       : 3.445 percent
+
+Name         : Hallettsville            
+2010 pop     : 2550                     
+2020 pop     : 2637                     
+Growth       : 3.412 percent
+
+Name         : Richland                 
+2010 pop     : 264                      
+2020 pop     : 273                      
+Growth       : 3.409 percent
+
+Name         : Hawkins                  
+2010 pop     : 1278                     
+2020 pop     : 1321                     
+Growth       : 3.365 percent
+
+Name         : Buffalo Springs          
+2010 pop     : 453                      
+2020 pop     : 468                      
+Growth       : 3.311 percent
+
+Name         : Carbon                   
+2010 pop     : 272                      
+2020 pop     : 281                      
+Growth       : 3.309 percent
+
+Name         : Fredericksburg           
+2010 pop     : 10530                    
+2020 pop     : 10875                    
+Growth       : 3.276 percent
+
+Name         : Italy                    
+2010 pop     : 1863                     
+2020 pop     : 1923                     
+Growth       : 3.221 percent
+
+Name         : Leonard                  
+2010 pop     : 1990                     
+2020 pop     : 2054                     
+Growth       : 3.216 percent
+
+Name         : Franklin                 
+2010 pop     : 1564                     
+2020 pop     : 1614                     
+Growth       : 3.197 percent
+
+Name         : Cotulla                  
+2010 pop     : 3603                     
+2020 pop     : 3718                     
+Growth       : 3.192 percent
+
+Name         : Florence                 
+2010 pop     : 1136                     
+2020 pop     : 1171                     
+Growth       : 3.081 percent
+
+Name         : Normangee                
+2010 pop     : 685                      
+2020 pop     : 706                      
+Growth       : 3.066 percent
+
+Name         : Leakey                   
+2010 pop     : 425                      
+2020 pop     : 438                      
+Growth       : 3.059 percent
+
+Name         : Briaroaks                
+2010 pop     : 492                      
+2020 pop     : 507                      
+Growth       : 3.049 percent
+
+Name         : Windom                   
+2010 pop     : 199                      
+2020 pop     : 205                      
+Growth       : 3.015 percent
+
+Name         : Hedwig Village           
+2010 pop     : 2557                     
+2020 pop     : 2634                     
+Growth       : 3.011 percent
+
+Name         : Angleton                 
+2010 pop     : 18862                    
+2020 pop     : 19429                    
+Growth       : 3.006 percent
+
+Name         : Riesel                   
+2010 pop     : 1007                     
+2020 pop     : 1037                     
+Growth       : 2.979 percent
+
+Name         : Hideaway                 
+2010 pop     : 3083                     
+2020 pop     : 3174                     
+Growth       : 2.952 percent
+
+Name         : Cove                     
+2010 pop     : 510                      
+2020 pop     : 525                      
+Growth       : 2.941 percent
+
+Name         : Leona                    
+2010 pop     : 175                      
+2020 pop     : 180                      
+Growth       : 2.857 percent
+
+Name         : Mount Vernon             
+2010 pop     : 2662                     
+2020 pop     : 2738                     
+Growth       : 2.855 percent
+
+Name         : Jones Creek              
+2010 pop     : 2020                     
+2020 pop     : 2077                     
+Growth       : 2.822 percent
+
+Name         : Rogers                   
+2010 pop     : 1218                     
+2020 pop     : 1252                     
+Growth       : 2.791 percent
+
+Name         : Highland Haven           
+2010 pop     : 431                      
+2020 pop     : 443                      
+Growth       : 2.784 percent
+
+Name         : Bonham                   
+2010 pop     : 10127                    
+2020 pop     : 10408                    
+Growth       : 2.775 percent
+
+Name         : Tool                     
+2010 pop     : 2240                     
+2020 pop     : 2302                     
+Growth       : 2.768 percent
+
+Name         : Kurten                   
+2010 pop     : 398                      
+2020 pop     : 409                      
+Growth       : 2.764 percent
+
+Name         : Strawn                   
+2010 pop     : 653                      
+2020 pop     : 671                      
+Growth       : 2.757 percent
+
+Name         : River Oaks               
+2010 pop     : 7427                     
+2020 pop     : 7630                     
+Growth       : 2.733 percent
+
+Name         : South Houston            
+2010 pop     : 16983                    
+2020 pop     : 17438                    
+Growth       : 2.679 percent
+
+Name         : Leroy                    
+2010 pop     : 337                      
+2020 pop     : 346                      
+Growth       : 2.671 percent
+
+Name         : Bellville                
+2010 pop     : 4097                     
+2020 pop     : 4206                     
+Growth       : 2.660 percent
+
+Name         : Mount Pleasant           
+2010 pop     : 15564                    
+2020 pop     : 15978                    
+Growth       : 2.660 percent
+
+Name         : Clyde                    
+2010 pop     : 3713                     
+2020 pop     : 3811                     
+Growth       : 2.639 percent
+
+Name         : Milford                  
+2010 pop     : 728                      
+2020 pop     : 747                      
+Growth       : 2.610 percent
+
+Name         : Ganado                   
+2010 pop     : 2003                     
+2020 pop     : 2055                     
+Growth       : 2.596 percent
+
+Name         : Vinton                   
+2010 pop     : 1971                     
+2020 pop     : 2022                     
+Growth       : 2.588 percent
+
+Name         : Idalou                   
+2010 pop     : 2250                     
+2020 pop     : 2308                     
+Growth       : 2.578 percent
+
+Name         : Ransom Canyon            
+2010 pop     : 1096                     
+2020 pop     : 1124                     
+Growth       : 2.555 percent
+
+Name         : Ingram                   
+2010 pop     : 1804                     
+2020 pop     : 1850                     
+Growth       : 2.550 percent
+
+Name         : Bay City                 
+2010 pop     : 17614                    
+2020 pop     : 18061                    
+Growth       : 2.538 percent
+
+Name         : Hico                     
+2010 pop     : 1379                     
+2020 pop     : 1413                     
+Growth       : 2.466 percent
+
+Name         : Ladonia                  
+2010 pop     : 612                      
+2020 pop     : 627                      
+Growth       : 2.451 percent
+
+Name         : Mertens                  
+2010 pop     : 125                      
+2020 pop     : 128                      
+Growth       : 2.400 percent
+
+Name         : Warren City              
+2010 pop     : 298                      
+2020 pop     : 305                      
+Growth       : 2.349 percent
+
+Name         : New Hope                 
+2010 pop     : 614                      
+2020 pop     : 628                      
+Growth       : 2.280 percent
+
+Name         : Lakeport                 
+2010 pop     : 974                      
+2020 pop     : 996                      
+Growth       : 2.259 percent
+
+Name         : Lawn                     
+2010 pop     : 314                      
+2020 pop     : 321                      
+Growth       : 2.229 percent
+
+Name         : San Saba                 
+2010 pop     : 3099                     
+2020 pop     : 3168                     
+Growth       : 2.227 percent
+
+Name         : Quitman                  
+2010 pop     : 1809                     
+2020 pop     : 1849                     
+Growth       : 2.211 percent
+
+Name         : Fort Stockton            
+2010 pop     : 8283                     
+2020 pop     : 8466                     
+Growth       : 2.209 percent
+
+Name         : Alpine                   
+2010 pop     : 5905                     
+2020 pop     : 6035                     
+Growth       : 2.202 percent
+
+Name         : Trinity                  
+2010 pop     : 2697                     
+2020 pop     : 2756                     
+Growth       : 2.188 percent
+
+Name         : Yoakum                   
+2010 pop     : 5815                     
+2020 pop     : 5940                     
+Growth       : 2.150 percent
+
+Name         : Abernathy                
+2010 pop     : 2805                     
+2020 pop     : 2865                     
+Growth       : 2.139 percent
+
+Name         : Schulenburg              
+2010 pop     : 2852                     
+2020 pop     : 2913                     
+Growth       : 2.139 percent
+
+Name         : Spofford                 
+2010 pop     : 95                       
+2020 pop     : 97                       
+Growth       : 2.105 percent
+
+Name         : Bellaire                 
+2010 pop     : 16855                    
+2020 pop     : 17202                    
+Growth       : 2.059 percent
+
+Name         : Laguna Vista             
+2010 pop     : 3117                     
+2020 pop     : 3180                     
+Growth       : 2.021 percent
+
+Name         : San Leanna               
+2010 pop     : 497                      
+2020 pop     : 507                      
+Growth       : 2.012 percent
+
+Name         : Sundown                  
+2010 pop     : 1397                     
+2020 pop     : 1425                     
+Growth       : 2.004 percent
+
+Name         : Stratford                
+2010 pop     : 2017                     
+2020 pop     : 2057                     
+Growth       : 1.983 percent
+
+Name         : Eureka                   
+2010 pop     : 307                      
+2020 pop     : 313                      
+Growth       : 1.954 percent
+
+Name         : Richland Hills           
+2010 pop     : 7801                     
+2020 pop     : 7953                     
+Growth       : 1.948 percent
+
+Name         : Jacksonville             
+2010 pop     : 14544                    
+2020 pop     : 14815                    
+Growth       : 1.863 percent
+
+Name         : Retreat                  
+2010 pop     : 377                      
+2020 pop     : 384                      
+Growth       : 1.857 percent
+
+Name         : Kenedy                   
+2010 pop     : 3296                     
+2020 pop     : 3353                     
+Growth       : 1.729 percent
+
+Name         : Gordon                   
+2010 pop     : 478                      
+2020 pop     : 486                      
+Growth       : 1.674 percent
+
+Name         : Brookside Village        
+2010 pop     : 1523                     
+2020 pop     : 1548                     
+Growth       : 1.641 percent
+
+Name         : New London               
+2010 pop     : 998                      
+2020 pop     : 1014                     
+Growth       : 1.603 percent
+
+Name         : Cut and Shoot            
+2010 pop     : 1070                     
+2020 pop     : 1087                     
+Growth       : 1.589 percent
+
+Name         : Uvalde                   
+2010 pop     : 15751                    
+2020 pop     : 16001                    
+Growth       : 1.587 percent
+
+Name         : Kirvin                   
+2010 pop     : 129                      
+2020 pop     : 131                      
+Growth       : 1.550 percent
+
+Name         : Dalworthington Gardens   
+2010 pop     : 2259                     
+2020 pop     : 2293                     
+Growth       : 1.505 percent
+
+Name         : Meridian                 
+2010 pop     : 1493                     
+2020 pop     : 1515                     
+Growth       : 1.474 percent
+
+Name         : Moulton                  
+2010 pop     : 886                      
+2020 pop     : 899                      
+Growth       : 1.467 percent
+
+Name         : Pasadena                 
+2010 pop     : 149043                   
+2020 pop     : 151227                   
+Growth       : 1.465 percent
+
+Name         : Longview                 
+2010 pop     : 80455                    
+2020 pop     : 81631                    
+Growth       : 1.462 percent
+
+Name         : Centerville              
+2010 pop     : 892                      
+2020 pop     : 905                      
+Growth       : 1.457 percent
+
+Name         : Leary                    
+2010 pop     : 495                      
+2020 pop     : 502                      
+Growth       : 1.414 percent
+
+Name         : Waskom                   
+2010 pop     : 2160                     
+2020 pop     : 2190                     
+Growth       : 1.389 percent
+
+Name         : Lake Jackson             
+2010 pop     : 26849                    
+2020 pop     : 27220                    
+Growth       : 1.382 percent
+
+Name         : Toco                     
+2010 pop     : 75                       
+2020 pop     : 76                       
+Growth       : 1.333 percent
+
+Name         : New Boston               
+2010 pop     : 4550                     
+2020 pop     : 4609                     
+Growth       : 1.297 percent
+
+Name         : Bishop                   
+2010 pop     : 3134                     
+2020 pop     : 3174                     
+Growth       : 1.276 percent
+
+Name         : Alvord                   
+2010 pop     : 1334                     
+2020 pop     : 1351                     
+Growth       : 1.274 percent
+
+Name         : Millican                 
+2010 pop     : 240                      
+2020 pop     : 243                      
+Growth       : 1.250 percent
+
+Name         : Columbus                 
+2010 pop     : 3655                     
+2020 pop     : 3699                     
+Growth       : 1.204 percent
+
+Name         : Nome                     
+2010 pop     : 588                      
+2020 pop     : 595                      
+Growth       : 1.190 percent
+
+Name         : Burkburnett              
+2010 pop     : 10811                    
+2020 pop     : 10939                    
+Growth       : 1.184 percent
+
+Name         : Grand Saline             
+2010 pop     : 3136                     
+2020 pop     : 3173                     
+Growth       : 1.180 percent
+
+Name         : Friona                   
+2010 pop     : 4123                     
+2020 pop     : 4171                     
+Growth       : 1.164 percent
+
+Name         : Athens                   
+2010 pop     : 12710                    
+2020 pop     : 12857                    
+Growth       : 1.157 percent
+
+Name         : Merkel                   
+2010 pop     : 2590                     
+2020 pop     : 2617                     
+Growth       : 1.042 percent
+
+Name         : Dawson                   
+2010 pop     : 807                      
+2020 pop     : 815                      
+Growth       : 0.991 percent
+
+Name         : Big Lake                 
+2010 pop     : 2936                     
+2020 pop     : 2965                     
+Growth       : 0.988 percent
+
+Name         : Oakwood                  
+2010 pop     : 510                      
+2020 pop     : 515                      
+Growth       : 0.980 percent
+
+Name         : Emory                    
+2010 pop     : 1239                     
+2020 pop     : 1251                     
+Growth       : 0.969 percent
+
+Name         : Rancho Viejo             
+2010 pop     : 2437                     
+2020 pop     : 2460                     
+Growth       : 0.944 percent
+
+Name         : Lowry Crossing           
+2010 pop     : 1711                     
+2020 pop     : 1727                     
+Growth       : 0.935 percent
+
+Name         : Rusk                     
+2010 pop     : 5551                     
+2020 pop     : 5602                     
+Growth       : 0.919 percent
+
+Name         : Sweeny                   
+2010 pop     : 3684                     
+2020 pop     : 3717                     
+Growth       : 0.896 percent
+
+Name         : Morgan's Point           
+2010 pop     : 339                      
+2020 pop     : 342                      
+Growth       : 0.885 percent
+
+Name         : Iredell                  
+2010 pop     : 339                      
+2020 pop     : 342                      
+Growth       : 0.885 percent
+
+Name         : Port Arthur              
+2010 pop     : 53818                    
+2020 pop     : 54280                    
+Growth       : 0.858 percent
+
+Name         : Smyer                    
+2010 pop     : 474                      
+2020 pop     : 478                      
+Growth       : 0.844 percent
+
+Name         : Murchison                
+2010 pop     : 594                      
+2020 pop     : 599                      
+Growth       : 0.842 percent
+
+Name         : Mesquite                 
+2010 pop     : 139824                   
+2020 pop     : 140937                   
+Growth       : 0.796 percent
+
+Name         : La Grange                
+2010 pop     : 4641                     
+2020 pop     : 4677                     
+Growth       : 0.776 percent
+
+Name         : Taylor Lake Village      
+2010 pop     : 3544                     
+2020 pop     : 3571                     
+Growth       : 0.762 percent
+
+Name         : Everman                  
+2010 pop     : 6108                     
+2020 pop     : 6154                     
+Growth       : 0.753 percent
+
+Name         : O'Donnell                
+2010 pop     : 831                      
+2020 pop     : 837                      
+Growth       : 0.722 percent
+
+Name         : Clifton                  
+2010 pop     : 3442                     
+2020 pop     : 3465                     
+Growth       : 0.668 percent
+
+Name         : Matador                  
+2010 pop     : 607                      
+2020 pop     : 611                      
+Growth       : 0.659 percent
+
+Name         : Bartlett                 
+2010 pop     : 1623                     
+2020 pop     : 1633                     
+Growth       : 0.616 percent
+
+Name         : The Hills                
+2010 pop     : 2472                     
+2020 pop     : 2487                     
+Growth       : 0.607 percent
+
+Name         : Lometa                   
+2010 pop     : 856                      
+2020 pop     : 861                      
+Growth       : 0.584 percent
+
+Name         : Center                   
+2010 pop     : 5193                     
+2020 pop     : 5221                     
+Growth       : 0.539 percent
+
+Name         : De Leon                  
+2010 pop     : 2246                     
+2020 pop     : 2258                     
+Growth       : 0.534 percent
+
+Name         : Woodloch                 
+2010 pop     : 207                      
+2020 pop     : 208                      
+Growth       : 0.483 percent
+
+Name         : Kosse                    
+2010 pop     : 464                      
+2020 pop     : 466                      
+Growth       : 0.431 percent
+
+Name         : Ross                     
+2010 pop     : 283                      
+2020 pop     : 284                      
+Growth       : 0.353 percent
+
+Name         : Poynor                   
+2010 pop     : 305                      
+2020 pop     : 306                      
+Growth       : 0.328 percent
+
+Name         : Harlingen                
+2010 pop     : 64849                    
+2020 pop     : 65022                    
+Growth       : 0.267 percent
+
+Name         : Payne Springs            
+2010 pop     : 767                      
+2020 pop     : 769                      
+Growth       : 0.261 percent
+
+Name         : Wells                    
+2010 pop     : 790                      
+2020 pop     : 792                      
+Growth       : 0.253 percent
+
+Name         : Hillsboro                
+2010 pop     : 8456                     
+2020 pop     : 8476                     
+Growth       : 0.237 percent
+
+Name         : Wilson                   
+2010 pop     : 489                      
+2020 pop     : 490                      
+Growth       : 0.204 percent
+
+Name         : Red Lick                 
+2010 pop     : 1008                     
+2020 pop     : 1010                     
+Growth       : 0.198 percent
+
+Name         : Westover Hills           
+2010 pop     : 682                      
+2020 pop     : 683                      
+Growth       : 0.147 percent
+
+Name         : Elsa                     
+2010 pop     : 5660                     
+2020 pop     : 5668                     
+Growth       : 0.141 percent
+
+Name         : Wichita Falls            
+2010 pop     : 104553                   
+2020 pop     : 104683                   
+Growth       : 0.124 percent
+
+Name         : Silsbee                  
+2010 pop     : 6611                     
+2020 pop     : 6617                     
+Growth       : 0.091 percent
+
+Name         : Ranger                   
+2010 pop     : 2468                     
+2020 pop     : 2469                     
+Growth       : 0.041 percent
+
+Name         : Rocky Mound              
+2010 pop     : 75                       
+2020 pop     : 75                       
+Growth       : 0.000 percent
+
+Name         : Coupland                 
+2010 pop     : 0                        
+2020 pop     : 289                      
+Growth       : N/A  
+
+Name         : San Elizario             
+2010 pop     : 0                        
+2020 pop     : 9089                     
+Growth       : N/A  
+
+Name         : Wellman                  
+2010 pop     : 203                      
+2020 pop     : 203                      
+Growth       : 0.000 percent
+
+Name         : Sandy Oaks               
+2010 pop     : 0                        
+2020 pop     : 4660                     
+Growth       : N/A  
+
+Name         : Providence Village       
+2010 pop     : 0                        
+2020 pop     : 7377                     
+Growth       : N/A  
+
+Name         : Spring Branch            
+2010 pop     : 0                        
+2020 pop     : 254                      
+Growth       : N/A  
+
+Name         : Dodd City                
+2010 pop     : 369                      
+2020 pop     : 369                      
+Growth       : 0.000 percent
+
+Name         : Mustang                  
+2010 pop     : 21                       
+2020 pop     : 21                       
+Growth       : 0.000 percent
+
+Name         : Sandy Point              
+2010 pop     : 0                        
+2020 pop     : 236                      
+Growth       : N/A  
+
+Name         : Plantersville            
+2010 pop     : 0                        
+2020 pop     : 594                      
+Growth       : N/A  
+
+Name         : Los Ybanez               
+2010 pop     : 19                       
+2020 pop     : 19                       
+Growth       : 0.000 percent
+
+Name         : Kingsbury                
+2010 pop     : 0                        
+2020 pop     : 133                      
+Growth       : N/A  
+
+Name         : Neylandville             
+2010 pop     : 97                       
+2020 pop     : 97                       
+Growth       : 0.000 percent
+
+Name         : Coyote Flats             
+2010 pop     : 0                        
+2020 pop     : 345                      
+Growth       : N/A  
+
+Name         : Goree                    
+2010 pop     : 203                      
+2020 pop     : 203                      
+Growth       : 0.000 percent
+
+Name         : Round Top                
+2010 pop     : 90                       
+2020 pop     : 90                       
+Growth       : 0.000 percent
+
+Name         : San Benito               
+2010 pop     : 24250                    
+2020 pop     : 24243                    
+Growth       : -0.029 percent
+
+Name         : Blue Mound               
+2010 pop     : 2394                     
+2020 pop     : 2393                     
+Growth       : -0.042 percent
+
+Name         : Tatum                    
+2010 pop     : 1385                     
+2020 pop     : 1384                     
+Growth       : -0.072 percent
+
+Name         : Robert Lee               
+2010 pop     : 1049                     
+2020 pop     : 1048                     
+Growth       : -0.095 percent
+
+Name         : Lufkin                   
+2010 pop     : 35067                    
+2020 pop     : 35021                    
+Growth       : -0.131 percent
+
+Name         : Denver City              
+2010 pop     : 4479                     
+2020 pop     : 4470                     
+Growth       : -0.201 percent
+
+Name         : Iowa Park                
+2010 pop     : 6355                     
+2020 pop     : 6339                     
+Growth       : -0.252 percent
+
+Name         : Texarkana                
+2010 pop     : 36411                    
+2020 pop     : 36317                    
+Growth       : -0.258 percent
+
+Name         : Levelland                
+2010 pop     : 13542                    
+2020 pop     : 13502                    
+Growth       : -0.295 percent
+
+Name         : Clint                    
+2010 pop     : 926                      
+2020 pop     : 923                      
+Growth       : -0.324 percent
+
+Name         : Huntington               
+2010 pop     : 2118                     
+2020 pop     : 2111                     
+Growth       : -0.331 percent
+
+Name         : Nacogdoches              
+2010 pop     : 32996                    
+2020 pop     : 32877                    
+Growth       : -0.361 percent
+
+Name         : Thornton                 
+2010 pop     : 526                      
+2020 pop     : 524                      
+Growth       : -0.380 percent
+
+Name         : Wixon Valley             
+2010 pop     : 254                      
+2020 pop     : 253                      
+Growth       : -0.394 percent
+
+Name         : Tuscola                  
+2010 pop     : 742                      
+2020 pop     : 739                      
+Growth       : -0.404 percent
+
+Name         : Streetman                
+2010 pop     : 247                      
+2020 pop     : 246                      
+Growth       : -0.405 percent
+
+Name         : Cisco                    
+2010 pop     : 3899                     
+2020 pop     : 3883                     
+Growth       : -0.410 percent
+
+Name         : Zavalla                  
+2010 pop     : 713                      
+2020 pop     : 710                      
+Growth       : -0.421 percent
+
+Name         : Jasper                   
+2010 pop     : 7590                     
+2020 pop     : 7551                     
+Growth       : -0.514 percent
+
+Name         : Iraan                    
+2010 pop     : 1229                     
+2020 pop     : 1222                     
+Growth       : -0.570 percent
+
+Name         : Devine                   
+2010 pop     : 4350                     
+2020 pop     : 4324                     
+Growth       : -0.598 percent
+
+Name         : Celeste                  
+2010 pop     : 814                      
+2020 pop     : 809                      
+Growth       : -0.614 percent
+
+Name         : Kountze                  
+2010 pop     : 2123                     
+2020 pop     : 2108                     
+Growth       : -0.707 percent
+
+Name         : Henrietta                
+2010 pop     : 3141                     
+2020 pop     : 3118                     
+Growth       : -0.732 percent
+
+Name         : Valentine                
+2010 pop     : 134                      
+2020 pop     : 133                      
+Growth       : -0.746 percent
+
+Name         : Nassau Bay               
+2010 pop     : 4002                     
+2020 pop     : 3972                     
+Growth       : -0.750 percent
+
+Name         : Winfield                 
+2010 pop     : 524                      
+2020 pop     : 520                      
+Growth       : -0.763 percent
+
+Name         : Huxley                   
+2010 pop     : 385                      
+2020 pop     : 382                      
+Growth       : -0.779 percent
+
+Name         : Lorenzo                  
+2010 pop     : 1147                     
+2020 pop     : 1138                     
+Growth       : -0.785 percent
+
+Name         : Jacinto City             
+2010 pop     : 10553                    
+2020 pop     : 10466                    
+Growth       : -0.824 percent
+
+Name         : Claude                   
+2010 pop     : 1196                     
+2020 pop     : 1186                     
+Growth       : -0.836 percent
+
+Name         : Bridgeport               
+2010 pop     : 5976                     
+2020 pop     : 5923                     
+Growth       : -0.887 percent
+
+Name         : Tahoka                   
+2010 pop     : 2673                     
+2020 pop     : 2649                     
+Growth       : -0.898 percent
+
+Name         : Knox City                
+2010 pop     : 1130                     
+2020 pop     : 1119                     
+Growth       : -0.973 percent
+
+Name         : La Feria                 
+2010 pop     : 7302                     
+2020 pop     : 7230                     
+Growth       : -0.986 percent
+
+Name         : Malakoff                 
+2010 pop     : 2324                     
+2020 pop     : 2301                     
+Growth       : -0.990 percent
+
+Name         : Goodlow                  
+2010 pop     : 200                      
+2020 pop     : 198                      
+Growth       : -1.000 percent
+
+Name         : Burton                   
+2010 pop     : 300                      
+2020 pop     : 297                      
+Growth       : -1.000 percent
+
+Name         : Nederland                
+2010 pop     : 17547                    
+2020 pop     : 17371                    
+Growth       : -1.003 percent
+
+Name         : Dean                     
+2010 pop     : 493                      
+2020 pop     : 488                      
+Growth       : -1.014 percent
+
+Name         : Nocona                   
+2010 pop     : 3033                     
+2020 pop     : 3002                     
+Growth       : -1.022 percent
+
+Name         : Putnam                   
+2010 pop     : 94                       
+2020 pop     : 93                       
+Growth       : -1.064 percent
+
+Name         : Gregory                  
+2010 pop     : 1907                     
+2020 pop     : 1886                     
+Growth       : -1.101 percent
+
+Name         : Abbott                   
+2010 pop     : 356                      
+2020 pop     : 352                      
+Growth       : -1.124 percent
+
+Name         : Rose Hill Acres          
+2010 pop     : 441                      
+2020 pop     : 436                      
+Growth       : -1.134 percent
+
+Name         : Baird                    
+2010 pop     : 1496                     
+2020 pop     : 1479                     
+Growth       : -1.136 percent
+
+Name         : Galena Park              
+2010 pop     : 10887                    
+2020 pop     : 10757                    
+Growth       : -1.194 percent
+
+Name         : Hubbard                  
+2010 pop     : 1423                     
+2020 pop     : 1406                     
+Growth       : -1.195 percent
+
+Name         : Tenaha                   
+2010 pop     : 1160                     
+2020 pop     : 1146                     
+Growth       : -1.207 percent
+
+Name         : Odem                     
+2010 pop     : 2389                     
+2020 pop     : 2360                     
+Growth       : -1.214 percent
+
+Name         : Orange Grove             
+2010 pop     : 1318                     
+2020 pop     : 1302                     
+Growth       : -1.214 percent
+
+Name         : St. Jo                   
+2010 pop     : 1043                     
+2020 pop     : 1030                     
+Growth       : -1.246 percent
+
+Name         : Teague                   
+2010 pop     : 3560                     
+2020 pop     : 3515                     
+Growth       : -1.264 percent
+
+Name         : Roaring Springs          
+2010 pop     : 234                      
+2020 pop     : 231                      
+Growth       : -1.282 percent
+
+Name         : Paris                    
+2010 pop     : 25171                    
+2020 pop     : 24847                    
+Growth       : -1.287 percent
+
+Name         : Dumas                    
+2010 pop     : 14691                    
+2020 pop     : 14501                    
+Growth       : -1.293 percent
+
+Name         : Sabinal                  
+2010 pop     : 1695                     
+2020 pop     : 1673                     
+Growth       : -1.298 percent
+
+Name         : Ingleside on the Bay     
+2010 pop     : 615                      
+2020 pop     : 607                      
+Growth       : -1.301 percent
+
+Name         : Nordheim                 
+2010 pop     : 307                      
+2020 pop     : 303                      
+Growth       : -1.303 percent
+
+Name         : Maud                     
+2010 pop     : 1056                     
+2020 pop     : 1042                     
+Growth       : -1.326 percent
+
+Name         : Post Oak Bend City       
+2010 pop     : 595                      
+2020 pop     : 587                      
+Growth       : -1.345 percent
+
+Name         : Meadow                   
+2010 pop     : 593                      
+2020 pop     : 585                      
+Growth       : -1.349 percent
+
+Name         : South Padre Island       
+2010 pop     : 2816                     
+2020 pop     : 2778                     
+Growth       : -1.349 percent
+
+Name         : St. Paul                 
+2010 pop     : 1066                     
+2020 pop     : 1051                     
+Growth       : -1.407 percent
+
+Name         : Tehuacana                
+2010 pop     : 283                      
+2020 pop     : 279                      
+Growth       : -1.413 percent
+
+Name         : Cranfills Gap            
+2010 pop     : 281                      
+2020 pop     : 277                      
+Growth       : -1.423 percent
+
+Name         : Happy                    
+2010 pop     : 678                      
+2020 pop     : 668                      
+Growth       : -1.475 percent
+
+Name         : Meadows Place            
+2010 pop     : 4660                     
+2020 pop     : 4591                     
+Growth       : -1.481 percent
+
+Name         : Daingerfield             
+2010 pop     : 2560                     
+2020 pop     : 2522                     
+Growth       : -1.484 percent
+
+Name         : Higgins                  
+2010 pop     : 397                      
+2020 pop     : 391                      
+Growth       : -1.511 percent
+
+Name         : Mexia                    
+2010 pop     : 7459                     
+2020 pop     : 7344                     
+Growth       : -1.542 percent
+
+Name         : Gladewater               
+2010 pop     : 6441                     
+2020 pop     : 6341                     
+Growth       : -1.553 percent
+
+Name         : Snyder                   
+2010 pop     : 11202                    
+2020 pop     : 11023                    
+Growth       : -1.598 percent
+
+Name         : Ropesville               
+2010 pop     : 434                      
+2020 pop     : 427                      
+Growth       : -1.613 percent
+
+Name         : Milano                   
+2010 pop     : 428                      
+2020 pop     : 421                      
+Growth       : -1.636 percent
+
+Name         : Rockdale                 
+2010 pop     : 5595                     
+2020 pop     : 5503                     
+Growth       : -1.644 percent
+
+Name         : Vidor                    
+2010 pop     : 10579                    
+2020 pop     : 10403                    
+Growth       : -1.664 percent
+
+Name         : Mullin                   
+2010 pop     : 179                      
+2020 pop     : 176                      
+Growth       : -1.676 percent
+
+Name         : Rising Star              
+2010 pop     : 835                      
+2020 pop     : 821                      
+Growth       : -1.677 percent
+
+Name         : Gustine                  
+2010 pop     : 476                      
+2020 pop     : 468                      
+Growth       : -1.681 percent
+
+Name         : Roxton                   
+2010 pop     : 650                      
+2020 pop     : 639                      
+Growth       : -1.692 percent
+
+Name         : Groesbeck                
+2010 pop     : 4328                     
+2020 pop     : 4253                     
+Growth       : -1.733 percent
+
+Name         : Hawley                   
+2010 pop     : 634                      
+2020 pop     : 623                      
+Growth       : -1.735 percent
+
+Name         : Livingston               
+2010 pop     : 5335                     
+2020 pop     : 5242                     
+Growth       : -1.743 percent
+
+Name         : Pleasant Valley          
+2010 pop     : 336                      
+2020 pop     : 330                      
+Growth       : -1.786 percent
+
+Name         : Trinidad                 
+2010 pop     : 886                      
+2020 pop     : 870                      
+Growth       : -1.806 percent
+
+Name         : Timpson                  
+2010 pop     : 1155                     
+2020 pop     : 1134                     
+Growth       : -1.818 percent
+
+Name         : Stafford                 
+2010 pop     : 17693                    
+2020 pop     : 17362                    
+Growth       : -1.871 percent
+
+Name         : Valley Mills             
+2010 pop     : 1203                     
+2020 pop     : 1180                     
+Growth       : -1.912 percent
+
+Name         : West Columbia            
+2010 pop     : 3905                     
+2020 pop     : 3830                     
+Growth       : -1.921 percent
+
+Name         : Munday                   
+2010 pop     : 1300                     
+2020 pop     : 1275                     
+Growth       : -1.923 percent
+
+Name         : Robstown                 
+2010 pop     : 11487                    
+2020 pop     : 11261                    
+Growth       : -1.967 percent
+
+Name         : Overton                  
+2010 pop     : 2554                     
+2020 pop     : 2503                     
+Growth       : -1.997 percent
+
+Name         : Yorktown                 
+2010 pop     : 2092                     
+2020 pop     : 2050                     
+Growth       : -2.008 percent
+
+Name         : Newcastle                
+2010 pop     : 585                      
+2020 pop     : 573                      
+Growth       : -2.051 percent
+
+Name         : Hooks                    
+2010 pop     : 2769                     
+2020 pop     : 2712                     
+Growth       : -2.059 percent
+
+Name         : Los Indios               
+2010 pop     : 1083                     
+2020 pop     : 1060                     
+Growth       : -2.124 percent
+
+Name         : Uncertain                
+2010 pop     : 94                       
+2020 pop     : 92                       
+Growth       : -2.128 percent
+
+Name         : Easton                   
+2010 pop     : 510                      
+2020 pop     : 499                      
+Growth       : -2.157 percent
+
+Name         : Cottonwood               
+2010 pop     : 185                      
+2020 pop     : 181                      
+Growth       : -2.162 percent
+
+Name         : Wharton                  
+2010 pop     : 8832                     
+2020 pop     : 8637                     
+Growth       : -2.208 percent
+
+Name         : Brownwood                
+2010 pop     : 19288                    
+2020 pop     : 18862                    
+Growth       : -2.209 percent
+
+Name         : Howardwick               
+2010 pop     : 402                      
+2020 pop     : 393                      
+Growth       : -2.239 percent
+
+Name         : Lott                     
+2010 pop     : 759                      
+2020 pop     : 742                      
+Growth       : -2.240 percent
+
+Name         : White Oak                
+2010 pop     : 6469                     
+2020 pop     : 6322                     
+Growth       : -2.272 percent
+
+Name         : Joaquin                  
+2010 pop     : 824                      
+2020 pop     : 805                      
+Growth       : -2.306 percent
+
+Name         : Petrolia                 
+2010 pop     : 686                      
+2020 pop     : 670                      
+Growth       : -2.332 percent
+
+Name         : Hearne                   
+2010 pop     : 4459                     
+2020 pop     : 4354                     
+Growth       : -2.355 percent
+
+Name         : East Bernard             
+2010 pop     : 2272                     
+2020 pop     : 2218                     
+Growth       : -2.377 percent
+
+Name         : Goldthwaite              
+2010 pop     : 1878                     
+2020 pop     : 1833                     
+Growth       : -2.396 percent
+
+Name         : Carmine                  
+2010 pop     : 250                      
+2020 pop     : 244                      
+Growth       : -2.400 percent
+
+Name         : Sanctuary                
+2010 pop     : 329                      
+2020 pop     : 321                      
+Growth       : -2.432 percent
+
+Name         : Garrison                 
+2010 pop     : 895                      
+2020 pop     : 873                      
+Growth       : -2.458 percent
+
+Name         : Mount Enterprise         
+2010 pop     : 447                      
+2020 pop     : 436                      
+Growth       : -2.461 percent
+
+Name         : Hillcrest                
+2010 pop     : 730                      
+2020 pop     : 712                      
+Growth       : -2.466 percent
+
+Name         : Latexo                   
+2010 pop     : 322                      
+2020 pop     : 314                      
+Growth       : -2.484 percent
+
+Name         : Thorndale                
+2010 pop     : 1336                     
+2020 pop     : 1302                     
+Growth       : -2.545 percent
+
+Name         : Beaumont                 
+2010 pop     : 118296                   
+2020 pop     : 115282                   
+Growth       : -2.548 percent
+
+Name         : Orange                   
+2010 pop     : 18595                    
+2020 pop     : 18118                    
+Growth       : -2.565 percent
+
+Name         : Danbury                  
+2010 pop     : 1715                     
+2020 pop     : 1671                     
+Growth       : -2.566 percent
+
+Name         : Del Rio                  
+2010 pop     : 35591                    
+2020 pop     : 34673                    
+Growth       : -2.579 percent
+
+Name         : Cleveland                
+2010 pop     : 7675                     
+2020 pop     : 7471                     
+Growth       : -2.658 percent
+
+Name         : Hamilton                 
+2010 pop     : 3095                     
+2020 pop     : 3012                     
+Growth       : -2.682 percent
+
+Name         : Muleshoe                 
+2010 pop     : 5158                     
+2020 pop     : 5019                     
+Growth       : -2.695 percent
+
+Name         : Caldwell                 
+2010 pop     : 4104                     
+2020 pop     : 3993                     
+Growth       : -2.705 percent
+
+Name         : Queen City               
+2010 pop     : 1476                     
+2020 pop     : 1436                     
+Growth       : -2.710 percent
+
+Name         : Lyford                   
+2010 pop     : 2611                     
+2020 pop     : 2540                     
+Growth       : -2.719 percent
+
+Name         : Roscoe                   
+2010 pop     : 1322                     
+2020 pop     : 1285                     
+Growth       : -2.799 percent
+
+Name         : Jacksboro                
+2010 pop     : 4511                     
+2020 pop     : 4384                     
+Growth       : -2.815 percent
+
+Name         : Comanche                 
+2010 pop     : 4335                     
+2020 pop     : 4211                     
+Growth       : -2.860 percent
+
+Name         : Lakeside                 
+2010 pop     : 312                      
+2020 pop     : 303                      
+Growth       : -2.885 percent
+
+Name         : Hughes Springs           
+2010 pop     : 1760                     
+2020 pop     : 1709                     
+Growth       : -2.898 percent
+
+Name         : Lamesa                   
+2010 pop     : 9422                     
+2020 pop     : 9147                     
+Growth       : -2.919 percent
+
+Name         : Marshall                 
+2010 pop     : 23523                    
+2020 pop     : 22831                    
+Growth       : -2.942 percent
+
+Name         : Cooper                   
+2010 pop     : 1969                     
+2020 pop     : 1911                     
+Growth       : -2.946 percent
+
+Name         : Port Neches              
+2010 pop     : 13040                    
+2020 pop     : 12655                    
+Growth       : -2.952 percent
+
+Name         : Pecan Gap                
+2010 pop     : 203                      
+2020 pop     : 197                      
+Growth       : -2.956 percent
+
+Name         : San Perlita              
+2010 pop     : 573                      
+2020 pop     : 556                      
+Growth       : -2.967 percent
+
+Name         : Covington                
+2010 pop     : 269                      
+2020 pop     : 261                      
+Growth       : -2.974 percent
+
+Name         : Wake Village             
+2010 pop     : 5492                     
+2020 pop     : 5327                     
+Growth       : -3.004 percent
+
+Name         : Grapeland                
+2010 pop     : 1489                     
+2020 pop     : 1443                     
+Growth       : -3.089 percent
+
+Name         : Carthage                 
+2010 pop     : 6779                     
+2020 pop     : 6569                     
+Growth       : -3.098 percent
+
+Name         : Graham                   
+2010 pop     : 8903                     
+2020 pop     : 8622                     
+Growth       : -3.156 percent
+
+Name         : Kerens                   
+2010 pop     : 1573                     
+2020 pop     : 1523                     
+Growth       : -3.179 percent
+
+Name         : Aransas Pass             
+2010 pop     : 8204                     
+2020 pop     : 7941                     
+Growth       : -3.206 percent
+
+Name         : Groveton                 
+2010 pop     : 1057                     
+2020 pop     : 1023                     
+Growth       : -3.217 percent
+
+Name         : Port Lavaca              
+2010 pop     : 12248                    
+2020 pop     : 11854                    
+Growth       : -3.217 percent
+
+Name         : China Grove              
+2010 pop     : 1179                     
+2020 pop     : 1141                     
+Growth       : -3.223 percent
+
+Name         : Bandera                  
+2010 pop     : 857                      
+2020 pop     : 829                      
+Growth       : -3.267 percent
+
+Name         : Blanco                   
+2010 pop     : 1739                     
+2020 pop     : 1682                     
+Growth       : -3.278 percent
+
+Name         : Perryton                 
+2010 pop     : 8802                     
+2020 pop     : 8512                     
+Growth       : -3.295 percent
+
+Name         : Spearman                 
+2010 pop     : 3368                     
+2020 pop     : 3256                     
+Growth       : -3.325 percent
+
+Name         : Rio Bravo                
+2010 pop     : 4794                     
+2020 pop     : 4634                     
+Growth       : -3.338 percent
+
+Name         : Castle Hills             
+2010 pop     : 4116                     
+2020 pop     : 3978                     
+Growth       : -3.353 percent
+
+Name         : Lovelady                 
+2010 pop     : 649                      
+2020 pop     : 627                      
+Growth       : -3.390 percent
+
+Name         : Encinal                  
+2010 pop     : 559                      
+2020 pop     : 540                      
+Growth       : -3.399 percent
+
+Name         : Kirbyville               
+2010 pop     : 2142                     
+2020 pop     : 2069                     
+Growth       : -3.408 percent
+
+Name         : Lefors                   
+2010 pop     : 497                      
+2020 pop     : 480                      
+Growth       : -3.421 percent
+
+Name         : Fairfield                
+2010 pop     : 2951                     
+2020 pop     : 2850                     
+Growth       : -3.423 percent
+
+Name         : Kingsville               
+2010 pop     : 26213                    
+2020 pop     : 25315                    
+Growth       : -3.426 percent
+
+Name         : Gary City                
+2010 pop     : 311                      
+2020 pop     : 300                      
+Growth       : -3.537 percent
+
+Name         : Westbrook                
+2010 pop     : 253                      
+2020 pop     : 244                      
+Growth       : -3.557 percent
+
+Name         : Kennard                  
+2010 pop     : 337                      
+2020 pop     : 325                      
+Growth       : -3.561 percent
+
+Name         : Frost                    
+2010 pop     : 643                      
+2020 pop     : 620                      
+Growth       : -3.577 percent
+
+Name         : Raymondville             
+2010 pop     : 11284                    
+2020 pop     : 10880                    
+Growth       : -3.580 percent
+
+Name         : Rose City                
+2010 pop     : 502                      
+2020 pop     : 484                      
+Growth       : -3.586 percent
+
+Name         : Linden                   
+2010 pop     : 1988                     
+2020 pop     : 1915                     
+Growth       : -3.672 percent
+
+Name         : Talco                    
+2010 pop     : 516                      
+2020 pop     : 497                      
+Growth       : -3.682 percent
+
+Name         : Bardwell                 
+2010 pop     : 649                      
+2020 pop     : 625                      
+Growth       : -3.698 percent
+
+Name         : Moran                    
+2010 pop     : 270                      
+2020 pop     : 260                      
+Growth       : -3.704 percent
+
+Name         : Marietta                 
+2010 pop     : 134                      
+2020 pop     : 129                      
+Growth       : -3.731 percent
+
+Name         : Roby                     
+2010 pop     : 643                      
+2020 pop     : 619                      
+Growth       : -3.733 percent
+
+Name         : Colorado City            
+2010 pop     : 4146                     
+2020 pop     : 3991                     
+Growth       : -3.739 percent
+
+Name         : Lueders                  
+2010 pop     : 346                      
+2020 pop     : 333                      
+Growth       : -3.757 percent
+
+Name         : O'Brien                  
+2010 pop     : 106                      
+2020 pop     : 102                      
+Growth       : -3.774 percent
+
+Name         : Slaton                   
+2010 pop     : 6121                     
+2020 pop     : 5890                     
+Growth       : -3.774 percent
+
+Name         : Detroit                  
+2010 pop     : 732                      
+2020 pop     : 704                      
+Growth       : -3.825 percent
+
+Name         : Cactus                   
+2010 pop     : 3179                     
+2020 pop     : 3057                     
+Growth       : -3.838 percent
+
+Name         : Palacios                 
+2010 pop     : 4718                     
+2020 pop     : 4535                     
+Growth       : -3.879 percent
+
+Name         : Oglesby                  
+2010 pop     : 484                      
+2020 pop     : 465                      
+Growth       : -3.926 percent
+
+Name         : Ballinger                
+2010 pop     : 3767                     
+2020 pop     : 3619                     
+Growth       : -3.929 percent
+
+Name         : Bangs                    
+2010 pop     : 1603                     
+2020 pop     : 1540                     
+Growth       : -3.930 percent
+
+Name         : Winnsboro                
+2010 pop     : 3434                     
+2020 pop     : 3299                     
+Growth       : -3.931 percent
+
+Name         : Rocksprings              
+2010 pop     : 1182                     
+2020 pop     : 1135                     
+Growth       : -3.976 percent
+
+Name         : Coldspring               
+2010 pop     : 853                      
+2020 pop     : 819                      
+Growth       : -3.986 percent
+
+Name         : Sweetwater               
+2010 pop     : 10906                    
+2020 pop     : 10469                    
+Growth       : -4.007 percent
+
+Name         : Lakeside City            
+2010 pop     : 997                      
+2020 pop     : 957                      
+Growth       : -4.012 percent
+
+Name         : Omaha                    
+2010 pop     : 1021                     
+2020 pop     : 980                      
+Growth       : -4.016 percent
+
+Name         : Henderson                
+2010 pop     : 13712                    
+2020 pop     : 13154                    
+Growth       : -4.069 percent
+
+Name         : Weston                   
+2010 pop     : 563                      
+2020 pop     : 540                      
+Growth       : -4.085 percent
+
+Name         : Groves                   
+2010 pop     : 16144                    
+2020 pop     : 15480                    
+Growth       : -4.113 percent
+
+Name         : Chireno                  
+2010 pop     : 386                      
+2020 pop     : 370                      
+Growth       : -4.145 percent
+
+Name         : Premont                  
+2010 pop     : 2653                     
+2020 pop     : 2543                     
+Growth       : -4.146 percent
+
+Name         : Meadowlakes              
+2010 pop     : 1777                     
+2020 pop     : 1703                     
+Growth       : -4.164 percent
+
+Name         : Big Spring               
+2010 pop     : 27282                    
+2020 pop     : 26144                    
+Growth       : -4.171 percent
+
+Name         : Groom                    
+2010 pop     : 574                      
+2020 pop     : 550                      
+Growth       : -4.181 percent
+
+Name         : Bruceville-Eddy          
+2010 pop     : 1475                     
+2020 pop     : 1413                     
+Growth       : -4.203 percent
+
+Name         : Atlanta                  
+2010 pop     : 5675                     
+2020 pop     : 5433                     
+Growth       : -4.264 percent
+
+Name         : Newton                   
+2010 pop     : 2478                     
+2020 pop     : 2370                     
+Growth       : -4.358 percent
+
+Name         : McLean                   
+2010 pop     : 778                      
+2020 pop     : 744                      
+Growth       : -4.370 percent
+
+Name         : Cameron                  
+2010 pop     : 5552                     
+2020 pop     : 5306                     
+Growth       : -4.431 percent
+
+Name         : Gorman                   
+2010 pop     : 1083                     
+2020 pop     : 1035                     
+Growth       : -4.432 percent
+
+Name         : Winters                  
+2010 pop     : 2562                     
+2020 pop     : 2448                     
+Growth       : -4.450 percent
+
+Name         : Daisetta                 
+2010 pop     : 966                      
+2020 pop     : 923                      
+Growth       : -4.451 percent
+
+Name         : Rosebud                  
+2010 pop     : 1412                     
+2020 pop     : 1349                     
+Growth       : -4.462 percent
+
+Name         : White Deer               
+2010 pop     : 1000                     
+2020 pop     : 955                      
+Growth       : -4.500 percent
+
+Name         : Menard                   
+2010 pop     : 1471                     
+2020 pop     : 1404                     
+Growth       : -4.555 percent
+
+Name         : Mathis                   
+2010 pop     : 4942                     
+2020 pop     : 4715                     
+Growth       : -4.593 percent
+
+Name         : Rotan                    
+2010 pop     : 1508                     
+2020 pop     : 1438                     
+Growth       : -4.642 percent
+
+Name         : Fayetteville             
+2010 pop     : 258                      
+2020 pop     : 246                      
+Growth       : -4.651 percent
+
+Name         : Naples                   
+2010 pop     : 1378                     
+2020 pop     : 1313                     
+Growth       : -4.717 percent
+
+Name         : Kress                    
+2010 pop     : 715                      
+2020 pop     : 681                      
+Growth       : -4.755 percent
+
+Name         : Buffalo                  
+2010 pop     : 1856                     
+2020 pop     : 1767                     
+Growth       : -4.795 percent
+
+Name         : Deport                   
+2010 pop     : 578                      
+2020 pop     : 550                      
+Growth       : -4.844 percent
+
+Name         : Hamlin                   
+2010 pop     : 2124                     
+2020 pop     : 2021                     
+Growth       : -4.849 percent
+
+Name         : Post                     
+2010 pop     : 5376                     
+2020 pop     : 5115                     
+Growth       : -4.855 percent
+
+Name         : Mertzon                  
+2010 pop     : 781                      
+2020 pop     : 743                      
+Growth       : -4.866 percent
+
+Name         : Hereford                 
+2010 pop     : 15370                    
+2020 pop     : 14622                    
+Growth       : -4.867 percent
+
+Name         : Sanford                  
+2010 pop     : 164                      
+2020 pop     : 156                      
+Growth       : -4.878 percent
+
+Name         : Palm Valley              
+2010 pop     : 1304                     
+2020 pop     : 1240                     
+Growth       : -4.908 percent
+
+Name         : Gruver                   
+2010 pop     : 1194                     
+2020 pop     : 1135                     
+Growth       : -4.941 percent
+
+Name         : South Mountain           
+2010 pop     : 384                      
+2020 pop     : 365                      
+Growth       : -4.948 percent
+
+Name         : Holliday                 
+2010 pop     : 1758                     
+2020 pop     : 1670                     
+Growth       : -5.006 percent
+
+Name         : Dimmitt                  
+2010 pop     : 4393                     
+2020 pop     : 4171                     
+Growth       : -5.053 percent
+
+Name         : San Patricio             
+2010 pop     : 395                      
+2020 pop     : 375                      
+Growth       : -5.063 percent
+
+Name         : Brazoria                 
+2010 pop     : 3019                     
+2020 pop     : 2866                     
+Growth       : -5.068 percent
+
+Name         : Skellytown               
+2010 pop     : 473                      
+2020 pop     : 449                      
+Growth       : -5.074 percent
+
+Name         : Haskell                  
+2010 pop     : 3322                     
+2020 pop     : 3153                     
+Growth       : -5.087 percent
+
+Name         : Pampa                    
+2010 pop     : 17994                    
+2020 pop     : 17068                    
+Growth       : -5.146 percent
+
+Name         : Beasley                  
+2010 pop     : 641                      
+2020 pop     : 608                      
+Growth       : -5.148 percent
+
+Name         : Booker                   
+2010 pop     : 1516                     
+2020 pop     : 1437                     
+Growth       : -5.211 percent
+
+Name         : Santa Rosa               
+2010 pop     : 2873                     
+2020 pop     : 2723                     
+Growth       : -5.221 percent
+
+Name         : Jolly                    
+2010 pop     : 172                      
+2020 pop     : 163                      
+Growth       : -5.233 percent
+
+Name         : Rochester                
+2010 pop     : 324                      
+2020 pop     : 307                      
+Growth       : -5.247 percent
+
+Name         : Palestine                
+2010 pop     : 18712                    
+2020 pop     : 17730                    
+Growth       : -5.248 percent
+
+Name         : Borger                   
+2010 pop     : 13251                    
+2020 pop     : 12551                    
+Growth       : -5.283 percent
+
+Name         : Quitaque                 
+2010 pop     : 411                      
+2020 pop     : 389                      
+Growth       : -5.353 percent
+
+Name         : Blanket                  
+2010 pop     : 390                      
+2020 pop     : 369                      
+Growth       : -5.385 percent
+
+Name         : Scotland                 
+2010 pop     : 501                      
+2020 pop     : 474                      
+Growth       : -5.389 percent
+
+Name         : Refugio                  
+2010 pop     : 2890                     
+2020 pop     : 2734                     
+Growth       : -5.398 percent
+
+Name         : Eagle Lake               
+2010 pop     : 3639                     
+2020 pop     : 3442                     
+Growth       : -5.414 percent
+
+Name         : Clute                    
+2010 pop     : 11211                    
+2020 pop     : 10604                    
+Growth       : -5.414 percent
+
+Name         : Flatonia                 
+2010 pop     : 1383                     
+2020 pop     : 1308                     
+Growth       : -5.423 percent
+
+Name         : Sinton                   
+2010 pop     : 5665                     
+2020 pop     : 5354                     
+Growth       : -5.490 percent
+
+Name         : Wellington               
+2010 pop     : 2189                     
+2020 pop     : 2068                     
+Growth       : -5.528 percent
+
+Name         : Springlake               
+2010 pop     : 108                      
+2020 pop     : 102                      
+Growth       : -5.556 percent
+
+Name         : Chico                    
+2010 pop     : 1002                     
+2020 pop     : 946                      
+Growth       : -5.589 percent
+
+Name         : Anson                    
+2010 pop     : 2430                     
+2020 pop     : 2294                     
+Growth       : -5.597 percent
+
+Name         : Melvin                   
+2010 pop     : 178                      
+2020 pop     : 168                      
+Growth       : -5.618 percent
+
+Name         : Olney                    
+2010 pop     : 3285                     
+2020 pop     : 3099                     
+Growth       : -5.662 percent
+
+Name         : Panhandle                
+2010 pop     : 2452                     
+2020 pop     : 2312                     
+Growth       : -5.710 percent
+
+Name         : Pinehurst                
+2010 pop     : 2097                     
+2020 pop     : 1976                     
+Growth       : -5.770 percent
+
+Name         : Weinert                  
+2010 pop     : 172                      
+2020 pop     : 162                      
+Growth       : -5.814 percent
+
+Name         : Rule                     
+2010 pop     : 636                      
+2020 pop     : 599                      
+Growth       : -5.818 percent
+
+Name         : Petersburg               
+2010 pop     : 1202                     
+2020 pop     : 1132                     
+Growth       : -5.824 percent
+
+Name         : Quanah                   
+2010 pop     : 2641                     
+2020 pop     : 2487                     
+Growth       : -5.831 percent
+
+Name         : Scottsville              
+2010 pop     : 376                      
+2020 pop     : 354                      
+Growth       : -5.851 percent
+
+Name         : Stamford                 
+2010 pop     : 3124                     
+2020 pop     : 2941                     
+Growth       : -5.858 percent
+
+Name         : Beverly Hills            
+2010 pop     : 1995                     
+2020 pop     : 1878                     
+Growth       : -5.865 percent
+
+Name         : Pineland                 
+2010 pop     : 850                      
+2020 pop     : 800                      
+Growth       : -5.882 percent
+
+Name         : Stinnett                 
+2010 pop     : 1881                     
+2020 pop     : 1770                     
+Growth       : -5.901 percent
+
+Name         : Sunray                   
+2010 pop     : 1926                     
+2020 pop     : 1812                     
+Growth       : -5.919 percent
+
+Name         : Taft                     
+2010 pop     : 3048                     
+2020 pop     : 2867                     
+Growth       : -5.938 percent
+
+Name         : Mobeetie                 
+2010 pop     : 101                      
+2020 pop     : 95                       
+Growth       : -5.941 percent
+
+Name         : San Diego                
+2010 pop     : 4488                     
+2020 pop     : 4221                     
+Growth       : -5.949 percent
+
+Name         : Amherst                  
+2010 pop     : 721                      
+2020 pop     : 678                      
+Growth       : -5.964 percent
+
+Name         : Jayton                   
+2010 pop     : 534                      
+2020 pop     : 502                      
+Growth       : -5.993 percent
+
+Name         : Childress                
+2010 pop     : 6105                     
+2020 pop     : 5737                     
+Growth       : -6.028 percent
+
+Name         : Woodville                
+2010 pop     : 2586                     
+2020 pop     : 2428                     
+Growth       : -6.110 percent
+
+Name         : Elkhart                  
+2010 pop     : 1371                     
+2020 pop     : 1287                     
+Growth       : -6.127 percent
+
+Name         : Alba                     
+2010 pop     : 504                      
+2020 pop     : 473                      
+Growth       : -6.151 percent
+
+Name         : Silverton                
+2010 pop     : 731                      
+2020 pop     : 686                      
+Growth       : -6.156 percent
+
+Name         : Blossom                  
+2010 pop     : 1494                     
+2020 pop     : 1402                     
+Growth       : -6.158 percent
+
+Name         : Vernon                   
+2010 pop     : 11002                    
+2020 pop     : 10323                    
+Growth       : -6.172 percent
+
+Name         : Burke                    
+2010 pop     : 737                      
+2020 pop     : 691                      
+Growth       : -6.242 percent
+
+Name         : Lone Star                
+2010 pop     : 1581                     
+2020 pop     : 1482                     
+Growth       : -6.262 percent
+
+Name         : Tulia                    
+2010 pop     : 4967                     
+2020 pop     : 4655                     
+Growth       : -6.281 percent
+
+Name         : Loraine                  
+2010 pop     : 602                      
+2020 pop     : 564                      
+Growth       : -6.312 percent
+
+Name         : Alice                    
+2010 pop     : 19104                    
+2020 pop     : 17891                    
+Growth       : -6.349 percent
+
+Name         : West Orange              
+2010 pop     : 3443                     
+2020 pop     : 3223                     
+Growth       : -6.390 percent
+
+Name         : Nazareth                 
+2010 pop     : 311                      
+2020 pop     : 291                      
+Growth       : -6.431 percent
+
+Name         : Marlin                   
+2010 pop     : 5967                     
+2020 pop     : 5581                     
+Growth       : -6.469 percent
+
+Name         : Sudan                    
+2010 pop     : 958                      
+2020 pop     : 895                      
+Growth       : -6.576 percent
+
+Name         : Ames                     
+2010 pop     : 1003                     
+2020 pop     : 937                      
+Growth       : -6.580 percent
+
+Name         : Junction                 
+2010 pop     : 2574                     
+2020 pop     : 2404                     
+Growth       : -6.605 percent
+
+Name         : Bronte                   
+2010 pop     : 999                      
+2020 pop     : 933                      
+Growth       : -6.607 percent
+
+Name         : Round Mountain           
+2010 pop     : 181                      
+2020 pop     : 169                      
+Growth       : -6.630 percent
+
+Name         : Balcones Heights         
+2010 pop     : 2941                     
+2020 pop     : 2746                     
+Growth       : -6.630 percent
+
+Name         : Texhoma                  
+2010 pop     : 346                      
+2020 pop     : 323                      
+Growth       : -6.647 percent
+
+Name         : Diboll                   
+2010 pop     : 4776                     
+2020 pop     : 4457                     
+Growth       : -6.679 percent
+
+Name         : East Tawakoni            
+2010 pop     : 883                      
+2020 pop     : 824                      
+Growth       : -6.682 percent
+
+Name         : Woodsboro                
+2010 pop     : 1512                     
+2020 pop     : 1410                     
+Growth       : -6.746 percent
+
+Name         : Bogata                   
+2010 pop     : 1153                     
+2020 pop     : 1074                     
+Growth       : -6.852 percent
+
+Name         : Seymour                  
+2010 pop     : 2740                     
+2020 pop     : 2550                     
+Growth       : -6.934 percent
+
+Name         : Olton                    
+2010 pop     : 2215                     
+2020 pop     : 2060                     
+Growth       : -6.998 percent
+
+Name         : Noonday                  
+2010 pop     : 777                      
+2020 pop     : 722                      
+Growth       : -7.079 percent
+
+Name         : Ralls                    
+2010 pop     : 1944                     
+2020 pop     : 1806                     
+Growth       : -7.099 percent
+
+Name         : Wortham                  
+2010 pop     : 1073                     
+2020 pop     : 996                      
+Growth       : -7.176 percent
+
+Name         : Wheeler                  
+2010 pop     : 1592                     
+2020 pop     : 1477                     
+Growth       : -7.224 percent
+
+Name         : Windthorst               
+2010 pop     : 409                      
+2020 pop     : 379                      
+Growth       : -7.335 percent
+
+Name         : Aquilla                  
+2010 pop     : 109                      
+2020 pop     : 101                      
+Growth       : -7.339 percent
+
+Name         : Clarendon                
+2010 pop     : 2026                     
+2020 pop     : 1877                     
+Growth       : -7.354 percent
+
+Name         : Megargel                 
+2010 pop     : 203                      
+2020 pop     : 188                      
+Growth       : -7.389 percent
+
+Name         : Corrigan                 
+2010 pop     : 1595                     
+2020 pop     : 1477                     
+Growth       : -7.398 percent
+
+Name         : Brady                    
+2010 pop     : 5528                     
+2020 pop     : 5118                     
+Growth       : -7.417 percent
+
+Name         : Brownfield               
+2010 pop     : 9657                     
+2020 pop     : 8936                     
+Growth       : -7.466 percent
+
+Name         : Falfurrias               
+2010 pop     : 4981                     
+2020 pop     : 4609                     
+Growth       : -7.468 percent
+
+Name         : Bremond                  
+2010 pop     : 929                      
+2020 pop     : 858                      
+Growth       : -7.643 percent
+
+Name         : Shamrock                 
+2010 pop     : 1910                     
+2020 pop     : 1764                     
+Growth       : -7.644 percent
+
+Name         : Hallsburg                
+2010 pop     : 507                      
+2020 pop     : 468                      
+Growth       : -7.692 percent
+
+Name         : Paducah                  
+2010 pop     : 1186                     
+2020 pop     : 1094                     
+Growth       : -7.757 percent
+
+Name         : Douglassville            
+2010 pop     : 229                      
+2020 pop     : 211                      
+Growth       : -7.860 percent
+
+Name         : Miami                    
+2010 pop     : 597                      
+2020 pop     : 550                      
+Growth       : -7.873 percent
+
+Name         : Novice                   
+2010 pop     : 139                      
+2020 pop     : 128                      
+Growth       : -7.914 percent
+
+Name         : Sonora                   
+2010 pop     : 3027                     
+2020 pop     : 2786                     
+Growth       : -7.962 percent
+
+Name         : Driscoll                 
+2010 pop     : 739                      
+2020 pop     : 680                      
+Growth       : -7.984 percent
+
+Name         : Arp                      
+2010 pop     : 970                      
+2020 pop     : 892                      
+Growth       : -8.041 percent
+
+Name         : Dublin                   
+2010 pop     : 3654                     
+2020 pop     : 3359                     
+Growth       : -8.073 percent
+
+Name         : Throckmorton             
+2010 pop     : 828                      
+2020 pop     : 761                      
+Growth       : -8.092 percent
+
+Name         : Point Comfort            
+2010 pop     : 737                      
+2020 pop     : 677                      
+Growth       : -8.141 percent
+
+Name         : Whiteface                
+2010 pop     : 449                      
+2020 pop     : 412                      
+Growth       : -8.241 percent
+
+Name         : Littlefield              
+2010 pop     : 6372                     
+2020 pop     : 5843                     
+Growth       : -8.302 percent
+
+Name         : Big Sandy                
+2010 pop     : 1343                     
+2020 pop     : 1231                     
+Growth       : -8.340 percent
+
+Name         : Santa Anna               
+2010 pop     : 1099                     
+2020 pop     : 1007                     
+Growth       : -8.371 percent
+
+Name         : Frankston                
+2010 pop     : 1229                     
+2020 pop     : 1126                     
+Growth       : -8.381 percent
+
+Name         : Hart                     
+2010 pop     : 1114                     
+2020 pop     : 1020                     
+Growth       : -8.438 percent
+
+Name         : Cross Plains             
+2010 pop     : 982                      
+2020 pop     : 899                      
+Growth       : -8.452 percent
+
+Name         : Byers                    
+2010 pop     : 496                      
+2020 pop     : 454                      
+Growth       : -8.468 percent
+
+Name         : Richland Springs         
+2010 pop     : 338                      
+2020 pop     : 309                      
+Growth       : -8.580 percent
+
+Name         : Woodson                  
+2010 pop     : 264                      
+2020 pop     : 241                      
+Growth       : -8.712 percent
+
+Name         : Hale Center              
+2010 pop     : 2252                     
+2020 pop     : 2054                     
+Growth       : -8.792 percent
+
+Name         : Albany                   
+2010 pop     : 2034                     
+2020 pop     : 1854                     
+Growth       : -8.850 percent
+
+Name         : Eastland                 
+2010 pop     : 3960                     
+2020 pop     : 3609                     
+Growth       : -8.864 percent
+
+Name         : Carrizo Springs          
+2010 pop     : 5368                     
+2020 pop     : 4892                     
+Growth       : -8.867 percent
+
+Name         : Crockett                 
+2010 pop     : 6950                     
+2020 pop     : 6332                     
+Growth       : -8.892 percent
+
+Name         : Cushing                  
+2010 pop     : 612                      
+2020 pop     : 557                      
+Growth       : -8.987 percent
+
+Name         : Cockrell Hill            
+2010 pop     : 4193                     
+2020 pop     : 3815                     
+Growth       : -9.015 percent
+
+Name         : Spur                     
+2010 pop     : 1318                     
+2020 pop     : 1199                     
+Growth       : -9.029 percent
+
+Name         : Bovina                   
+2010 pop     : 1868                     
+2020 pop     : 1699                     
+Growth       : -9.047 percent
+
+Name         : Colmesneil               
+2010 pop     : 596                      
+2020 pop     : 542                      
+Growth       : -9.060 percent
+
+Name         : Callisburg               
+2010 pop     : 353                      
+2020 pop     : 321                      
+Growth       : -9.065 percent
+
+Name         : Jefferson                
+2010 pop     : 2106                     
+2020 pop     : 1915                     
+Growth       : -9.069 percent
+
+Name         : Barry                    
+2010 pop     : 242                      
+2020 pop     : 220                      
+Growth       : -9.091 percent
+
+Name         : Plainview                
+2010 pop     : 22194                    
+2020 pop     : 20143                    
+Growth       : -9.241 percent
+
+Name         : Van Horn                 
+2010 pop     : 2063                     
+2020 pop     : 1870                     
+Growth       : -9.355 percent
+
+Name         : Mineral Wells            
+2010 pop     : 16788                    
+2020 pop     : 15213                    
+Growth       : -9.382 percent
+
+Name         : Edom                     
+2010 pop     : 375                      
+2020 pop     : 339                      
+Growth       : -9.600 percent
+
+Name         : Morton                   
+2010 pop     : 2006                     
+2020 pop     : 1813                     
+Growth       : -9.621 percent
+
+Name         : Clarksville City         
+2010 pop     : 865                      
+2020 pop     : 780                      
+Growth       : -9.827 percent
+
+Name         : De Kalb                  
+2010 pop     : 1699                     
+2020 pop     : 1527                     
+Growth       : -10.124 percent
+
+Name         : Turkey                   
+2010 pop     : 421                      
+2020 pop     : 378                      
+Growth       : -10.214 percent
+
+Name         : Breckenridge             
+2010 pop     : 5780                     
+2020 pop     : 5187                     
+Growth       : -10.260 percent
+
+Name         : Sunset Valley            
+2010 pop     : 749                      
+2020 pop     : 672                      
+Growth       : -10.280 percent
+
+Name         : Coffee City              
+2010 pop     : 278                      
+2020 pop     : 249                      
+Growth       : -10.432 percent
+
+Name         : San Augustine            
+2010 pop     : 2108                     
+2020 pop     : 1888                     
+Growth       : -10.436 percent
+
+Name         : Crystal City             
+2010 pop     : 7138                     
+2020 pop     : 6354                     
+Growth       : -10.983 percent
+
+Name         : Broaddus                 
+2010 pop     : 207                      
+2020 pop     : 184                      
+Growth       : -11.111 percent
+
+Name         : Mart                     
+2010 pop     : 2209                     
+2020 pop     : 1963                     
+Growth       : -11.136 percent
+
+Name         : Charlotte                
+2010 pop     : 1715                     
+2020 pop     : 1524                     
+Growth       : -11.137 percent
+
+Name         : Lakeview                 
+2010 pop     : 107                      
+2020 pop     : 95                       
+Growth       : -11.215 percent
+
+Name         : Freeport                 
+2010 pop     : 12049                    
+2020 pop     : 10696                    
+Growth       : -11.229 percent
+
+Name         : Lockney                  
+2010 pop     : 1842                     
+2020 pop     : 1631                     
+Growth       : -11.455 percent
+
+Name         : Canadian                 
+2010 pop     : 2649                     
+2020 pop     : 2339                     
+Growth       : -11.703 percent
+
+Name         : Darrouzett               
+2010 pop     : 350                      
+2020 pop     : 309                      
+Growth       : -11.714 percent
+
+Name         : Anahuac                  
+2010 pop     : 2243                     
+2020 pop     : 1980                     
+Growth       : -11.725 percent
+
+Name         : Floydada                 
+2010 pop     : 3038                     
+2020 pop     : 2675                     
+Growth       : -11.949 percent
+
+Name         : Presidio                 
+2010 pop     : 4426                     
+2020 pop     : 3894                     
+Growth       : -12.020 percent
+
+Name         : Memphis                  
+2010 pop     : 2290                     
+2020 pop     : 2012                     
+Growth       : -12.140 percent
+
+Name         : Hedley                   
+2010 pop     : 329                      
+2020 pop     : 289                      
+Growth       : -12.158 percent
+
+Name         : Fritch                   
+2010 pop     : 2117                     
+2020 pop     : 1859                     
+Growth       : -12.187 percent
+
+Name         : Cumby                    
+2010 pop     : 777                      
+2020 pop     : 679                      
+Growth       : -12.613 percent
+
+Name         : Avery                    
+2010 pop     : 482                      
+2020 pop     : 421                      
+Growth       : -12.656 percent
+
+Name         : Freer                    
+2010 pop     : 2818                     
+2020 pop     : 2461                     
+Growth       : -12.669 percent
+
+Name         : Archer City              
+2010 pop     : 1834                     
+2020 pop     : 1601                     
+Growth       : -12.704 percent
+
+Name         : Clarksville              
+2010 pop     : 3285                     
+2020 pop     : 2857                     
+Growth       : -13.029 percent
+
+Name         : Anderson                 
+2010 pop     : 222                      
+2020 pop     : 193                      
+Growth       : -13.063 percent
+
+Name         : Benavides                
+2010 pop     : 1362                     
+2020 pop     : 1183                     
+Growth       : -13.142 percent
+
+Name         : Chester                  
+2010 pop     : 312                      
+2020 pop     : 270                      
+Growth       : -13.462 percent
+
+Name         : Edcouch                  
+2010 pop     : 3161                     
+2020 pop     : 2732                     
+Growth       : -13.572 percent
+
+Name         : Christine                
+2010 pop     : 390                      
+2020 pop     : 337                      
+Growth       : -13.590 percent
+
+Name         : Blum                     
+2010 pop     : 444                      
+2020 pop     : 383                      
+Growth       : -13.739 percent
+
+Name         : Caney City               
+2010 pop     : 217                      
+2020 pop     : 187                      
+Growth       : -13.825 percent
+
+Name         : Bynum                    
+2010 pop     : 199                      
+2020 pop     : 171                      
+Growth       : -14.070 percent
+
+Name         : Aspermont                
+2010 pop     : 919                      
+2020 pop     : 789                      
+Growth       : -14.146 percent
+
+Name         : Impact                   
+2010 pop     : 35                       
+2020 pop     : 30                       
+Growth       : -14.286 percent
+
+Name         : Crosbyton                
+2010 pop     : 1741                     
+2020 pop     : 1492                     
+Growth       : -14.302 percent
+
+Name         : Bevil Oaks               
+2010 pop     : 1274                     
+2020 pop     : 1089                     
+Growth       : -14.521 percent
+
+Name         : Dodson                   
+2010 pop     : 109                      
+2020 pop     : 93                       
+Growth       : -14.679 percent
+
+Name         : Beckville                
+2010 pop     : 847                      
+2020 pop     : 722                      
+Growth       : -14.758 percent
+
+Name         : Balmorhea                
+2010 pop     : 479                      
+2020 pop     : 408                      
+Growth       : -14.823 percent
+
+Name         : Campbell                 
+2010 pop     : 638                      
+2020 pop     : 542                      
+Growth       : -15.047 percent
+
+Name         : Bayside                  
+2010 pop     : 325                      
+2020 pop     : 275                      
+Growth       : -15.385 percent
+
+Name         : Earth                    
+2010 pop     : 1065                     
+2020 pop     : 901                      
+Growth       : -15.399 percent
+
+Name         : Berryville               
+2010 pop     : 975                      
+2020 pop     : 824                      
+Growth       : -15.487 percent
+
+Name         : Agua Dulce               
+2010 pop     : 812                      
+2020 pop     : 685                      
+Growth       : -15.640 percent
+
+Name         : Falls City               
+2010 pop     : 611                      
+2020 pop     : 514                      
+Growth       : -15.876 percent
+
+Name         : Dilley                   
+2010 pop     : 3894                     
+2020 pop     : 3274                     
+Growth       : -15.922 percent
+
+Name         : Alto                     
+2010 pop     : 1225                     
+2020 pop     : 1027                     
+Growth       : -16.163 percent
+
+Name         : Avinger                  
+2010 pop     : 444                      
+2020 pop     : 371                      
+Growth       : -16.441 percent
+
+Name         : Estelline                
+2010 pop     : 145                      
+2020 pop     : 121                      
+Growth       : -16.552 percent
+
+Name         : Coleman                  
+2010 pop     : 4709                     
+2020 pop     : 3912                     
+Growth       : -16.925 percent
+
+Name         : Blackwell                
+2010 pop     : 311                      
+2020 pop     : 258                      
+Growth       : -17.042 percent
+
+Name         : Cuney                    
+2010 pop     : 140                      
+2020 pop     : 116                      
+Growth       : -17.143 percent
+
+Name         : Cashion Community        
+2010 pop     : 348                      
+2020 pop     : 286                      
+Growth       : -17.816 percent
+
+Name         : Electra                  
+2010 pop     : 2791                     
+2020 pop     : 2292                     
+Growth       : -17.879 percent
+
+Name         : Marfa                    
+2010 pop     : 1981                     
+2020 pop     : 1625                     
+Growth       : -17.971 percent
+
+Name         : Bedias                   
+2010 pop     : 443                      
+2020 pop     : 361                      
+Growth       : -18.510 percent
+
+Name         : Coolidge                 
+2010 pop     : 955                      
+2020 pop     : 778                      
+Growth       : -18.534 percent
+
+Name         : Follett                  
+2010 pop     : 459                      
+2020 pop     : 373                      
+Growth       : -18.736 percent
+
+Name         : Browndell                
+2010 pop     : 197                      
+2020 pop     : 160                      
+Growth       : -18.782 percent
+
+Name         : Crowell                  
+2010 pop     : 948                      
+2020 pop     : 769                      
+Growth       : -18.882 percent
+
+Name         : Devers                   
+2010 pop     : 447                      
+2020 pop     : 361                      
+Growth       : -19.239 percent
+
+Name         : Calvert                  
+2010 pop     : 1192                     
+2020 pop     : 962                      
+Growth       : -19.295 percent
+
+Name         : Eldorado                 
+2010 pop     : 1951                     
+2020 pop     : 1574                     
+Growth       : -19.323 percent
+
+Name         : Anton                    
+2010 pop     : 1126                     
+2020 pop     : 907                      
+Growth       : -19.449 percent
+
+Name         : Austwell                 
+2010 pop     : 147                      
+2020 pop     : 118                      
+Growth       : -19.728 percent
+
+Name         : Bellevue                 
+2010 pop     : 362                      
+2020 pop     : 289                      
+Growth       : -20.166 percent
+
+Name         : Bryson                   
+2010 pop     : 539                      
+2020 pop     : 430                      
+Growth       : -20.223 percent
+
+Name         : Bloomburg                
+2010 pop     : 404                      
+2020 pop     : 321                      
+Growth       : -20.545 percent
+
+Name         : Brackettville            
+2010 pop     : 1688                     
+2020 pop     : 1341                     
+Growth       : -20.557 percent
+
+Name         : Gatesville               
+2010 pop     : 15751                    
+2020 pop     : 12401                    
+Growth       : -21.268 percent
+
+Name         : Chillicothe              
+2010 pop     : 707                      
+2020 pop     : 549                      
+Growth       : -22.348 percent
+
+Name         : El Cenizo                
+2010 pop     : 3273                     
+2020 pop     : 2540                     
+Growth       : -22.395 percent
+
+Name         : Edmonson                 
+2010 pop     : 111                      
+2020 pop     : 86                       
+Growth       : -22.523 percent
+
+Name         : Channing                 
+2010 pop     : 363                      
+2020 pop     : 281                      
+Growth       : -22.590 percent
+
+Name         : Adrian                   
+2010 pop     : 166                      
+2020 pop     : 128                      
+Growth       : -22.892 percent
+
+Name         : Dickens                  
+2010 pop     : 286                      
+2020 pop     : 219                      
+Growth       : -23.427 percent
+
+Name         : Domino                   
+2010 pop     : 93                       
+2020 pop     : 71                       
+Growth       : -23.656 percent
+
+Name         : Bailey                   
+2010 pop     : 289                      
+2020 pop     : 220                      
+Growth       : -23.875 percent
+
+Name         : Benjamin                 
+2010 pop     : 258                      
+2020 pop     : 196                      
+Growth       : -24.031 percent
+
+Name         : Barstow                  
+2010 pop     : 349                      
+2020 pop     : 265                      
+Growth       : -24.069 percent
+
+Name         : Anthony                  
+2010 pop     : 5011                     
+2020 pop     : 3671                     
+Growth       : -26.741 percent
+
+Name         : Camp Wood                
+2010 pop     : 706                      
+2020 pop     : 517                      
+Growth       : -26.771 percent
+
+Name         : Buckholts                
+2010 pop     : 515                      
+2020 pop     : 365                      
+Growth       : -29.126 percent
+
+Name         : Big Wells                
+2010 pop     : 697                      
+2020 pop     : 483                      
+Growth       : -30.703 percent
+
+Name         : Dell City                
+2010 pop     : 365                      
+2020 pop     : 245                      
+Growth       : -32.877 percent
+
+Name         : Asherton                 
+2010 pop     : 1084                     
+2020 pop     : 722                      
+Growth       : -33.395 percent
+
+Name         : Annona                   
+2010 pop     : 315                      
+2020 pop     : 184                      
+Growth       : -41.587 percent
+
+Name         : Bonney                   
+2010 pop     : 310                      
+2020 pop     : 180                      
+Growth       : -41.935 percent
+
+Name         : Hebron                   
+2010 pop     : 415                      
+2020 pop     : 215                      
+Growth       : -48.193 percent
+
+Name         : Dayton Lakes             
+2010 pop     : 93                       
+2020 pop     : 45                       
+Growth       : -51.613 percent
+
+Name         : Dorchester               
+2010 pop     : 148                      
+2020 pop     : 69                       
+Growth       : -53.378 percent
+
+Name         : Eden                     
+2010 pop     : 2766                     
+2020 pop     : 1100                     
+Growth       : -60.231 percent
+
