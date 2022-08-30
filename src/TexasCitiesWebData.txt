@@ -1,0 +1,1221 @@
+
+City		2010		2020		Pop Change
+Abernathy		2805		2865		2.14%
+Abilene		117063		125182		6.94%
+Ackerly		220		264		20.00%
+Addison		13056		16661		27.61%
+Adrian		166		128		-22.89%
+Agua Dulce		812		685		-15.64%
+Alamo		18353		19493		6.21%
+Alamo Heights		7031		7357		4.64%
+Alba		504		473		-6.15%
+Albany		2034		1854		-8.85%
+Aledo		2716		4858		78.87%
+Alice		19104		17891		-6.35%
+Allen		84246		104627		24.19%
+Alma		331		373		12.69%
+Alpine		5905		6035		2.20%
+Alto		1225		1027		-16.16%
+Alton		12341		18198		47.46%
+Alvarado		3785		4739		25.20%
+Alvin		24236		27098		11.81%
+Alvord		1334		1351		1.27%
+Amarillo		190695		200393		5.09%
+Ames		1003		937		-6.58%
+Amherst		721		678		-5.96%
+Anahuac		2243		1980		-11.73%
+Anderson		222		193		-13.06%
+Andrews		11088		13487		21.64%
+Angleton		18862		19429		3.01%
+Angus		414		444		7.25%
+Anna		8249		16896		104.82%
+Annetta		1288		3041		136.10%
+Annetta North		518		554		6.95%
+Annetta South		526		621		18.06%
+Annona		315		184		-41.59%
+Anson		2430		2294		-5.60%
+Anthony		5011		3671		-26.74%
+Anton		1126		907		-19.45%
+Appleby		474		552		16.46%
+Aquilla		109		101		-7.34%
+Aransas Pass		8204		7941		-3.21%
+Archer City		1834		1601		-12.70%
+Arcola		1642		2034		23.87%
+Argyle		3282		4403		34.16%
+Arlington		365438		394266		7.89%
+Arp		970		892		-8.04%
+Asherton		1084		722		-33.39%
+Aspermont		919		789		-14.15%
+Athens		12710		12857		1.16%
+Atlanta		5675		5433		-4.26%
+Aubrey		2595		5006		92.91%
+Aurora		1220		1390		13.93%
+Austin		790390		961855		21.69%
+Austwell		147		118		-19.73%
+Avery		482		421		-12.66%
+Avinger		444		371		-16.44%
+Azle		10947		13369		22.12%
+Bailey		289		220		-23.88%
+Bailey's Prairie		727		775		6.60%
+Baird		1496		1479		-1.14%
+Balch Springs		23728		27685		16.68%
+Balcones Heights		2941		2746		-6.63%
+Ballinger		3767		3619		-3.93%
+Balmorhea		479		408		-14.82%
+Bandera		857		829		-3.27%
+Bangs		1603		1540		-3.93%
+Bardwell		649		625		-3.70%
+Barry		242		220		-9.09%
+Barstow		349		265		-24.07%
+Bartlett		1623		1633		0.62%
+Bartonville		1469		1725		17.43%
+Bastrop		7218		9688		34.22%
+Bay City		17614		18061		2.54%
+Bayou Vista		1537		1763		14.70%
+Bayside		325		275		-15.38%
+Baytown		71802		83701		16.57%
+Bayview		383		475		24.02%
+Beach City		2198		3221		46.54%
+Bear Creek		382		397		3.93%
+Beasley		641		608		-5.15%
+Beaumont		118296		115282		-2.55%
+Beckville		847		722		-14.76%
+Bedford		46979		49928		6.28%
+Bedias		443		361		-18.51%
+Bee Cave		3925		9144		132.97%
+Beeville		12863		13669		6.27%
+Bellaire		16855		17202		2.06%
+Bellevue		362		289		-20.17%
+Bellmead		9901		10494		5.99%
+Bells		1392		1521		9.27%
+Bellville		4097		4206		2.66%
+Belton		18216		23054		26.56%
+Benavides		1362		1183		-13.14%
+Benbrook		21234		24520		15.48%
+Benjamin		258		196		-24.03%
+Berryville		975		824		-15.49%
+Bertram		1353		1616		19.44%
+Beverly Hills		1995		1878		-5.86%
+Bevil Oaks		1274		1089		-14.52%
+Big Lake		2936		2965		0.99%
+Big Sandy		1343		1231		-8.34%
+Big Spring		27282		26144		-4.17%
+Big Wells		697		483		-30.70%
+Bishop		3134		3174		1.28%
+Bishop Hills		193		211		9.33%
+Blackwell		311		258		-17.04%
+Blanco		1739		1682		-3.28%
+Blanket		390		369		-5.38%
+Bloomburg		404		321		-20.54%
+Blooming Grove		821		857		4.38%
+Blossom		1494		1402		-6.16%
+Blue Mound		2394		2393		-0.04%
+Blue Ridge		822		1180		43.55%
+Blum		444		383		-13.74%
+Boerne		10471		17850		70.47%
+Bogata		1153		1074		-6.85%
+Bonham		10127		10408		2.77%
+Bonney		310		180		-41.94%
+Booker		1516		1437		-5.21%
+Borger		13251		12551		-5.28%
+Bovina		1868		1699		-9.05%
+Bowie		5218		5448		4.41%
+Boyd		1207		1416		17.32%
+Brackettville		1688		1341		-20.56%
+Brady		5528		5118		-7.42%
+Brazoria		3019		2866		-5.07%
+Brazos Bend		305		380		24.59%
+Brazos Country		469		514		9.59%
+Breckenridge		5780		5187		-10.26%
+Bremond		929		858		-7.64%
+Brenham		15716		17369		10.52%
+Briarcliff		1438		2062		43.39%
+Briaroaks		492		507		3.05%
+Bridge City		7840		9546		21.76%
+Bridgeport		5976		5923		-0.89%
+Broaddus		207		184		-11.11%
+Bronte		999		933		-6.61%
+Brookshire		4702		5066		7.74%
+Brookside Village		1523		1548		1.64%
+Browndell		197		160		-18.78%
+Brownfield		9657		8936		-7.47%
+Brownsboro		1039		1212		16.65%
+Brownsville		175023		186738		6.69%
+Brownwood		19288		18862		-2.21%
+Bruceville-Eddy		1475		1413		-4.20%
+Bryan		76201		83980		10.21%
+Bryson		539		430		-20.22%
+Buckholts		515		365		-29.13%
+Buda		7295		15108		107.10%
+Buffalo		1856		1767		-4.80%
+Buffalo Gap		464		543		17.03%
+Buffalo Springs		453		468		3.31%
+Bullard		2463		3318		34.71%
+Bulverde		4630		5692		22.94%
+Bunker Hill Village		3633		3822		5.20%
+Burkburnett		10811		10939		1.18%
+Burke		737		691		-6.24%
+Burleson		36690		47641		29.85%
+Burnet		5987		6436		7.50%
+Burton		300		297		-1.00%
+Byers		496		454		-8.47%
+Bynum		199		171		-14.07%
+Cactus		3179		3057		-3.84%
+Caddo Mills		1338		1495		11.73%
+Caldwell		4104		3993		-2.70%
+Callisburg		353		321		-9.07%
+Calvert		1192		962		-19.30%
+Cameron		5552		5306		-4.43%
+Campbell		638		542		-15.05%
+Camp Wood		706		517		-26.77%
+Canadian		2649		2339		-11.70%
+Caney City		217		187		-13.82%
+Canton		3581		4229		18.10%
+Canyon		13303		14836		11.52%
+Carbon		272		281		3.31%
+Carl's Corner		173		201		16.18%
+Carmine		250		244		-2.40%
+Carrizo Springs		5368		4892		-8.87%
+Carrollton		119097		133434		12.04%
+Carthage		6779		6569		-3.10%
+Cashion Community		348		286		-17.82%
+Castle Hills		4116		3978		-3.35%
+Castroville		2680		2954		10.22%
+Cedar Hill		45028		49148		9.15%
+Cedar Park		48937		77595		58.56%
+Celeste		814		809		-0.61%
+Celina		6028		16739		177.69%
+Center		5193		5221		0.54%
+Centerville		892		905		1.46%
+Chandler		2734		3275		19.79%
+Channing		363		281		-22.59%
+Charlotte		1715		1524		-11.14%
+Chester		312		270		-13.46%
+Chico		1002		946		-5.59%
+Childress		6105		5737		-6.03%
+Chillicothe		707		549		-22.35%
+China		1160		1260		8.62%
+China Grove		1179		1141		-3.22%
+Chireno		386		370		-4.15%
+Christine		390		337		-13.59%
+Cibolo		15349		32276		110.28%
+Cisco		3899		3883		-0.41%
+Clarendon		2026		1877		-7.35%
+Clarksville		3285		2857		-13.03%
+Clarksville City		865		780		-9.83%
+Claude		1196		1186		-0.84%
+Clear Lake Shores		1063		1258		18.34%
+Cleburne		29337		31352		6.87%
+Cleveland		7675		7471		-2.66%
+Clifton		3442		3465		0.67%
+Clint		926		923		-0.32%
+Clute		11211		10604		-5.41%
+Clyde		3713		3811		2.64%
+Coahoma		817		945		15.67%
+Cockrell Hill		4193		3815		-9.02%
+Coffee City		278		249		-10.43%
+Coldspring		853		819		-3.99%
+Coleman		4709		3912		-16.93%
+College Station		93857		120511		28.40%
+Colleyville		22807		26057		14.25%
+Collinsville		1624		1866		14.90%
+Colmesneil		596		542		-9.06%
+Colorado City		4146		3991		-3.74%
+Columbus		3655		3699		1.20%
+Comanche		4335		4211		-2.86%
+Combes		2895		2999		3.59%
+Combine		1942		2245		15.60%
+Commerce		8078		9090		12.53%
+Como		702		728		3.70%
+Conroe		56207		89956		60.04%
+Converse		18198		27466		50.93%
+Cool		157		211		34.39%
+Coolidge		955		778		-18.53%
+Cooper		1969		1911		-2.95%
+Coppell		38659		42983		11.18%
+Copperas Cove		32032		36670		14.48%
+Copper Canyon		1334		1731		29.76%
+Corinth		19935		22634		13.54%
+Corpus Christi		305215		317863		4.14%
+Corrigan		1595		1477		-7.40%
+Corsicana		23770		25109		5.63%
+Cottonwood		185		181		-2.16%
+Cottonwood Shores		1123		1403		24.93%
+Cotulla		3603		3718		3.19%
+Coupland				289		#DIV/0!
+Cove		510		525		2.94%
+Covington		269		261		-2.97%
+Coyote Flats				345		#DIV/0!
+Crandall		2858		3860		35.06%
+Crane		3353		4675		39.43%
+Cranfills Gap		281		277		-1.42%
+Crawford		717		887		23.71%
+Creedmoor		202		458		126.73%
+Cresson		741		1349		82.05%
+Crockett		6950		6332		-8.89%
+Crosbyton		1741		1492		-14.30%
+Cross Plains		982		899		-8.45%
+Cross Roads		1563		1744		11.58%
+Cross Timber		268		362		35.07%
+Crowell		948		769		-18.88%
+Crowley		12838		18070		40.75%
+Crystal City		7138		6354		-10.98%
+Cuero		6841		8128		18.81%
+Cumby		777		679		-12.61%
+Cuney		140		116		-17.14%
+Cushing		612		557		-8.99%
+Cut and Shoot		1070		1087		1.59%
+Daingerfield		2560		2522		-1.48%
+Daisetta		966		923		-4.45%
+Dalhart		7930		8447		6.52%
+Dallas		1197816		1304379		8.90%
+Dalworthington Gardens		2259		2293		1.51%
+Danbury		1715		1671		-2.57%
+Darrouzett		350		309		-11.71%
+Dawson		807		815		0.99%
+Dayton		7242		8777		21.20%
+Dayton Lakes		93		45		-51.61%
+Dean		493		488		-1.01%
+Decatur		6042		6538		8.21%
+DeCordova		2683		3007		12.08%
+Deer Park		32010		34495		7.76%
+De Kalb		1699		1527		-10.12%
+De Leon		2246		2258		0.53%
+Dell City		365		245		-32.88%
+Del Rio		35591		34673		-2.58%
+Denison		22682		24479		7.92%
+Denton		113383		139869		23.36%
+Denver City		4479		4470		-0.20%
+Deport		578		550		-4.84%
+DeSoto		49047		56145		14.47%
+Detroit		732		704		-3.83%
+Devers		447		361		-19.24%
+Devine		4350		4324		-0.60%
+Diboll		4776		4457		-6.68%
+Dickens		286		219		-23.43%
+Dickinson		18680		20847		11.60%
+Dilley		3894		3274		-15.92%
+Dimmitt		4393		4171		-5.05%
+DISH		201		437		117.41%
+Dodd City		369		369		0.00%
+Dodson		109		93		-14.68%
+Domino		93		71		-23.66%
+Donna		15798		16797		6.32%
+Dorchester		148		69		-53.38%
+Double Oak		2867		3054		6.52%
+Douglassville		229		211		-7.86%
+Draper		27		33		22.22%
+Dripping Springs		1788		4650		160.07%
+Driscoll		739		680		-7.98%
+Dublin		3654		3359		-8.07%
+Dumas		14691		14501		-1.29%
+Duncanville		38524		40706		5.66%
+Eagle Lake		3639		3442		-5.41%
+Eagle Pass		26248		28130		7.17%
+Early		2762		3087		11.77%
+Earth		1065		901		-15.40%
+East Bernard		2272		2218		-2.38%
+Eastland		3960		3609		-8.86%
+East Mountain		797		899		12.80%
+Easton		510		499		-2.16%
+East Tawakoni		883		824		-6.68%
+Ector		695		737		6.04%
+Edcouch		3161		2732		-13.57%
+Eden		2766		1100		-60.23%
+Edgecliff Village		2776		3788		36.46%
+Edgewood		1441		1530		6.18%
+Edinburg		77100		100243		30.02%
+Edmonson		111		86		-22.52%
+Edna		5499		5987		8.87%
+Edom		375		339		-9.60%
+El Campo		11602		12350		6.45%
+El Cenizo		3273		2540		-22.40%
+Eldorado		1951		1574		-19.32%
+Electra		2791		2292		-17.88%
+Elgin		8135		9784		20.27%
+Elkhart		1371		1287		-6.13%
+El Lago		2706		3090		14.19%
+Elmendorf		1488		1862		25.13%
+El Paso		649121		678815		4.57%
+Elsa		5660		5668		0.14%
+Emhouse		133		187		40.60%
+Emory		1239		1251		0.97%
+Enchanted Oaks		326		347		6.44%
+Encinal		559		540		-3.40%
+Ennis		18513		20159		8.89%
+Escobares		1188		2588		117.85%
+Estelline		145		121		-16.55%
+Euless		51277		61032		19.02%
+Eureka		307		313		1.95%
+Eustace		991		1137		14.73%
+Evant		426		455		6.81%
+Everman		6108		6154		0.75%
+Fairchilds		763		864		13.24%
+Fairfield		2951		2850		-3.42%
+Fair Oaks Ranch		5986		9833		64.27%
+Fairview		7248		10372		43.10%
+Falfurrias		4981		4609		-7.47%
+Falls City		611		514		-15.88%
+Farmers Branch		28616		35991		25.77%
+Farmersville		3301		10397		214.97%
+Farwell		1363		1425		4.55%
+Fate		6357		17958		182.49%
+Fayetteville		258		246		-4.65%
+Ferris		2436		2788		14.45%
+Flatonia		1383		1308		-5.42%
+Florence		1136		1171		3.08%
+Floresville		6448		7203		11.71%
+Flower Mound		64669		75956		17.45%
+Floydada		3038		2675		-11.95%
+Follett		459		373		-18.74%
+Forest Hill		12355		13955		12.95%
+Forney		14661		23455		59.98%
+Forsan		210		225		7.14%
+Fort Stockton		8283		8466		2.21%
+Fort Worth		741206		918915		23.98%
+Franklin		1564		1614		3.20%
+Frankston		1229		1126		-8.38%
+Fredericksburg		10530		10875		3.28%
+Freeport		12049		10696		-11.23%
+Freer		2818		2461		-12.67%
+Friendswood		35805		41213		15.10%
+Friona		4123		4171		1.16%
+Frisco		116989		200509		71.39%
+Fritch		2117		1859		-12.19%
+Frost		643		620		-3.58%
+Fruitvale		408		476		16.67%
+Fulshear		1134		16856		1386.42%
+Fulton		1358		1523		12.15%
+Gainesville		16002		16886		5.52%
+Galena Park		10887		10757		-1.19%
+Gallatin		419		434		3.58%
+Galveston		47743		50446		5.66%
+Ganado		2003		2055		2.60%
+Garden Ridge		3259		4130		26.73%
+Garland		226876		239928		5.75%
+Garrett		806		892		10.67%
+Garrison		895		873		-2.46%
+Gary City		311		300		-3.54%
+Gatesville		15751		12401		-21.27%
+Georgetown		47400		79604		67.94%
+George West		2445		2562		4.79%
+Gholson		1061		1118		5.37%
+Giddings		4881		5099		4.47%
+Gilmer		4905		5143		4.85%
+Gladewater		6441		6341		-1.55%
+Glenn Heights		11278		13377		18.61%
+Glen Rose		2444		2699		10.43%
+Godley		1009		1373		36.08%
+Goldsmith		257		294		14.40%
+Goldthwaite		1878		1833		-2.40%
+Goliad		1908		2004		5.03%
+Golinda		559		589		5.37%
+Gonzales		7237		7533		4.09%
+Goodlow		200		198		-1.00%
+Goodrich		271		323		19.19%
+Gordon		478		486		1.67%
+Goree		203		203		0.00%
+Gorman		1083		1035		-4.43%
+Graford		584		627		7.36%
+Graham		8903		8622		-3.16%
+Granbury		7978		10730		34.49%
+Grandfalls		360		403		11.94%
+Grand Prairie		175396		194543		10.92%
+Grand Saline		3136		3173		1.18%
+Grandview		1561		1798		15.18%
+Granger		1419		1505		6.06%
+Granite Shoals		4910		5087		3.60%
+Granjeno		293		315		7.51%
+Grapeland		1489		1443		-3.09%
+Grapevine		46334		55281		19.31%
+Grays Prairie		337		372		10.39%
+Greenville		25557		28827		12.79%
+Gregory		1907		1886		-1.10%
+Grey Forest		483		564		16.77%
+Groesbeck		4328		4253		-1.73%
+Groom		574		550		-4.18%
+Groves		16144		15480		-4.11%
+Groveton		1057		1023		-3.22%
+Gruver		1194		1135		-4.94%
+Gun Barrel City		5672		6208		9.45%
+Gunter		1498		1675		11.82%
+Gustine		476		468		-1.68%
+Hackberry		968		1077		11.26%
+Hale Center		2252		2054		-8.79%
+Hallettsville		2550		2637		3.41%
+Hallsburg		507		468		-7.69%
+Hallsville		3577		4296		20.10%
+Haltom City		42409		43874		3.45%
+Hamilton		3095		3012		-2.68%
+Hamlin		2124		2021		-4.85%
+Happy		678		668		-1.47%
+Hardin		819		935		14.16%
+Harker Heights		26700		32421		21.43%
+Harlingen		64849		65022		0.27%
+Hart		1114		1020		-8.44%
+Haskell		3322		3153		-5.09%
+Haslet		1517		1923		26.76%
+Hawk Cove		483		557		15.32%
+Hawkins		1278		1321		3.36%
+Hawley		634		623		-1.74%
+Hays		217		269		23.96%
+Hearne		4459		4354		-2.35%
+Heath		6921		9331		34.82%
+Hebron		415		215		-48.19%
+Hedley		329		289		-12.16%
+Hedwig Village		2557		2634		3.01%
+Helotes		7341		9961		35.69%
+Hemphill		1198		1244		3.84%
+Hempstead		5770		8355		44.80%
+Henderson		13712		13154		-4.07%
+Henrietta		3141		3118		-0.73%
+Hereford		15370		14622		-4.87%
+Hewitt		13549		14937		10.24%
+Hickory Creek		3247		4795		47.67%
+Hico		1379		1413		2.47%
+Hidalgo		11198		14183		26.66%
+Hideaway		3083		3174		2.95%
+Higgins		397		391		-1.51%
+Highland Haven		431		443		2.78%
+Highland Park		8564		9083		6.06%
+Highland Village		15056		16668		10.71%
+Hill Country Village		985		1114		13.10%
+Hillcrest		730		712		-2.47%
+Hillsboro		8456		8476		0.24%
+Hilshire Village		746		808		8.31%
+Hitchcock		6961		7914		13.69%
+Holiday Lakes		1107		1250		12.92%
+Holland		1121		1171		4.46%
+Holliday		1758		1670		-5.01%
+Hollywood Park		3062		3342		9.14%
+Hondo		8803		9436		7.19%
+Honey Grove		1668		1737		4.14%
+Hooks		2769		2712		-2.06%
+Horizon City		16735		19642		17.37%
+Horseshoe Bay		3418		4024		17.73%
+Houston		2099451		2320268		10.52%
+Howardwick		402		393		-2.24%
+Howe		2600		3346		28.69%
+Hubbard		1423		1406		-1.19%
+Hudson		4731		5005		5.79%
+Hudson Oaks		1662		2479		49.16%
+Hughes Springs		1760		1709		-2.90%
+Humble		15133		15824		4.57%
+Hunters Creek Village		4367		4869		11.50%
+Huntington		2118		2111		-0.33%
+Huntsville		38548		42241		9.58%
+Hurst		37337		38655		3.53%
+Hutchins		5338		5866		9.89%
+Hutto		14698		27947		90.14%
+Huxley		385		382		-0.78%
+Idalou		2250		2308		2.58%
+Impact		35		30		-14.29%
+Indian Lake		640		854		33.44%
+Industry		304		325		6.91%
+Ingleside		9387		10192		8.58%
+Ingleside on the Bay		615		607		-1.30%
+Ingram		1804		1850		2.55%
+Iola		401		424		5.74%
+Iowa Colony		1170		3233		176.32%
+Iowa Park		6355		6339		-0.25%
+Iraan		1229		1222		-0.57%
+Iredell		339		342		0.88%
+Irving		216290		239798		10.87%
+Italy		1863		1923		3.22%
+Itasca		1644		1733		5.41%
+Ivanhoe		887		1436		61.89%
+Jacinto City		10553		10466		-0.82%
+Jacksboro		4511		4384		-2.82%
+Jacksonville		14544		14815		1.86%
+Jamaica Beach		983		1079		9.77%
+Jarrell		984		1832		86.18%
+Jasper		7590		7551		-0.51%
+Jayton		534		502		-5.99%
+Jefferson		2106		1915		-9.07%
+Jersey Village		7620		7890		3.54%
+Jewett		1167		1220		4.54%
+Joaquin		824		805		-2.31%
+Johnson City		1656		2131		28.68%
+Jolly		172		163		-5.23%
+Jones Creek		2020		2077		2.82%
+Jonestown		1834		2105		14.78%
+Josephine		812		2094		157.88%
+Joshua		5910		8101		37.07%
+Jourdanton		3871		4405		13.79%
+Junction		2574		2404		-6.60%
+Justin		3246		4279		31.82%
+Karnes City		3042		3383		11.21%
+Katy		14102		21729		54.08%
+Kaufman		6703		7788		16.19%
+Keene		6106		6568		7.57%
+Keller		39627		47213		19.14%
+Kemah		1773		2019		13.87%
+Kemp		1154		1236		7.11%
+Kempner		1089		1140		4.68%
+Kendleton		380		454		19.47%
+Kenedy		3296		3353		1.73%
+Kenefick		563		693		23.09%
+Kennard		337		325		-3.56%
+Kennedale		6763		8645		27.83%
+Kerens		1573		1523		-3.18%
+Kermit		5708		6486		13.63%
+Kerrville		22347		23754		6.30%
+Kilgore		12975		14852		14.47%
+Killeen		127921		151666		18.56%
+Kingsbury				133		#DIV/0!
+Kingsville		26213		25315		-3.43%
+Kirby		8000		8723		9.04%
+Kirbyville		2142		2069		-3.41%
+Kirvin		129		131		1.55%
+Knollwood		226		489		116.37%
+Knox City		1130		1119		-0.97%
+Kosse		464		466		0.43%
+Kountze		2123		2108		-0.71%
+Kress		715		681		-4.76%
+Krugerville		1662		1836		10.47%
+Krum		4157		5018		20.71%
+Kurten		398		409		2.76%
+Kyle		28016		48393		72.73%
+LaCoste		1119		1247		11.44%
+Lacy-Lakeview		6489		6721		3.58%
+Ladonia		612		627		2.45%
+La Feria		7302		7230		-0.99%
+Lago Vista		6041		7556		25.08%
+La Grange		4641		4677		0.78%
+La Grulla		1622		1701		4.87%
+Laguna Vista		3117		3180		2.02%
+La Joya		3985		4293		7.73%
+Lake Bridgeport		340		399		17.35%
+Lake City		509		531		4.32%
+Lake Dallas		7105		8063		13.48%
+Lake Jackson		26849		27220		1.38%
+Lakeport		974		996		2.26%
+Lakeside		312		303		-2.88%
+Lakeside		1307		1593		21.88%
+Lakeside City		997		957		-4.01%
+Lake Tanglewood		796		886		11.31%
+Lakeview		107		95		-11.21%
+Lakeway		11391		15981		40.29%
+Lakewood Village		545		964		76.88%
+Lake Worth		4584		4896		6.81%
+La Marque		14509		17319		19.37%
+Lamesa		9422		9147		-2.92%
+Lampasas		6681		7982		19.47%
+Lancaster		36361		39228		7.88%
+La Porte		33800		34976		3.48%
+Laredo		236091		262491		11.18%
+Latexo		322		314		-2.48%
+La Vernia		1034		1428		38.10%
+La Villa		1957		2870		46.65%
+Lavon		2219		3724		67.82%
+La Ward		213		224		5.16%
+Lawn		314		321		2.23%
+League City		83560		107536		28.69%
+Leakey		425		438		3.06%
+Leander		26521		62608		136.07%
+Leary		495		502		1.41%
+Lefors		497		480		-3.42%
+Leona		175		180		2.86%
+Leonard		1990		2054		3.22%
+Leon Valley		10151		12306		21.23%
+Leroy		337		346		2.67%
+Levelland		13542		13502		-0.30%
+Lewisville		95290		109212		14.61%
+Lexington		1177		1222		3.82%
+Liberty		8397		9314		10.92%
+Liberty Hill		967		2931		203.10%
+Lincoln Park		308		558		81.17%
+Lindale		4818		6464		34.16%
+Linden		1988		1915		-3.67%
+Lindsay		1018		1149		12.87%
+Lipan		430		488		13.49%
+Little Elm		25898		53126		105.14%
+Littlefield		6372		5843		-8.30%
+Little River-Academy		1961		2038		3.93%
+Live Oak		13131		16499		25.65%
+Liverpool		482		551		14.32%
+Livingston		5335		5242		-1.74%
+Llano		3232		3497		8.20%
+Lockhart		12698		14133		11.30%
+Lockney		1842		1631		-11.45%
+Log Cabin		714		772		8.12%
+Lometa		856		861		0.58%
+Lone Oak		598		692		15.72%
+Lone Star		1581		1482		-6.26%
+Longview		80455		81631		1.46%
+Loraine		602		564		-6.31%
+Lorena		1691		1755		3.78%
+Lorenzo		1147		1138		-0.78%
+Los Fresnos		5542		7837		41.41%
+Los Indios		1083		1060		-2.12%
+Los Ybanez		19		19		0.00%
+Lott		759		742		-2.24%
+Lovelady		649		627		-3.39%
+Lowry Crossing		1711		1727		0.94%
+Lubbock		229573		258862		12.76%
+Lucas		5166		8553		65.56%
+Lueders		346		333		-3.76%
+Lufkin		35067		35021		-0.13%
+Luling		5411		5869		8.46%
+Lumberton		11943		13073		9.46%
+Lyford		2611		2540		-2.72%
+Lytle		2492		3066		23.03%
+Mabank		3035		3995		31.63%
+McAllen		129877		143268		10.31%
+McCamey		1887		2060		9.17%
+McGregor		4987		5331		6.90%
+McKinney		131117		199177		51.91%
+McLean		778		744		-4.37%
+McLendon-Chisholm		1373		3455		151.64%
+Madisonville		4396		4685		6.57%
+Magnolia		1393		2093		50.25%
+Malakoff		2324		2301		-0.99%
+Malone		269		283		5.20%
+Manor		5037		13866		175.28%
+Mansfield		56368		72419		28.48%
+Manvel		5179		12671		144.66%
+Marble Falls		6077		7038		15.81%
+Marfa		1981		1625		-17.97%
+Marietta		134		129		-3.73%
+Marion		1066		1241		16.42%
+Marlin		5967		5581		-6.47%
+Marquez		263		274		4.18%
+Marshall		23523		22831		-2.94%
+Mart		2209		1963		-11.14%
+Martindale		1116		1231		10.30%
+Mason		2114		2305		9.04%
+Matador		607		611		0.66%
+Mathis		4942		4715		-4.59%
+Maud		1056		1042		-1.33%
+Maypearl		934		1032		10.49%
+Meadow		593		585		-1.35%
+Meadowlakes		1777		1703		-4.16%
+Meadows Place		4660		4591		-1.48%
+Megargel		203		188		-7.39%
+Melissa		4695		12117		158.08%
+Melvin		178		168		-5.62%
+Memphis		2290		2012		-12.14%
+Menard		1471		1404		-4.55%
+Mercedes		15570		16604		6.64%
+Meridian		1493		1515		1.47%
+Merkel		2590		2617		1.04%
+Mertens		125		128		2.40%
+Mertzon		781		743		-4.87%
+Mesquite		139824		140937		0.80%
+Mexia		7459		7344		-1.54%
+Miami		597		550		-7.87%
+Midland		111147		146038		31.39%
+Midlothian		18037		33532		85.91%
+Midway		228		236		3.51%
+Milano		428		421		-1.64%
+Mildred		368		392		6.52%
+Miles		829		872		5.19%
+Milford		728		747		2.61%
+Miller's Cove		149		160		7.38%
+Millican		240		243		1.25%
+Millsap		403		461		14.39%
+Mineola		4515		4766		5.56%
+Mineral Wells		16788		15213		-9.38%
+Mingus		235		257		9.36%
+Mission		77058		84331		9.44%
+Missouri City		67358		75457		12.02%
+Mobeetie		101		95		-5.94%
+Mobile City		188		210		11.70%
+Monahans		6953		7816		12.41%
+Mont Belvieu		3835		6574		71.42%
+Montgomery		621		1360		119.00%
+Moody		1371		1420		3.57%
+Moore Station		201		220		9.45%
+Moran		270		260		-3.70%
+Morgan		490		519		5.92%
+Morgan's Point		339		342		0.88%
+Morgan's Point Resort		4170		4685		12.35%
+Morton		2006		1813		-9.62%
+Moulton		886		899		1.47%
+Mountain City		648		810		25.00%
+Mount Calm		320		339		5.94%
+Mount Enterprise		447		436		-2.46%
+Mount Pleasant		15564		15978		2.66%
+Mount Vernon		2662		2738		2.85%
+Muenster		1544		1645		6.54%
+Muleshoe		5158		5019		-2.69%
+Mullin		179		176		-1.68%
+Munday		1300		1275		-1.92%
+Murchison		594		599		0.84%
+Murphy		17708		20500		15.77%
+Mustang		21		21		0.00%
+Mustang Ridge		861		981		13.94%
+Nacogdoches		32996		32877		-0.36%
+Naples		1378		1313		-4.72%
+Nash		2960		3827		29.29%
+Nassau Bay		4002		3972		-0.75%
+Natalia		1431		1590		11.11%
+Navarro		210		220		4.76%
+Navasota		7049		7998		13.46%
+Nazareth		311		291		-6.43%
+Nederland		17547		17371		-1.00%
+Needville		2823		3103		9.92%
+Nevada		822		1257		52.92%
+Newark		1005		1232		22.59%
+New Berlin		511		624		22.11%
+New Boston		4550		4609		1.30%
+New Braunfels		57740		90209		56.23%
+Newcastle		585		573		-2.05%
+New Chapel Hill		594		646		8.75%
+New Deal		794		827		4.16%
+New Fairview		1258		1544		22.73%
+New Home		334		363		8.68%
+New Hope		614		628		2.28%
+New London		998		1014		1.60%
+New Summerfield		1111		1170		5.31%
+Newton		2478		2370		-4.36%
+New Waverly		1032		1071		3.78%
+Neylandville		97		97		0.00%
+Niederwald		565		599		6.02%
+Nixon		2385		2542		6.58%
+Nocona		3033		3002		-1.02%
+Nolanville		4259		5879		38.04%
+Nome		588		595		1.19%
+Noonday		777		722		-7.08%
+Nordheim		307		303		-1.30%
+Normangee		685		706		3.07%
+North Cleveland		247		298		20.65%
+Northlake		1724		3348		94.20%
+North Richland Hills		63343		70670		11.57%
+Novice		139		128		-7.91%
+Oak Grove		603		669		10.95%
+Oak Leaf		1298		1484		14.33%
+Oak Point		2786		5762		106.82%
+Oak Ridge		141		242		71.63%
+Oak Ridge		495		742		49.90%
+Oak Ridge North		3049		3161		3.67%
+Oak Valley		368		421		14.40%
+Oakwood		510		515		0.98%
+O'Brien		106		102		-3.77%
+Odem		2389		2360		-1.21%
+Odessa		99940		123334		23.41%
+O'Donnell		831		837		0.72%
+Oglesby		484		465		-3.93%
+Old River-Winfree		1245		1467		17.83%
+Olmos Park		2237		2466		10.24%
+Olney		3285		3099		-5.66%
+Olton		2215		2060		-7.00%
+Omaha		1021		980		-4.02%
+Onalaska		1764		2967		68.20%
+Opdyke West		174		194		11.49%
+Orange		18595		18118		-2.57%
+Orange Grove		1318		1302		-1.21%
+Orchard		352		407		15.63%
+Ore City		1144		1228		7.34%
+Overton		2554		2503		-2.00%
+Ovilla		3492		4167		19.33%
+Oyster Creek		1111		1193		7.38%
+Paducah		1186		1094		-7.76%
+Paint Rock		273		296		8.42%
+Palacios		4718		4535		-3.88%
+Palestine		18712		17730		-5.25%
+Palisades		325		353		8.62%
+Palmer		2000		2123		6.15%
+Palmhurst		2607		2732		4.79%
+Palm Valley		1304		1240		-4.91%
+Palmview		5460		5774		5.75%
+Pampa		17994		17068		-5.15%
+Panhandle		2452		2312		-5.71%
+Panorama Village		2170		2424		11.71%
+Pantego		2394		2519		5.22%
+Paradise		441		561		27.21%
+Paris		25171		24847		-1.29%
+Parker		3811		5177		35.84%
+Pasadena		149043		151227		1.47%
+Pattison		472		620		31.36%
+Patton Village		1557		2157		38.54%
+Payne Springs		767		769		0.26%
+Pearland		91252		122460		34.20%
+Pearsall		9146		10609		16.00%
+Pecan Gap		203		197		-2.96%
+Pecan Hill		626		694		10.86%
+Pecos		8780		10461		19.15%
+Pelican Bay		1547		2005		29.61%
+Penelope		198		207		4.55%
+Pe�itas		4403		4716		7.11%
+Perryton		8802		8512		-3.29%
+Petersburg		1202		1132		-5.82%
+Petrolia		686		670		-2.33%
+Petronila		113		120		6.19%
+Pflugerville		46936		65380		39.30%
+Pharr		70400		79112		12.38%
+Pilot Point		3856		4525		17.35%
+Pine Forest		487		519		6.57%
+Pinehurst		2097		1976		-5.77%
+Pine Island		988		1159		17.31%
+Pineland		850		800		-5.88%
+Piney Point Village		3125		3444		10.21%
+Pittsburg		4497		4697		4.45%
+Plains		1481		1655		11.75%
+Plainview		22194		20143		-9.24%
+Plano		259841		287677		10.71%
+Plantersville				594		#DIV/0!
+Pleak		1044		1675		60.44%
+Pleasanton		8934		10855		21.50%
+Pleasant Valley		336		330		-1.79%
+Plum Grove		600		726		21.00%
+Point		820		926		12.93%
+Point Blank		688		752		9.30%
+Point Comfort		737		677		-8.14%
+Point Venture		800		1033		29.13%
+Ponder		1395		2369		69.82%
+Port Aransas		3480		4266		22.59%
+Port Arthur		53818		54280		0.86%
+Port Isabel		5006		6256		24.97%
+Portland		15099		17268		14.37%
+Port Lavaca		12248		11854		-3.22%
+Port Neches		13040		12655		-2.95%
+Post		5376		5115		-4.85%
+Post Oak Bend City		595		587		-1.34%
+Poteet		3260		3507		7.58%
+Poth		1908		2284		19.71%
+Pottsboro		2160		2489		15.23%
+Powell		136		146		7.35%
+Poynor		305		306		0.33%
+Prairie View		5576		6953		24.70%
+Premont		2653		2543		-4.15%
+Presidio		4426		3894		-12.02%
+Primera		4070		5130		26.04%
+Princeton		6807		13894		104.11%
+Progreso		5507		5944		7.94%
+Progreso Lakes		240		291		21.25%
+Prosper		9423		24579		160.84%
+Providence Village				7377		#DIV/0!
+Putnam		94		93		-1.06%
+Pyote		114		132		15.79%
+Quanah		2641		2487		-5.83%
+Queen City		1476		1436		-2.71%
+Quinlan		1394		1524		9.33%
+Quintana		56		94		67.86%
+Quitaque		411		389		-5.35%
+Quitman		1809		1849		2.21%
+Ralls		1944		1806		-7.10%
+Rancho Viejo		2437		2460		0.94%
+Ranger		2468		2469		0.04%
+Rankin		778		851		9.38%
+Ransom Canyon		1096		1124		2.55%
+Ravenna		209		225		7.66%
+Raymondville		11284		10880		-3.58%
+Red Lick		1008		1010		0.20%
+Red Oak		10769		13464		25.03%
+Redwater		1057		1101		4.16%
+Refugio		2890		2734		-5.40%
+Reklaw		379		395		4.22%
+Reno		3166		3346		5.69%
+Reno		2494		3204		28.47%
+Retreat		377		384		1.86%
+Rhome		1522		1845		21.22%
+Rice		923		974		5.53%
+Richardson		99223		121323		22.27%
+Richland		264		273		3.41%
+Richland Hills		7801		7953		1.95%
+Richland Springs		338		309		-8.58%
+Richmond		11679		12578		7.70%
+Richwood		3510		3988		13.62%
+Riesel		1007		1037		2.98%
+Rio Bravo		4794		4634		-3.34%
+Rio Grande City		13834		14511		4.89%
+Rio Hondo		2356		2707		14.90%
+Rio Vista		873		1075		23.14%
+Rising Star		835		821		-1.68%
+River Oaks		7427		7630		2.73%
+Riverside		510		549		7.65%
+Roanoke		5962		9388		57.46%
+Roaring Springs		234		231		-1.28%
+Robert Lee		1049		1048		-0.10%
+Robinson		10509		11926		13.48%
+Robstown		11487		11261		-1.97%
+Roby		643		619		-3.73%
+Rochester		324		307		-5.25%
+Rockdale		5595		5503		-1.64%
+Rockport		8766		10604		20.97%
+Rocksprings		1182		1135		-3.98%
+Rockwall		37490		45888		22.40%
+Rocky Mound		75		75		0.00%
+Rogers		1218		1252		2.79%
+Rollingwood		1412		1585		12.25%
+Roma		9765		11490		17.67%
+Roman Forest		1538		2006		30.43%
+Ropesville		434		427		-1.61%
+Roscoe		1322		1285		-2.80%
+Rosebud		1412		1349		-4.46%
+Rose City		502		484		-3.59%
+Rose Hill Acres		441		436		-1.13%
+Rosenberg		30618		38307		25.11%
+Ross		283		284		0.35%
+Rosser		332		400		20.48%
+Rotan		1508		1438		-4.64%
+Round Mountain		181		169		-6.63%
+Round Rock		99887		133372		33.52%
+Round Top		90		90		0.00%
+Rowlett		56199		67339		19.82%
+Roxton		650		639		-1.69%
+Royse City		9349		14702		57.26%
+Rule		636		599		-5.82%
+Runaway Bay		1286		1576		22.55%
+Runge		1031		1138		10.38%
+Rusk		5551		5602		0.92%
+Sabinal		1695		1673		-1.30%
+Sachse		20329		26046		28.12%
+Sadler		343		383		11.66%
+Saginaw		19806		24310		22.74%
+St. Hedwig		2094		2488		18.82%
+St. Jo		1043		1030		-1.25%
+St. Paul		1066		1051		-1.41%
+Salado		2126		2370		11.48%
+San Angelo		93200		101004		8.37%
+San Antonio		1327407		1547253		16.56%
+San Augustine		2108		1888		-10.44%
+San Benito		24250		24243		-0.03%
+Sanctuary		329		321		-2.43%
+San Diego		4488		4221		-5.95%
+Sandy Oaks				4660		#DIV/0!
+Sandy Point				236		#DIV/0!
+San Elizario				9089		#DIV/0!
+San Felipe		747		825		10.44%
+Sanford		164		156		-4.88%
+Sanger		6916		8732		26.26%
+San Juan		33856		37008		9.31%
+San Leanna		497		507		2.01%
+San Marcos		44894		64776		44.29%
+San Patricio		395		375		-5.06%
+San Perlita		573		556		-2.97%
+San Saba		3099		3168		2.23%
+Sansom Park		4686		5748		22.66%
+Santa Anna		1099		1007		-8.37%
+Santa Clara		725		751		3.59%
+Santa Fe		12222		13449		10.04%
+Santa Rosa		2873		2723		-5.22%
+Savoy		831		872		4.93%
+Schertz		31465		42042		33.62%
+Schulenburg		2852		2913		2.14%
+Scotland		501		474		-5.39%
+Scottsville		376		354		-5.85%
+Scurry		681		781		14.68%
+Seabrook		11952		14149		18.38%
+Seadrift		1364		1493		9.46%
+Seagoville		14835		16861		13.66%
+Seagraves		2417		2936		21.47%
+Sealy		6019		6446		7.09%
+Seguin		25175		29992		19.13%
+Selma		5540		11132		100.94%
+Seminole		6430		7815		21.54%
+Seven Oaks		111		129		16.22%
+Seven Points		1455		1521		4.54%
+Seymour		2740		2550		-6.93%
+Shady Shores		2612		2865		9.69%
+Shallowater		2484		2574		3.62%
+Shamrock		1910		1764		-7.64%
+Shavano Park		3035		3979		31.10%
+Shenandoah		2134		2987		39.97%
+Shepherd		2319		2413		4.05%
+Sherman		38521		44002		14.23%
+Shiner		2069		2162		4.49%
+Shoreacres		1493		1593		6.70%
+Silsbee		6611		6617		0.09%
+Silverton		731		686		-6.16%
+Simonton		814		884		8.60%
+Sinton		5665		5354		-5.49%
+Skellytown		473		449		-5.07%
+Slaton		6121		5890		-3.77%
+Smiley		549		570		3.83%
+Smithville		3817		4515		18.29%
+Smyer		474		478		0.84%
+Snook		511		541		5.87%
+Snyder		11202		11023		-1.60%
+Socorro		32013		34370		7.36%
+Somerset		1631		1965		20.48%
+Somerville		1376		1465		6.47%
+Sonora		3027		2786		-7.96%
+Sour Lake		1813		1924		6.12%
+South Houston		16983		17438		2.68%
+Southlake		26575		32376		21.83%
+Southmayd		992		1137		14.62%
+South Mountain		384		365		-4.95%
+South Padre Island		2816		2778		-1.35%
+Southside Place		1715		1883		9.80%
+Spearman		3368		3256		-3.33%
+Splendora		1615		2255		39.63%
+Spofford		95		97		2.11%
+Spring Branch				254		#DIV/0!
+Springlake		108		102		-5.56%
+Springtown		2658		3190		20.02%
+Spring Valley Village		3715		4319		16.26%
+Spur		1318		1199		-9.03%
+Stafford		17693		17362		-1.87%
+Stagecoach		538		592		10.04%
+Stamford		3124		2941		-5.86%
+Stanton		2492		3000		20.39%
+Staples		267		277		3.75%
+Star Harbor		444		477		7.43%
+Stephenville		17123		21247		24.08%
+Sterling City		888		998		12.39%
+Stinnett		1881		1770		-5.90%
+Stockdale		1442		1649		14.36%
+Stratford		2017		2057		1.98%
+Strawn		653		671		2.76%
+Streetman		247		246		-0.40%
+Sudan		958		895		-6.58%
+Sugar Land		78817		118488		50.33%
+Sullivan City		4002		4170		4.20%
+Sulphur Springs		15449		16234		5.08%
+Sundown		1397		1425		2.00%
+Sunnyvale		5130		6841		33.35%
+Sunray		1926		1812		-5.92%
+Sunrise Beach Village		713		796		11.64%
+Sunset Valley		749		672		-10.28%
+Sun Valley		69		83		20.29%
+Surfside Beach		482		579		20.12%
+Sweeny		3684		3717		0.90%
+Sweetwater		10906		10469		-4.01%
+Taft		3048		2867		-5.94%
+Tahoka		2673		2649		-0.90%
+Talco		516		497		-3.68%
+Talty		1535		2760		79.80%
+Tatum		1385		1384		-0.07%
+Taylor		15191		17383		14.43%
+Taylor Lake Village		3544		3571		0.76%
+Taylor Landing		228		240		5.26%
+Teague		3560		3515		-1.26%
+Tehuacana		283		279		-1.41%
+Temple		66102		78439		18.66%
+Tenaha		1160		1146		-1.21%
+Terrell		15816		18869		19.30%
+Terrell Hills		4878		5447		11.66%
+Texarkana		36411		36317		-0.26%
+Texas City		45099		50094		11.08%
+Texhoma		346		323		-6.65%
+Texline		507		539		6.31%
+The Colony		36328		44438		22.32%
+The Hills		2472		2487		0.61%
+Thompsons		246		350		42.28%
+Thorndale		1336		1302		-2.54%
+Thornton		526		524		-0.38%
+Thorntonville		476		541		13.66%
+Thrall		839		977		16.45%
+Three Rivers		1848		1949		5.47%
+Throckmorton		828		761		-8.09%
+Tiki Island		968		1065		10.02%
+Timbercreek Canyon		418		471		12.68%
+Timpson		1155		1134		-1.82%
+Tioga		803		1051		30.88%
+Tira		297		313		5.39%
+Toco		75		76		1.33%
+Todd Mission		107		114		6.54%
+Tolar		681		1004		47.43%
+Tomball		10753		11778		9.53%
+Tom Bean		1045		1081		3.44%
+Tool		2240		2302		2.77%
+Toyah		90		108		20.00%
+Trent		337		349		3.56%
+Trenton		635		683		7.56%
+Trinidad		886		870		-1.81%
+Trinity		2697		2756		2.19%
+Trophy Club		8024		12451		55.17%
+Troup		1869		2044		9.36%
+Troy		1645		2016		22.55%
+Tulia		4967		4655		-6.28%
+Turkey		421		378		-10.21%
+Tuscola		742		739		-0.40%
+Tye		1242		1333		7.33%
+Tyler		96900		106985		10.41%
+Uhland		1014		1294		27.61%
+Uncertain		94		92		-2.13%
+Union Grove		357		385		7.84%
+Union Valley		307		398		29.64%
+Universal City		18530		20890		12.74%
+University Park		23068		24985		8.31%
+Uvalde		15751		16001		1.59%
+Valentine		134		133		-0.75%
+Valley Mills		1203		1180		-1.91%
+Valley View		757		845		11.62%
+Van		2632		2741		4.14%
+Van Alstyne		3046		4378		43.73%
+Van Horn		2063		1870		-9.36%
+Vega		884		924		4.52%
+Venus		2960		4368		47.57%
+Vernon		11002		10323		-6.17%
+Victoria		62592		66916		6.91%
+Vidor		10579		10403		-1.66%
+Vinton		1971		2022		2.59%
+Volente		520		599		15.19%
+Von Ormy		1085		1287		18.62%
+Waco		124805		139236		11.56%
+Waelder		1065		1133		6.38%
+Wake Village		5492		5327		-3.00%
+Waller		2326		3488		49.96%
+Wallis		1252		1303		4.07%
+Walnut Springs		827		868		4.96%
+Warren City		298		305		2.35%
+Waskom		2160		2190		1.39%
+Watauga		23497		24481		4.19%
+Waxahachie		29621		37988		28.25%
+Weatherford		25250		33547		32.86%
+Webberville		392		485		23.72%
+Webster		10400		11451		10.11%
+Weimar		2151		2226		3.49%
+Weinert		172		162		-5.81%
+Weir		450		530		17.78%
+Wellington		2189		2068		-5.53%
+Wellman		203		203		0.00%
+Wells		790		792		0.25%
+Weslaco		35670		41629		16.71%
+West		2807		2986		6.38%
+Westbrook		253		244		-3.56%
+West Columbia		3905		3830		-1.92%
+Westlake		992		1709		72.28%
+West Lake Hills		3063		3286		7.28%
+Weston		563		540		-4.09%
+Weston Lakes		2482		4003		61.28%
+West Orange		3443		3223		-6.39%
+Westover Hills		682		683		0.15%
+West Tawakoni		1576		2006		27.28%
+West University Place		14787		15585		5.40%
+Westworth Village		2472		2757		11.53%
+Wharton		8832		8637		-2.21%
+Wheeler		1592		1477		-7.22%
+White Deer		1000		955		-4.50%
+Whiteface		449		412		-8.24%
+Whitehouse		7660		8905		16.25%
+White Oak		6469		6322		-2.27%
+Whitesboro		3793		4120		8.62%
+White Settlement		16116		17851		10.77%
+Whitewright		1604		1721		7.29%
+Whitney		2087		2162		3.59%
+Wichita Falls		104553		104683		0.12%
+Wickett		498		559		12.25%
+Willis		5662		7028		24.13%
+Willow Park		3982		5842		46.71%
+Wills Point		3524		3651		3.60%
+Wilmer		3682		4772		29.60%
+Wilson		489		490		0.20%
+Wimberley		2626		3232		23.08%
+Windcrest		5364		5876		9.55%
+Windom		199		205		3.02%
+Windthorst		409		379		-7.33%
+Winfield		524		520		-0.76%
+Wink		940		1028		9.36%
+Winnsboro		3434		3299		-3.93%
+Winona		576		608		5.56%
+Winters		2562		2448		-4.45%
+Wixon Valley		254		253		-0.39%
+Wolfe City		1412		1480		4.82%
+Wolfforth		3670		5486		49.48%
+Woodbranch		1282		1441		12.40%
+Woodcreek		1457		1716		17.78%
+Woodloch		207		208		0.48%
+Woodsboro		1512		1410		-6.75%
+Woodson		264		241		-8.71%
+Woodville		2586		2428		-6.11%
+Woodway		8452		9024		6.77%
+Wortham		1073		996		-7.18%
+Wylie		41427		53067		28.10%
+Yantis		388		428		10.31%
+Yoakum		5815		5940		2.15%
+Yorktown		2092		2050		-2.01%
+Zavalla		713		710		-0.42%
